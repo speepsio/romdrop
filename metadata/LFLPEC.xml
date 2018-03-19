@@ -12897,7 +12897,7 @@
 ><table name="FFFF_24E0" address="e81b4" elements="9" scaling="950708" type="Y Axis"
 ></table
 ></table
-><table level="4" type="1D" category="Tire Size VSS Correction" swapxy="true" name="Tiresize VSS Correction | to calc new value, 1610 * 857 / New TireRPM" address="eba9a" elements="1" scaling="965274"
+><table level="4" type="1D" category="Tire Size VSS Correction (TESTING PURPOSES ONLY)" swapxy="true" name="Tiresize VSS Correction | to calc new value, 1610 * 857 / New TireRPM" address="eba9a" elements="1" scaling="965274"
 ></table
 ></rom
 ></roms

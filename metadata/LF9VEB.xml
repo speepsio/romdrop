@@ -517,6 +517,10 @@
 ></scaling
 ><scaling name="785168" units="" toexpr="x" frexpr="x" format="%0.2f" min="54" max="109" inc="1" storagetype="float" endian="big"
 ></scaling
+><scaling name="809384" units="" toexpr="x" frexpr="x" format="%0.2f" min="7200" max="7200" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="809388" units="" toexpr="x" frexpr="x" format="%0.2f" min="7200" max="7200" inc="1" storagetype="float" endian="big"
+></scaling
 ><scaling name="805880" units="" toexpr="x" frexpr="x" format="%0.2f" min="-15" max="-15" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="805884" units="" toexpr="x" frexpr="x" format="%0.2f" min="5" max="5" inc="1" storagetype="float" endian="big"
@@ -6246,6 +6250,10 @@
 ><table level="4" type="2D" category="Engine Fan Control" swapxy="true" name="After Cooling - High Speed Fan Timer" address="bfb30" elements="8" scaling="785200"
 ><table name="BARO_6DE8" address="bfb10" elements="8" scaling="785168" type="Y Axis"
 ></table
+></table
+><table level="4" type="1D" category="Engine Limiters - RPM" swapxy="true" name="Rev Limit Throttle Cut | CPP set" address="c59a8" elements="1" scaling="809384"
+></table
+><table level="4" type="1D" category="Engine Limiters - RPM" swapxy="true" name="Rev Limit Throttle Cut | CPP clear" address="c59ac" elements="1" scaling="809388"
 ></table
 ><table level="4" type="1D" category="Engine Limiters - RPM" swapxy="true" name="Rev Limit Fuel Cut - Primary Low ECT Threshold" address="c4bf8" elements="1" scaling="805880"
 ></table
