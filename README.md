@@ -11,14 +11,14 @@ Minimalist PCM flash utility for the NC Mazda MX-5 (Miata).
 * License agreement MUST remain in the same folder as the executable
 
 ### Application Files:
-romdrop_license.txt - End User License Agreement
-romdrop.exe - application executable
-metadata (folder) - All ECUFlash definitions that are currently available.
-colormaps (folder) - Preferred ECUFlash color map files
+* romdrop_license.txt - End User License Agreement
+* romdrop.exe - application executable
+* metadata (folder) - All ECUFlash definitions that are currently available.
+* colormaps (folder) - Preferred ECUFlash color map files
 
 ### Application Files (generated):
-romdrop.log - All loggable activity. If something goes awry for whatever reason, copy this log file to submit for analysis.
-candump.raw - raw binary data sniffed off the canbus
+* romdrop.log - All loggable activity. If something goes awry for whatever reason, copy this log file to submit for analysis.
+* candump.raw - raw binary data sniffed off the canbus
 
 ### Usage:
 * connect Openport into available USB slot
