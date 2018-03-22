@@ -31,8 +31,8 @@ BTW you can associate a rom's file extension (typically .bin or .hex) with romdr
 It’s advised that you do not simultaneously run applications that consume heavy resources while flashing. Doing so can impact USB speeds which can result in a failed flash. BTW, a failed flash and all it's blinking lights isn’t the end of the world... it's recoverable.
 
 ### Menu Items:
-* Clear DTCs (self explanatory)
+* Clear Diagnostic Trouble Codes - self explanatory.
 * Flash DATA block only - this is a quick flash option. Only the core data blocks of the ecu are flashed. This cuts down flash times tremendously based on generation. NC1 are ~30s, and NC2/3 are ~20s. 
 * Flash Entire ROM - if a patch has been applied to one of the rom’s routines, the changes will tend to exist in an area not touched by the “Flash Data Block Only” command.  Under these circumstances, this option exists to flash the rom in it’s entirety. There are a few instances where defined data exists outside of the core data blocks as well. In those rare cases, a full flash is recommended as well. Flash times are ~90s.
-* Read ROM from ECU - this is the first thing you should do if you’re virgin to the application. Why? You always want a backup of your original rom. Keep it safe, just in case you need to revert back to stock. Also it’s a good way to test communications between the app and your vehicle.
+* Read ROM from ECU - this is the first thing you should do if virgin to the application. Why? You'll always want a backup of your original stock rom. Also it’s a good way to test communications between the app and your vehicle.
 * Sniff CAN Communications - the app can log 2MB of raw CAN communications. This is for the true hacker types.
