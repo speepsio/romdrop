@@ -207,43 +207,43 @@
 ></scaling
 ><scaling name="844696" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="150" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="846616_N-M" units="" toexpr="x*0.1590764331" frexpr="x/0.1590764331" format="%0.2f" min="-44" max="193" inc="10" storagetype="float" endian="big"
+><scaling name="846616" units="" toexpr="x" frexpr="x" format="%0.2f" min="-278" max="1214" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="846424" units="" toexpr="x" frexpr="x" format="%0.2f" min="750" max="7500" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="846496" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="200" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="850364_N-M" units="" toexpr="x*0.1590764331" frexpr="x/0.1590764331" format="%0.2f" min="-44" max="193" inc="10" storagetype="float" endian="big"
+><scaling name="850364" units="" toexpr="x" frexpr="x" format="%0.2f" min="-278" max="1214" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="850172" units="" toexpr="x" frexpr="x" format="%0.2f" min="750" max="7500" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="850244" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="200" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="852716_N-M" units="" toexpr="x*0.1590764331" frexpr="x/0.1590764331" format="%0.2f" min="-44" max="186" inc="10" storagetype="float" endian="big"
+><scaling name="852716" units="" toexpr="x" frexpr="x" format="%0.2f" min="-278" max="1169" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="852524" units="" toexpr="x" frexpr="x" format="%0.2f" min="750" max="7500" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="852596" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="200" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="859008_N-M" units="" toexpr="x*0.1590764331" frexpr="x/0.1590764331" format="%0.2f" min="0" max="0" inc="0.01" storagetype="float" endian="big"
+><scaling name="859008" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="1" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="858880" units="" toexpr="x" frexpr="x" format="%0.2f" min="500" max="7000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="858940" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="100" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="860156_N-M" units="" toexpr="x*0.1590764331" frexpr="x/0.1590764331" format="%0.2f" min="0" max="0" inc="0.01" storagetype="float" endian="big"
+><scaling name="860156" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="1" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="860028" units="" toexpr="x" frexpr="x" format="%0.2f" min="500" max="7000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="860088" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="100" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="861304_N-M" units="" toexpr="x*0.1590764331" frexpr="x/0.1590764331" format="%0.2f" min="0" max="0" inc="0.01" storagetype="float" endian="big"
+><scaling name="861304" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="1" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="861176" units="" toexpr="x" frexpr="x" format="%0.2f" min="500" max="7000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="861236" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="100" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="862476_N-M" units="" toexpr="x*0.1590764331" frexpr="x/0.1590764331" format="%0.2f" min="-9" max="35" inc="1" storagetype="float" endian="big"
+><scaling name="862476" units="" toexpr="x" frexpr="x" format="%0.2f" min="-56" max="223" inc="10" storagetype="float" endian="big"
 ></scaling
 ><scaling name="862324" units="" toexpr="x" frexpr="x" format="%0.2f" min="500" max="7000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -6643,43 +6643,43 @@
 ><table name="APP_SCALED_A6B0" address="ce35c" elements="15" scaling="844636" type="Y Axis"
 ></table
 ></table
-><table level="4" type="3D" category="DBW - Throttle Duty Desired + Comps to Torque Request" swapxy="true" name="Torque Request - Base" address="ceb18" elements="540" scaling="846616_N-M"
+><table level="4" type="3D" category="DBW - Throttle Duty Desired + Comps to Torque Request" swapxy="true" name="Torque Request - Base (Brake Mean Effective Pressure in kpa)" address="ceb18" elements="540" scaling="846616"
 ><table name="APP_SCALED_A6B0+CORR_A6B4" address="ceaa0" elements="30" scaling="846496" type="X Axis"
 ></table
 ><table name="RPM_A838" address="cea58" elements="18" scaling="846424" type="Y Axis"
 ></table
 ></table
-><table level="4" type="3D" category="DBW - Throttle Duty Desired + Comps to Torque Request" swapxy="true" name="Torque Request - Limiter | Normal" address="cf9bc" elements="540" scaling="850364_N-M"
+><table level="4" type="3D" category="DBW - Throttle Duty Desired + Comps to Torque Request" swapxy="true" name="Torque Request - Limiter (Brake Mean Effective Pressure in kpa) | Normal" address="cf9bc" elements="540" scaling="850364"
 ><table name="APP_SCALED_A6B0+CORR_A6B4" address="cf944" elements="30" scaling="850244" type="X Axis"
 ></table
 ><table name="RPM_A838" address="cf8fc" elements="18" scaling="850172" type="Y Axis"
 ></table
 ></table
-><table level="4" type="3D" category="DBW - Throttle Duty Desired + Comps to Torque Request" swapxy="true" name="Torque Request - Limiter | Fault 71B0" address="d02ec" elements="540" scaling="852716_N-M"
+><table level="4" type="3D" category="DBW - Throttle Duty Desired + Comps to Torque Request" swapxy="true" name="Torque Request - Limiter (Brake Mean Effective Pressure in kpa) | Fault 71B0" address="d02ec" elements="540" scaling="852716"
 ><table name="APP_SCALED_A6B0+CORR_A6B4" address="d0274" elements="30" scaling="852596" type="X Axis"
 ></table
 ><table name="RPM_A838" address="d022c" elements="18" scaling="852524" type="Y Axis"
 ></table
 ></table
-><table level="2" type="3D" category="DBW - Throttle Duty Desired + Comps to Torque Request (DISABLED)" swapxy="true" name="DISABLED - Torque Request | 235 Clear, Low Det" address="d1b80" elements="255" scaling="859008_N-M"
+><table level="2" type="3D" category="DBW - Throttle Duty Desired + Comps to Torque Request (DISABLED)" swapxy="true" name="DISABLED - Torque Request | 235 Clear, Low Det" address="d1b80" elements="255" scaling="859008"
 ><table name="APP_LIMITED_A3E7C" address="d1b3c" elements="17" scaling="858940" type="X Axis"
 ></table
 ><table name="RPM_A838" address="d1b00" elements="15" scaling="858880" type="Y Axis"
 ></table
 ></table
-><table level="2" type="3D" category="DBW - Throttle Duty Desired + Comps to Torque Request (DISABLED)" swapxy="true" name="DISABLED - Torque Request | 235 Clear, High Det" address="d1ffc" elements="255" scaling="860156_N-M"
+><table level="2" type="3D" category="DBW - Throttle Duty Desired + Comps to Torque Request (DISABLED)" swapxy="true" name="DISABLED - Torque Request | 235 Clear, High Det" address="d1ffc" elements="255" scaling="860156"
 ><table name="APP_LIMITED_A3E7C" address="d1fb8" elements="17" scaling="860088" type="X Axis"
 ></table
 ><table name="RPM_A838" address="d1f7c" elements="15" scaling="860028" type="Y Axis"
 ></table
 ></table
-><table level="2" type="3D" category="DBW - Throttle Duty Desired + Comps to Torque Request (DISABLED)" swapxy="true" name="DISABLED - Torque Request | 235 Set" address="d2478" elements="255" scaling="861304_N-M"
+><table level="2" type="3D" category="DBW - Throttle Duty Desired + Comps to Torque Request (DISABLED)" swapxy="true" name="DISABLED - Torque Request | 235 Set" address="d2478" elements="255" scaling="861304"
 ><table name="APP_LIMITED_A3E7C" address="d2434" elements="17" scaling="861236" type="X Axis"
 ></table
 ><table name="RPM_A838" address="d23f8" elements="15" scaling="861176" type="Y Axis"
 ></table
 ></table
-><table level="2" type="3D" category="DBW - Throttle Duty Desired + Comps to Torque Request (DISABLED)" swapxy="true" name="DISABLED - Torque Request" address="d290c" elements="360" scaling="862476_N-M"
+><table level="2" type="3D" category="DBW - Throttle Duty Desired + Comps to Torque Request (DISABLED)" swapxy="true" name="DISABLED - Torque Request" address="d290c" elements="360" scaling="862476"
 ><table name="APP_LIMITED_A3E7C" address="d28c4" elements="18" scaling="862404" type="X Axis"
 ></table
 ><table name="RPM_A838" address="d2874" elements="20" scaling="862324" type="Y Axis"
@@ -8223,13 +8223,13 @@
 ></table
 ><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 5 Hysteresis" address="e122c" elements="1" scaling="922156"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 7" address="e12f4" elements="1" scaling="922356"
+><table level="4" type="1D" category="Fuel Comp OL/CL - MAF Thresholds WIP" swapxy="true" name="RO2S Comp Deactivation - Max MAF Threshold" address="e12f4" elements="1" scaling="922356"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 7 Hysteresis" address="e12f8" elements="1" scaling="922360"
+><table level="4" type="1D" category="Fuel Comp OL/CL - MAF Thresholds WIP" swapxy="true" name="RO2S Comp Deactivation - Max MAF Threshold Hysteresis" address="e12f8" elements="1" scaling="922360"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 6" address="e2efc" elements="1" scaling="929532"
+><table level="4" type="1D" category="Fuel Comp OL/CL - MAF Thresholds WIP" swapxy="true" name="WIP - Min MAF Threshold" address="e2efc" elements="1" scaling="929532"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 6 Hysteresis" address="e2f00" elements="1" scaling="929536"
+><table level="4" type="1D" category="Fuel Comp OL/CL - MAF Thresholds WIP" swapxy="true" name="WIP - Min MAF Threshold Hysteresis" address="e2f00" elements="1" scaling="929536"
 ></table
 ><table level="4" type="1D" category="Fuel Comp OL/CL - Control Module Fault" swapxy="true" name="Control Module Fault - Maximum Enrichment " address="4af60" elements="1" scaling="307040"
 ></table
