@@ -2865,13 +2865,13 @@
 ></scaling
 ><scaling name="1003720" units="" toexpr="x" frexpr="x" format="%0.2f" min="8" max="63" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1024020_N-M" units="" toexpr="x*0.1590764331" frexpr="x/0.1590764331" format="%0.2f" min="-44" max="193" inc="10" storagetype="float" endian="big"
+><scaling name="1024020" units="" toexpr="x" frexpr="x" format="%0.2f" min="-278" max="1214" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1023836" units="" toexpr="x" frexpr="x" format="%0.2f" min="750" max="6500" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1023900" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="200" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="1026124_N-M" units="" toexpr="x*0.1590764331" frexpr="x/0.1590764331" format="%0.2f" min="-44" max="186" inc="10" storagetype="float" endian="big"
+><scaling name="1026124" units="" toexpr="x" frexpr="x" format="%0.2f" min="-278" max="1169" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1025940" units="" toexpr="x" frexpr="x" format="%0.2f" min="750" max="6500" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -2883,7 +2883,7 @@
 ></scaling
 ><scaling name="1018608" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="150" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="1020520_N-M" units="" toexpr="x*0.1590764331" frexpr="x/0.1590764331" format="%0.2f" min="-44" max="193" inc="10" storagetype="float" endian="big"
+><scaling name="1020520" units="" toexpr="x" frexpr="x" format="%0.2f" min="-278" max="1214" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1020336" units="" toexpr="x" frexpr="x" format="%0.2f" min="750" max="6500" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -3109,7 +3109,7 @@
 ></scaling
 ><scaling name="1012616" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="50" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1014680_TQ" units="" toexpr="x" frexpr="x" format="%0.2f" min="10" max="16" inc="0.1" storagetype="float" endian="big"
+><scaling name="1014680" units="" toexpr="x" frexpr="x" format="%0.2f" min="10" max="16" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1014628" units="" toexpr="x" frexpr="x" format="%0.2f" min="500" max="6500" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -3121,37 +3121,37 @@
 ></scaling
 ><scaling name="1014420" units="" toexpr="x" frexpr="x" format="%0.2f" min="500" max="6500" inc="100" storagetype="float" endian="big"
 ></scaling
-><scaling name="1022496_N-M" units="" toexpr="x*0.1590764331" frexpr="x/0.1590764331" format="%0.2f" min="0" max="0" inc="0.01" storagetype="float" endian="big"
+><scaling name="1022496" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="0" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1022440" units="" toexpr="x" frexpr="x" format="%0.2f" min="2" max="10" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1022472" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="1" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="1022744_N-M" units="" toexpr="x*0.1590764331" frexpr="x/0.1590764331" format="%0.2f" min="-0" max="-0" inc="0.01" storagetype="float" endian="big"
+><scaling name="1022744" units="" toexpr="x" frexpr="x" format="%0.2f" min="-0" max="-0" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1022688" units="" toexpr="x" frexpr="x" format="%0.2f" min="2" max="10" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1022720" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="1" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="1022992_N-M" units="" toexpr="x*0.1590764331" frexpr="x/0.1590764331" format="%0.2f" min="-0" max="-0" inc="0.01" storagetype="float" endian="big"
+><scaling name="1022992" units="" toexpr="x" frexpr="x" format="%0.2f" min="-0" max="-0" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1022936" units="" toexpr="x" frexpr="x" format="%0.2f" min="2" max="10" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1022968" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="1" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="1023240_N-M" units="" toexpr="x*0.1590764331" frexpr="x/0.1590764331" format="%0.2f" min="-0" max="-0" inc="0.01" storagetype="float" endian="big"
+><scaling name="1023240" units="" toexpr="x" frexpr="x" format="%0.2f" min="-2" max="-1" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1023184" units="" toexpr="x" frexpr="x" format="%0.2f" min="2" max="10" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1023216" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="1" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="1023488_N-M" units="" toexpr="x*0.1590764331" frexpr="x/0.1590764331" format="%0.2f" min="0" max="0" inc="0.01" storagetype="float" endian="big"
+><scaling name="1023488" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="1" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1023432" units="" toexpr="x" frexpr="x" format="%0.2f" min="2" max="10" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1023464" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="1" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="1023724_N-M" units="" toexpr="x*0.1590764331" frexpr="x/0.1590764331" format="%0.2f" min="0" max="0" inc="0.01" storagetype="float" endian="big"
+><scaling name="1023724" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="1" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1023680" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="6" inc="0.1" storagetype="float" endian="big"
 ></scaling
@@ -5099,6 +5099,14 @@
 ></scaling
 ><scaling name="763392" units="" toexpr="x" frexpr="x" format="%0.2f" min="1" max="6" inc="0.1" storagetype="float" endian="big"
 ></scaling
+><scaling name="808180" units="" toexpr="x" frexpr="x" format="%0.2f" min="1" max="1" inc="0.01" storagetype="float" endian="big"
+></scaling
+><scaling name="808128" units="" toexpr="x" frexpr="x" format="%0.2f" min="500" max="6500" inc="100" storagetype="float" endian="big"
+></scaling
+><scaling name="808284" units="" toexpr="x" frexpr="x" format="%0.2f" min="10" max="16" inc="0.1" storagetype="float" endian="big"
+></scaling
+><scaling name="808232" units="" toexpr="x" frexpr="x" format="%0.2f" min="500" max="6500" inc="100" storagetype="float" endian="big"
+></scaling
 ><scaling name="783252" units="" toexpr="x" frexpr="x" format="%d" min="0" max="1495" inc="100" storagetype="uint16" endian="big"
 ></scaling
 ><scaling name="783224_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-20" max="40" inc="1" storagetype="float" endian="big"
@@ -5172,14 +5180,6 @@
 ><scaling name="813684" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="6" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="813712" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="3" inc="0.1" storagetype="float" endian="big"
-></scaling
-><scaling name="808180" units="" toexpr="x" frexpr="x" format="%0.2f" min="1" max="1" inc="0.01" storagetype="float" endian="big"
-></scaling
-><scaling name="808128" units="" toexpr="x" frexpr="x" format="%0.2f" min="500" max="6500" inc="100" storagetype="float" endian="big"
-></scaling
-><scaling name="808284" units="" toexpr="x" frexpr="x" format="%0.2f" min="10" max="16" inc="0.1" storagetype="float" endian="big"
-></scaling
-><scaling name="808232" units="" toexpr="x" frexpr="x" format="%0.2f" min="500" max="6500" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="812500" units="" toexpr="x" frexpr="x" format="%0.2f" min="0" max="0" inc="0.01" storagetype="float" endian="big"
 ></scaling
@@ -8299,7 +8299,7 @@
 ></table
 ><table level="4" type="1D" category="Data Integrity Thresholds - DBW Throttle Duty Target" swapxy="true" name="Checksum Fault DTC P0601 - Throttle Duty Delta Threshold | Cruise Control" address="f44b0" elements="1" scaling="1000624"
 ></table
-><table level="1" type="3D" category="Data Integrity Checks (Threshold) - DBW Requested Torque " swapxy="true" name="BYPASSED - WIP" address="f6cc0" elements="348" scaling="1010880"
+><table level="1" type="3D" category="Data Integrity Thresholds - DBW Torque Request " swapxy="true" name="BYPASSED - WIP" address="f6cc0" elements="348" scaling="1010880"
 ><table name="APP_6D1C" address="f6c4c" elements="29" scaling="1010764" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="f6c1c" elements="12" scaling="1010716" type="Y Axis"
@@ -8383,13 +8383,13 @@
 ><table name="BARO - ((IAT + 273) * A407C / 293)_6D70" address="f50c8" elements="8" scaling="1003720" type="Y Axis"
 ></table
 ></table
-><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired + Comp to Torque Request" swapxy="true" name="Torque Request - Limiter | Normal" address="fa014" elements="480" scaling="1024020_N-M"
+><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired + Comp to Torque Request" swapxy="true" name="Torque Request - Limiter | Normal" address="fa014" elements="480" scaling="1024020"
 ><table name="APP_SCALED_A6B0+CORR_A6B4" address="f9f9c" elements="30" scaling="1023900" type="X Axis"
 ></table
 ><table name="RPM_A838" address="f9f5c" elements="16" scaling="1023836" type="Y Axis"
 ></table
 ></table
-><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired + Comp to Torque Request" swapxy="true" name="Torque Request - Limiter | Fault 71B0" address="fa84c" elements="480" scaling="1026124_N-M"
+><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired + Comp to Torque Request" swapxy="true" name="Torque Request - Limiter | Fault 71B0" address="fa84c" elements="480" scaling="1026124"
 ><table name="APP_SCALED_A6B0+CORR_A6B4" address="fa7d4" elements="30" scaling="1026004" type="X Axis"
 ></table
 ><table name="RPM_A838" address="fa794" elements="16" scaling="1025940" type="Y Axis"
@@ -8401,7 +8401,7 @@
 ><table name="APP_SCALED_A6B0" address="f8ab4" elements="15" scaling="1018548" type="Y Axis"
 ></table
 ></table
-><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired + Comp to Torque Request" swapxy="true" name="Torque Request - Base" address="f9268" elements="480" scaling="1020520_N-M"
+><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired + Comp to Torque Request" swapxy="true" name="Torque Request - Base" address="f9268" elements="480" scaling="1020520"
 ><table name="APP_SCALED_A6B0+CORR_A6B4" address="f91f0" elements="30" scaling="1020400" type="X Axis"
 ></table
 ><table name="RPM_A838" address="f91b0" elements="16" scaling="1020336" type="Y Axis"
@@ -8627,7 +8627,7 @@
 ><table name="RPM_6DD8" address="f736c" elements="7" scaling="1012588" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - WIP DBW Torque Request" swapxy="true" name="Requested Torque Fault - Delta Threshold WIP" address="f7b98" elements="13" scaling="1014680_TQ"
+><table level="4" type="2D" category="Data Integrity Checks - WIP Cruise Control Torque Request Delta" swapxy="true" name="Cruise Control WIP - Torque Request Delta Threshold (for unknown CC state change)" address="f7b98" elements="13" scaling="1014680"
 ><table name="RPM_6DD8" address="f7b64" elements="13" scaling="1014628" type="Y Axis"
 ></table
 ></table
@@ -8639,37 +8639,37 @@
 ><table name="RPM_6DD8" address="f7a94" elements="13" scaling="1014420" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="Data Integrity Checks - WIP DBW Torque Request" swapxy="true" name="BYPASSED" address="f9a20" elements="48" scaling="1022496_N-M"
+><table level="1" type="3D" category="Data Integrity Checks - WIP DBW Torque Request" swapxy="true" name="BYPASSED" address="f9a20" elements="48" scaling="1022496"
 ><table name="WIP" address="f9a08" elements="6" scaling="1022472" type="X Axis"
 ></table
 ><table name="WIP" address="f99e8" elements="8" scaling="1022440" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="Data Integrity Checks - WIP DBW Torque Request" swapxy="true" name="BYPASSED" address="f9b18" elements="48" scaling="1022744_N-M"
+><table level="1" type="3D" category="Data Integrity Checks - WIP DBW Torque Request" swapxy="true" name="BYPASSED" address="f9b18" elements="48" scaling="1022744"
 ><table name="WIP" address="f9b00" elements="6" scaling="1022720" type="X Axis"
 ></table
 ><table name="WIP" address="f9ae0" elements="8" scaling="1022688" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="Data Integrity Checks - WIP DBW Torque Request" swapxy="true" name="BYPASSED" address="f9c10" elements="48" scaling="1022992_N-M"
+><table level="1" type="3D" category="Data Integrity Checks - WIP DBW Torque Request" swapxy="true" name="BYPASSED" address="f9c10" elements="48" scaling="1022992"
 ><table name="WIP" address="f9bf8" elements="6" scaling="1022968" type="X Axis"
 ></table
 ><table name="WIP" address="f9bd8" elements="8" scaling="1022936" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="Data Integrity Checks - WIP DBW Torque Request" swapxy="true" name="BYPASSED" address="f9d08" elements="48" scaling="1023240_N-M"
+><table level="1" type="3D" category="Data Integrity Checks - WIP DBW Torque Request" swapxy="true" name="BYPASSED" address="f9d08" elements="48" scaling="1023240"
 ><table name="WIP" address="f9cf0" elements="6" scaling="1023216" type="X Axis"
 ></table
 ><table name="WIP" address="f9cd0" elements="8" scaling="1023184" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="Data Integrity Checks - WIP DBW Torque Request" swapxy="true" name="BYPASSED" address="f9e00" elements="48" scaling="1023488_N-M"
+><table level="1" type="3D" category="Data Integrity Checks - WIP DBW Torque Request" swapxy="true" name="BYPASSED" address="f9e00" elements="48" scaling="1023488"
 ><table name="WIP" address="f9de8" elements="6" scaling="1023464" type="X Axis"
 ></table
 ><table name="WIP" address="f9dc8" elements="8" scaling="1023432" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="Data Integrity Checks - WIP DBW Torque Request" swapxy="true" name="BYPASSED" address="f9eec" elements="28" scaling="1023724_N-M"
+><table level="1" type="3D" category="Data Integrity Checks - WIP DBW Torque Request" swapxy="true" name="BYPASSED" address="f9eec" elements="28" scaling="1023724"
 ><table name="WIP" address="f9edc" elements="4" scaling="1023708" type="X Axis"
 ></table
 ><table name="WIP" address="f9ec0" elements="7" scaling="1023680" type="Y Axis"
@@ -10617,6 +10617,14 @@
 ><table name="VSS_INTERPOLATED_6740" address="ba5d8" elements="10" scaling="763352_SPD" type="Y Axis"
 ></table
 ></table
+><table level="1" type="2D" category="WIP - Cruise Control Torque Request Delta" swapxy="true" name="Cruide Control WIP - Torque Request Delta Interpolation Bias" address="c54f4" elements="13" scaling="808180"
+><table name="RPM_A838" address="c54c0" elements="13" scaling="808128" type="Y Axis"
+></table
+></table
+><table level="1" type="2D" category="WIP - Cruise Control Torque Request Delta" swapxy="true" name="Cruise Control WIP - Torque Request Delta Threshold (for unknown CC state change)" address="c555c" elements="13" scaling="808284"
+><table name="RPM_A838" address="c5528" elements="13" scaling="808232" type="Y Axis"
+></table
+></table
 ><table level="1" type="2D" category="WIP - RO2S Heater Control" swapxy="true" name="RO2S Heater Control WIP" address="bf394" elements="7" scaling="783252"
 ><table name="ECT_START_6D54" address="bf378" elements="7" scaling="783224_DEG" type="Y Axis"
 ></table
@@ -10689,14 +10697,6 @@
 ><table name="WIP" address="c6a90" elements="4" scaling="813712" type="X Axis"
 ></table
 ><table name="WIP" address="c6a74" elements="7" scaling="813684" type="Y Axis"
-></table
-></table
-><table level="1" type="2D" category="WIP - DBW Requested Torque" swapxy="true" name="Requested Torque Related Delta - Interpolation Bias" address="c54f4" elements="13" scaling="808180"
-><table name="RPM_A838" address="c54c0" elements="13" scaling="808128" type="Y Axis"
-></table
-></table
-><table level="1" type="2D" category="WIP - DBW Requested Torque" swapxy="true" name="Requested Torque Fault - Delta Threshold WIP" address="c555c" elements="13" scaling="808284"
-><table name="RPM_A838" address="c5528" elements="13" scaling="808232" type="Y Axis"
 ></table
 ></table
 ><table level="1" type="3D" category="WIP - DBW Requested Torque" swapxy="true" name="BYPASSED - Undefined" address="c65d4" elements="48" scaling="812500"
