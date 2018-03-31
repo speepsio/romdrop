@@ -3723,6 +3723,10 @@
 ></scaling
 ><scaling name="786824" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
+><scaling name="962436" units="" toexpr="x" frexpr="x" format="%0.2f" min="2000.000" max="2000.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="962440" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.398" max="0.398" inc="1" storagetype="float" endian="big"
+></scaling
 ><scaling name="964284" units="" toexpr="x" frexpr="x" format="%0.2f" min="200.000" max="200.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="964288" units="" toexpr="x" frexpr="x" format="%0.2f" min="100.000" max="100.000" inc="1" storagetype="float" endian="big"
@@ -10110,6 +10114,10 @@
 ><table level="4" type="1D" category="DTC Thresholds" swapxy="true" name="DTC P0335 Monitor CKP Sensor Problem MAF Activation Threshold" address="c01a0" elements="1" scaling="786848"
 ></table
 ><table level="4" type="1D" category="DTC Thresholds" swapxy="true" name="DTC P0335 Monitor CKP Sensor Problem Activation Timer" address="c0188" elements="1" scaling="786824"
+></table
+><table level="4" type="1D" category="DTC Thresholds" swapxy="true" name="DTC P0500 VSS Circuit Problem - Min Detection RPM" address="eaf84" elements="1" scaling="962436"
+></table
+><table level="4" type="1D" category="DTC Thresholds" swapxy="true" name="DTC P0500 VSS Circuit Problem - Min Detection Load" address="eaf88" elements="1" scaling="962440"
 ></table
 ><table level="4" type="1D" category="DTC Thresholds" swapxy="true" name="DTC P0507 Idle Speed RPM High Expected Difference Threshold" address="eb6bc" elements="1" scaling="964284"
 ></table
