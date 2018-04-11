@@ -22,7 +22,8 @@ LICENSE
 -------
 The SOFTWARE is provided under a non-transferable, non-exclusive license for 
 your personal use only. This EULA entitles you to install one copy of 
-the SOFTWARE on one computer that belongs to you. You can use the SOFTWARE for educational purposes consistent with this EULA. Your license to use the
+the SOFTWARE on one computer that belongs to you. You can use the SOFTWARE 
+for educational purposes consistent with this EULA. Your license to use the
 SOFTWARE is expressly conditioned upon your agreement to all of the terms of 
 this EULA. The SOFTWARE is licensed, not sold.
 
