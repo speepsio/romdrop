@@ -111,8 +111,6 @@
 ></scaling
 ><scaling name="891708" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="891708" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
-></scaling
 ><scaling name="892724" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.080" max="0.080" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="892728" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.005" max="0.005" inc="1" storagetype="float" endian="big"
@@ -1217,15 +1215,15 @@
 ></scaling
 ><scaling name="843236" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.250" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="843424" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
+><scaling name="843424_LAMBDA" units="" toexpr="1/(1+(x/100))" frexpr="((1/x)-1)*100" format="%0.2f" min="0.500" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="843396_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-40.000" max="80.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="843480" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
+><scaling name="843480_LAMBDA" units="" toexpr="1/(1+(x/100))" frexpr="((1/x)-1)*100" format="%0.2f" min="0.500" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="843452_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-40.000" max="80.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="842812" units="" toexpr="x" frexpr="x" format="%0.2f" min="18.000" max="18.000" inc="1" storagetype="float" endian="big"
+><scaling name="842812_LAMBDA" units="" toexpr="1/(1+(x/100))" frexpr="((1/x)-1)*100" format="%0.2f" min="0.847" max="0.847" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="842816" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.000" max="2.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -5849,8 +5847,6 @@
 ></table
 ><table level="4" type="1D" category="DBW - Throttle Duty Desired Comp - AC (Transitory)" swapxy="true" name="Decrement Rate to 0 | Prev AC Switch Set, Not In-Gear" address="d9b3c" elements="1" scaling="891708"
 ></table
-><table level="4" type="1D" category="DBW - Throttle Duty Desired Comp - AC (Transitory)" swapxy="true" name="Decrement Rate to 0 | Prev AC Switch Set, Not In-Gear" address="d9b3c" elements="1" scaling="891708"
-></table
 ><table level="4" type="1D" category="DBW - Throttle Duty Desired Comp - In-Gear (Transitory)" swapxy="true" name="Reset Value | In-Gear, Prev Not In-Gear, AT" address="d9f34" elements="1" scaling="892724"
 ></table
 ><table level="4" type="1D" category="DBW - Throttle Duty Desired Comp - In-Gear (Transitory)" swapxy="true" name="Decrement Rate to 0 | In-Gear, Prev In-Gear, AT?" address="d9f38" elements="1" scaling="892728"
@@ -6067,7 +6063,7 @@
 ><table name="VSS_INTERPOLATED_6740" address="ba544" elements="9" scaling="763204_SPD" type="Y Axis"
 ></table
 ></table
-><table level="4" type="1D" category="DBW - ECT Override" swapxy="true" name="ECTOS - Activation Switch 2 | FF is On, Else Off (requires patch)" address="dfdf8" elements="1" scaling="916984"
+><table level="1" type="1D" category="DBW - ECT Override WIP" swapxy="true" name="ECTOS - Activation Switch 2 | FF is On, Else Off (requires patch)" address="dfdf8" elements="1" scaling="916984"
 ></table
 ><table level="4" type="2D" category="Emission System - Catalyst" swapxy="true" name="Catalytic Temp Desired - Percent Est to Dsd Delta to Add " address="d7208" elements="14" scaling="881160"
 ><table name="MAF_W_IDLE/LOAD_LIMIT_6EF8" address="d71d0" elements="14" scaling="881104" type="Y Axis"
@@ -6334,13 +6330,13 @@
 ></table
 ></table
 ><table level="4" type="3D" category="Engine Load - Scaling" swapxy="true" name="Load Scaling" address="cb408" elements="255" scaling="832520"
-><table name="LOAD_RAW_6F78" address="cb3c4" elements="17" scaling="832452" type="X Axis"
+><table name="LOAD_BASE_6F78" address="cb3c4" elements="17" scaling="832452" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="cb388" elements="15" scaling="832392" type="Y Axis"
 ></table
 ></table
 ><table level="4" type="3D" category="Engine Load - Scaling" swapxy="true" name="Load Scaling - VCT Comp Add | VCT GT 5" address="cb87c" elements="225" scaling="833660"
-><table name="LOAD_RAW_6F78" address="cb840" elements="15" scaling="833600" type="X Axis"
+><table name="LOAD_BASE_6F78" address="cb840" elements="15" scaling="833600" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="cb804" elements="15" scaling="833540" type="Y Axis"
 ></table
@@ -6873,7 +6869,7 @@
 ><table name="RPM_6DD8" address="c5160" elements="14" scaling="807264" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Fuel Status OL - Load" swapxy="true" name="OL Transition - Load Threshold | Safe" address="c4fd8" elements="14" scaling="806872"
+><table level="4" type="2D" category="Fuel Status OL - Load" swapxy="true" name="OL Transition - Load Threshold | WIP Special Mode" address="c4fd8" elements="14" scaling="806872"
 ><table name="RPM_6DD8" address="c4fa0" elements="14" scaling="806816" type="Y Axis"
 ></table
 ></table
@@ -6931,7 +6927,7 @@
 ></table
 ><table level="4" type="1D" category="Fuel Status OL - Decel" swapxy="true" name="Decel Transition - Minimum RPM Hysteresis" address="c4c5c" elements="1" scaling="805980"
 ></table
-><table level="4" type="2D" category="Fuel Target OL - Warm Up" swapxy="true" name="Warm-Up Base Fuel Target" address="cde68" elements="7" scaling="843368_LAMBDA"
+><table level="4" type="2D" category="Fuel Target OL - Warm Up" swapxy="true" name="Warm-Up Base Fuel Target (Lambda)" address="cde68" elements="7" scaling="843368_LAMBDA"
 ><table name="ECT_6D44" address="cde4c" elements="7" scaling="843340_DEG" type="Y Axis"
 ></table
 ></table
@@ -6955,15 +6951,15 @@
 ><table name="LOAD_6F44" address="cdde4" elements="13" scaling="843236" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Fuel Target OL - Warm Up" swapxy="true" name="Warm-Up Fuel Target - Dynamic Limiter" address="cdea0" elements="7" scaling="843424"
+><table level="4" type="2D" category="Fuel Target OL - Warm Up" swapxy="true" name="Warm-Up Fuel Target - Dynamic Limiter (Lambda)" address="cdea0" elements="7" scaling="843424_LAMBDA"
 ><table name="ECT_6D44" address="cde84" elements="7" scaling="843396_DEG" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Fuel Target OL - Warm Up" swapxy="true" name="Warm-Up Fuel Target - Dynamic Limiter | IMRC" address="cded8" elements="7" scaling="843480"
+><table level="4" type="2D" category="Fuel Target OL - Warm Up" swapxy="true" name="Warm-Up Fuel Target - Dynamic Limiter (Lambda) | IMRC" address="cded8" elements="7" scaling="843480_LAMBDA"
 ><table name="ECT_6D44" address="cdebc" elements="7" scaling="843452_DEG" type="Y Axis"
 ></table
 ></table
-><table level="4" type="1D" category="Fuel Target OL - Warm Up" swapxy="true" name="Warm-Up Fuel Target - Dynamic Limiter Accelerated Enleanment Exit Threshold" address="cdc3c" elements="1" scaling="842812"
+><table level="4" type="1D" category="Fuel Target OL - Warm Up" swapxy="true" name="Warm-Up Fuel Target - Dynamic Limiter Accelerated Enleanment Exit Threshold (Lambda)" address="cdc3c" elements="1" scaling="842812_LAMBDA"
 ></table
 ><table level="4" type="1D" category="Fuel Target OL - Warm Up" swapxy="true" name="Warm-Up Fuel Target - Dynamic Limiter Accelerated Enleanment Rate" address="cdc40" elements="1" scaling="842816"
 ></table
@@ -6977,37 +6973,37 @@
 ></table
 ><table level="4" type="1D" category="Fuel Target OL - Warm Up" swapxy="true" name="Warm-Up Fuel Target - Decay Rate to Normal Fueling" address="d61d0" elements="1" scaling="877008"
 ></table
-><table level="4" type="3D" category="Fuel Target OL - Base" swapxy="true" name="Base Fuel Target | OL, APP Above WOT Threshold, Safe" address="ce3bc" elements="120" scaling="844732_LAMBDA"
+><table level="4" type="3D" category="Fuel Target OL - Base" swapxy="true" name="Base Fuel Target (Lambda) | OL, APP Above WOT Threshold, Special WIP" address="ce3bc" elements="120" scaling="844732_LAMBDA"
 ><table name="TP_6CF8" address="ce39c" elements="8" scaling="844700" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="ce360" elements="15" scaling="844640" type="Y Axis"
 ></table
 ></table
-><table level="4" type="3D" category="Fuel Target OL - Base" swapxy="true" name="Base Fuel Target | OL, APP Above WOT Threshold, Hight Det" address="ce5f8" elements="120" scaling="845304_LAMBDA"
+><table level="4" type="3D" category="Fuel Target OL - Base" swapxy="true" name="Base Fuel Target (Lambda) | OL, APP Above WOT Threshold, High Det" address="ce5f8" elements="120" scaling="845304_LAMBDA"
 ><table name="TP_6CF8" address="ce5d8" elements="8" scaling="845272" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="ce59c" elements="15" scaling="845212" type="Y Axis"
 ></table
 ></table
-><table level="4" type="3D" category="Fuel Target OL - Base" swapxy="true" name="Base Fuel Target | OL, APP Above WOT Threshold, Low Det" address="ce834" elements="120" scaling="845876_LAMBDA"
+><table level="4" type="3D" category="Fuel Target OL - Base" swapxy="true" name="Base Fuel Target (Lambda) | OL, APP Above WOT Threshold, Low Det" address="ce834" elements="120" scaling="845876_LAMBDA"
 ><table name="TP_6CF8" address="ce814" elements="8" scaling="845844" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="ce7d8" elements="15" scaling="845784" type="Y Axis"
 ></table
 ></table
-><table level="4" type="3D" category="Fuel Target OL - Base" swapxy="true" name="Base Fuel Target | OL, APP Below WOT Threshold, Safe" address="cea84" elements="195" scaling="846468_LAMBDA"
+><table level="4" type="3D" category="Fuel Target OL - Base" swapxy="true" name="Base Fuel Target (Lambda) | OL, APP Below WOT Threshold, Special WIP" address="cea84" elements="195" scaling="846468_LAMBDA"
 ><table name="LOAD_7004" address="cea50" elements="13" scaling="846416" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="cea14" elements="15" scaling="846356" type="Y Axis"
 ></table
 ></table
-><table level="4" type="3D" category="Fuel Target OL - Base" swapxy="true" name="Base Fuel Target | OL, APP Below WOT Threshold, Low Det" address="cee00" elements="195" scaling="847360_LAMBDA"
+><table level="4" type="3D" category="Fuel Target OL - Base" swapxy="true" name="Base Fuel Target (Lambda) | OL, APP Below WOT Threshold, Low Det" address="cee00" elements="195" scaling="847360_LAMBDA"
 ><table name="LOAD_7004" address="cedcc" elements="13" scaling="847308" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="ced90" elements="15" scaling="847248" type="Y Axis"
 ></table
 ></table
-><table level="4" type="3D" category="Fuel Target OL - Base" swapxy="true" name="Base Fuel Target | OL, APP Below WOT Threshold, Hight Det" address="cf17c" elements="195" scaling="848252_LAMBDA"
+><table level="4" type="3D" category="Fuel Target OL - Base" swapxy="true" name="Base Fuel Target (Lambda) | OL, APP Below WOT Threshold, High Det" address="cf17c" elements="195" scaling="848252_LAMBDA"
 ><table name="LOAD_7004" address="cf148" elements="13" scaling="848200" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="cf10c" elements="15" scaling="848140" type="Y Axis"
@@ -7607,9 +7603,9 @@
 ></table
 ><table level="1" type="1D" category="Ignition Coil Dwell Time" swapxy="true" name="Ignition Coil - Dwell Time | Speed Limiter Active " address="bb8cc" elements="1" scaling="768204"
 ></table
-><table level="4" type="1D" category="Spark Base - High Fuel Request Transition" swapxy="true" name="Spark Base - High Fuel Request Threshold" address="cfd84" elements="1" scaling="851332_LAMBDA"
+><table level="4" type="1D" category="Spark Base - High Fuel Request Transition" swapxy="true" name="Spark Base - High Fuel Request Threshold (Lambda)" address="cfd84" elements="1" scaling="851332_LAMBDA"
 ></table
-><table level="4" type="1D" category="Spark Base - High Fuel Request Transition" swapxy="true" name="Spark Base - High Fuel Request Threshold Hysteresis" address="cfd88" elements="1" scaling="851336"
+><table level="4" type="1D" category="Spark Base - High Fuel Request Transition" swapxy="true" name="Spark Base - High Fuel Request Threshold Hysteresis (%)" address="cfd88" elements="1" scaling="851336"
 ></table
 ><table level="4" type="1D" category="Spark Base - High Fuel Request Transition" swapxy="true" name="Spark Base - Low to High Fuel Request Transition Delay" address="cfd7e" elements="1" scaling="851326"
 ></table
@@ -10589,35 +10585,35 @@
 ><table name="RPM_6DD8" address="dfbcc" elements="10" scaling="916428" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Gear Ratio" swapxy="true" name="Safe Mode - VSS Threshold" address="bfb80" elements="7" scaling="785280"
+><table level="1" type="2D" category="WIP - Gear Ratio" swapxy="true" name="WIP Special Mode - VSS Threshold" address="bfb80" elements="7" scaling="785280"
 ><table name="VSS_6D80" address="b8180" elements="7" scaling="754048_SPD" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Gear Ratio" swapxy="true" name="Safe Mode - VSS Threshold Hysteresis" address="bfb9c" elements="7" scaling="785308"
+><table level="1" type="2D" category="WIP - Gear Ratio" swapxy="true" name="WIP Special Mode - VSS Threshold Hysteresis" address="bfb9c" elements="7" scaling="785308"
 ><table name="VSS_6D80" address="b8180" elements="7" scaling="754048_SPD" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Gear Ratio" swapxy="true" name="Safe Mode - 1st Gear Multiplier" address="bfc10" elements="13" scaling="785424"
+><table level="1" type="2D" category="WIP - Gear Ratio" swapxy="true" name="WIP Special Mode - 1st Gear Multiplier" address="bfc10" elements="13" scaling="785424"
 ><table name="RPM_6DD8" address="bfbdc" elements="13" scaling="785372" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Gear Ratio" swapxy="true" name="Safe Mode - 2nd Gear Multiplier" address="bfc54" elements="13" scaling="785492"
+><table level="1" type="2D" category="WIP - Gear Ratio" swapxy="true" name="WIP Special Mode - 2nd Gear Multiplier" address="bfc54" elements="13" scaling="785492"
 ><table name="RPM_6DD8" address="bfc20" elements="13" scaling="785440" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Gear Ratio" swapxy="true" name="Safe Mode - 3rd Gear Multiplier" address="bfc98" elements="13" scaling="785560"
+><table level="1" type="2D" category="WIP - Gear Ratio" swapxy="true" name="WIP Special Mode - 3rd Gear Multiplier" address="bfc98" elements="13" scaling="785560"
 ><table name="RPM_6DD8" address="bfc64" elements="13" scaling="785508" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Gear Ratio" swapxy="true" name="Safe Mode - 4th Gear Multiplier" address="bfcdc" elements="13" scaling="785628"
+><table level="1" type="2D" category="WIP - Gear Ratio" swapxy="true" name="WIP Special Mode - 4th Gear Multiplier" address="bfcdc" elements="13" scaling="785628"
 ><table name="RPM_6DD8" address="bfca8" elements="13" scaling="785576" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Gear Ratio" swapxy="true" name="Safe Mode - 5th Gear Multiplier" address="bfd20" elements="13" scaling="785696"
+><table level="1" type="2D" category="WIP - Gear Ratio" swapxy="true" name="WIP Special Mode - 5th Gear Multiplier" address="bfd20" elements="13" scaling="785696"
 ><table name="RPM_6DD8" address="bfcec" elements="13" scaling="785644" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Gear Ratio" swapxy="true" name="Safe Mode - 6th Gear Multiplier" address="bfd64" elements="13" scaling="785764"
+><table level="1" type="2D" category="WIP - Gear Ratio" swapxy="true" name="WIP Special Mode - 6th Gear Multiplier" address="bfd64" elements="13" scaling="785764"
 ><table name="RPM_6DD8" address="bfd30" elements="13" scaling="785712" type="Y Axis"
 ></table
 ></table
