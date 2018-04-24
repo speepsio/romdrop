@@ -27,20 +27,6 @@
 ><memmodel
 >SH7058</memmodel
 ></romid
-><scaling name="865736" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="865812" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="865776" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="4500.000" inc="100" storagetype="float" endian="big"
-></scaling
-><scaling name="866040" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="865976" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="50.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="865912" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="865848" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="23.438" inc="1" storagetype="float" endian="big"
-></scaling
 ><scaling name="866176" units="" toexpr="x" frexpr="x" format="%0.2f" min="16.500" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="866104" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
@@ -95,31 +81,31 @@
 ></scaling
 ><scaling name="948404" units="" toexpr="x" frexpr="x" format="%0.2f" min="1500.000" max="6500.000" inc="100" storagetype="float" endian="big"
 ></scaling
-><scaling name="937544" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+><scaling name="937544" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="937596" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.005" max="0.005" inc="1" storagetype="float" endian="big"
+><scaling name="937596" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.005" max="0.005" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="937244" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.040" max="0.040" inc="1" storagetype="float" endian="big"
+><scaling name="937244" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.040" max="0.040" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="937248" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.060" max="0.060" inc="1" storagetype="float" endian="big"
+><scaling name="937248" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.060" max="0.060" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="937252" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.050" max="0.050" inc="1" storagetype="float" endian="big"
+><scaling name="937252" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.050" max="0.050" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="937256" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.040" max="0.040" inc="1" storagetype="float" endian="big"
+><scaling name="937256" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.040" max="0.040" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="937260" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.010" max="0.010" inc="1" storagetype="float" endian="big"
+><scaling name="937260" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.010" max="0.010" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="937264" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.010" max="0.010" inc="1" storagetype="float" endian="big"
+><scaling name="937264" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.010" max="0.010" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="937268" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+><scaling name="937268" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="937272" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+><scaling name="937272" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="937276" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+><scaling name="937276" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="938292" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.060" max="0.060" inc="1" storagetype="float" endian="big"
+><scaling name="938292" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.060" max="0.060" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="938296" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.005" max="0.005" inc="1" storagetype="float" endian="big"
+><scaling name="938296" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.005" max="0.005" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="931340" units="" toexpr="x" frexpr="x" format="%0.2f" min="79.522" max="127.304" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -399,18 +385,6 @@
 ></scaling
 ><scaling name="863992" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.100" max="0.100" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="838560" units="" toexpr="x" frexpr="x" format="%0.2f" min="110.000" max="110.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="838564" units="" toexpr="x" frexpr="x" format="%0.2f" min="100.000" max="100.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="838472" units="" toexpr="x" frexpr="x" format="%d" min="6.000" max="6.000" inc="1" storagetype="uint8" endian="big"
-></scaling
-><scaling name="838473" units="" toexpr="x" frexpr="x" format="%d" min="0.000" max="0.000" inc="1" storagetype="uint8" endian="big"
-></scaling
-><scaling name="965180" units="" toexpr="x" frexpr="x" format="%d" min="0.000" max="0.000" inc="1" storagetype="uint8" endian="big"
-></scaling
-><scaling name="865772" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.220" max="0.220" inc="1" storagetype="float" endian="big"
-></scaling
 ><scaling name="926720" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.005" max="0.100" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="926664" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="66.560" inc="1" storagetype="float" endian="big"
@@ -677,13 +651,13 @@
 ></scaling
 ><scaling name="873136_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-40.000" max="100.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="875836" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.776" max="1.249" inc="0.01" storagetype="float" endian="big"
+><scaling name="875836" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.776" max="1.249" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="875708" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="7500.000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="875768" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="876976" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.092" inc="0.01" storagetype="float" endian="big"
+><scaling name="876976" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="0.092" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="876856" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="7500.000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -1019,29 +993,29 @@
 ></scaling
 ><scaling name="878784" units="" toexpr="x" frexpr="x" format="%0.2f" min="250.000" max="2000.000" inc="100" storagetype="float" endian="big"
 ></scaling
-><scaling name="881352" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.891" max="1.021" inc="0.01" storagetype="float" endian="big"
+><scaling name="881352" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.891" max="1.021" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="881288" units="" toexpr="x" frexpr="x" format="%0.2f" min="-15.865" max="102.930" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="881516" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.243" max="2.515" inc="0.1" storagetype="float" endian="big"
+><scaling name="881516" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.243" max="2.515" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="881416" units="" toexpr="x" frexpr="x" format="%0.2f" min="-15.865" max="102.930" inc="10" storagetype="float" endian="big"
 ></scaling
 ><scaling name="881480" units="" toexpr="x" frexpr="x" format="%0.2f" min="6.500" max="16.500" inc="0.1" storagetype="float" endian="big"
 ></scaling
-><scaling name="878260" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.065" max="1.065" inc="1" storagetype="float" endian="big"
+><scaling name="878260" units="" toexpr="x" frexpr="x" format="%0.3f" min="1.065" max="1.065" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="878304" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
+><scaling name="878304" units="" toexpr="x" frexpr="x" format="%0.3f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="878300" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
+><scaling name="878300" units="" toexpr="x" frexpr="x" format="%0.3f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="878308" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
+><scaling name="878308" units="" toexpr="x" frexpr="x" format="%0.3f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="878312" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
+><scaling name="878312" units="" toexpr="x" frexpr="x" format="%0.3f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="881276" units="" toexpr="x" frexpr="x" format="%0.2f" min="10.492" max="10.492" inc="1" storagetype="float" endian="big"
+><scaling name="881276" units="" toexpr="x" frexpr="x" format="%0.3f" min="10.492" max="10.492" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="878264" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.803" max="0.803" inc="1" storagetype="float" endian="big"
+><scaling name="878264" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.803" max="0.803" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="878932" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="796.900" inc="10" storagetype="float" endian="big"
 ></scaling
@@ -6421,20 +6395,6 @@
 ></scaling
 ><scaling name="950708" units="" toexpr="x" frexpr="x" format="%0.2f" min="10.000" max="90.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><table level="4" type="1D" category="DBW - Throttle Duty Desired" swapxy="true" name="Throttle Duty Desired Bias - ZEROED Prev to Current Bias | APP Fault or CC On" address="d35c8" elements="1" scaling="865736"
-></table
-><table level="4" type="2D" category="DBW - Throttle Duty Desired" swapxy="true" name="Throttle Duty Desired Bias - ZEROED Prev to Current Target | Load Delta Over Threshold" address="d3614" elements="9" scaling="865812"
-><table name="RPM_6DD8" address="d35f0" elements="9" scaling="865776" type="Y Axis"
-></table
-></table
-><table level="4" type="2D" category="DBW - Throttle Duty Desired" swapxy="true" name="Throttle Duty Desired Bias - ZEROED Prev to Current Bias | Throttle Duty Delta Over Threadhold" address="d36f8" elements="16" scaling="866040"
-><table name="APP_6D1C" address="d36b8" elements="16" scaling="865976" type="Y Axis"
-></table
-></table
-><table level="4" type="2D" category="DBW - Throttle Duty Desired" swapxy="true" name="Throttle Duty Desired Bias - ZEROED Prev to Current Bias | DISABLED" address="d3678" elements="16" scaling="865912"
-><table name="APP_6D1C" address="d3638" elements="16" scaling="865848" type="Y Axis"
-></table
-></table
 ><table level="4" type="2D" category="DBW - Throttle Duty Desired" swapxy="true" name="APP to Throttle Duty Desired - Max" address="d3780" elements="18" scaling="866176"
 ><table name="APP_6D1C" address="d3738" elements="18" scaling="866104" type="Y Axis"
 ></table
@@ -6792,18 +6752,6 @@
 ><table level="4" type="1D" category="DBW - Brake Override" swapxy="true" name="BOS - Delay Decay Rate" address="af864" elements="1" scaling="718948"
 ></table
 ><table level="4" type="1D" category="DBW - Brake Override" swapxy="true" name="BOS - Delay Multiplier" address="d2ef8" elements="1" scaling="863992"
-></table
-><table level="1" type="1D" category="DBW - ECT Override WIP" swapxy="true" name="ECTOS - ECT Activation Threshold" address="ccba0" elements="1" scaling="838560"
-></table
-><table level="1" type="1D" category="DBW - ECT Override WIP" swapxy="true" name="ECTOS - ECT Activation Threshold Hysteresis" address="ccba4" elements="1" scaling="838564"
-></table
-><table level="1" type="1D" category="DBW - ECT Override WIP" swapxy="true" name="ECTOS - Activation Delay" address="ccb48" elements="1" scaling="838472"
-></table
-><table level="1" type="1D" category="DBW - ECT Override WIP" swapxy="true" name="ECTOS - Activation Switch 1 | FF is On, Else Off" address="ccb49" elements="1" scaling="838473"
-></table
-><table level="1" type="1D" category="DBW - ECT Override WIP" swapxy="true" name="ECTOS - Activation Switch 2 | FF is On, Else Off (requires patch)" address="eba3c" elements="1" scaling="965180"
-></table
-><table level="1" type="1D" category="DBW - ECT Override WIP" swapxy="true" name="ECTOS - Throttle Duty Target - Fault Limit" address="d35ec" elements="1" scaling="865772"
 ></table
 ><table level="4" type="2D" category="Emission System - Catalyst" swapxy="true" name="Catalytic Temp Desired - Percent Est to Dsd Delta to Add " address="e2400" elements="14" scaling="926720"
 ><table name="MAF_W_IDLE/LOAD_LIMIT_6EF8" address="e23c8" elements="14" scaling="926664" type="Y Axis"
@@ -12543,60 +12491,60 @@
 ><table name="ECT_6D44" address="e1000" elements="15" scaling="921600_DEG" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Undefined" address="e5b58" elements="15" scaling="940888"
+><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="WIP Timer" address="e5b58" elements="15" scaling="940888"
 ><table name="ECT_6D44" address="e5b1c" elements="15" scaling="940828_DEG" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Undefined" address="e5bb4" elements="15" scaling="940980"
+><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="WIP Base RPM Threshold" address="e5bb4" elements="15" scaling="940980"
 ><table name="ECT_6D44" address="e5b78" elements="15" scaling="940920_DEG" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Undefined" address="e5c2c" elements="15" scaling="941100"
+><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="WIP Base RPM Threshold Hysteresis" address="e5c2c" elements="15" scaling="941100"
 ><table name="ECT_6D44" address="e5bf0" elements="15" scaling="941040_DEG" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Undefined" address="e5c7c" elements="5" scaling="941180"
+><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="WIP Limit | RPM below 312 or RPM LT Idle Speed" address="e5c7c" elements="5" scaling="941180"
 ><table name="FFFF_6850" address="e5c68" elements="5" scaling="941160" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Undefined" address="e5cac" elements="7" scaling="941228"
+><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Alternator - VSS Air-Flow Temperature Add " address="e5cac" elements="7" scaling="941228"
 ><table name="VSS_6D80" address="e5c90" elements="7" scaling="941200_SPD" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Undefined" address="e5cec" elements="9" scaling="941292"
-><table name="FFFF_6808" address="e5cc8" elements="9" scaling="941256" type="Y Axis"
+><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Alternator - Voltage Desired Base" address="e5cec" elements="9" scaling="941292"
+><table name="ALT_TEMP_CORRECTED_6808" address="e5cc8" elements="9" scaling="941256" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Undefined" address="e5d24" elements="5" scaling="941348"
-><table name="FFFF_6808" address="e5d10" elements="5" scaling="941328" type="Y Axis"
+><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Alternator - Voltage Desired Add |" address="e5d24" elements="5" scaling="941348"
+><table name="ALT_TEMP_CORRECTED_6808" address="e5d10" elements="5" scaling="941328" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Undefined" address="e5d4c" elements="5" scaling="941388"
-><table name="FFFF_6808" address="e5d38" elements="5" scaling="941368" type="Y Axis"
+><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Alternator - Voltage Desired Add |" address="e5d4c" elements="5" scaling="941388"
+><table name="ALT_TEMP_CORRECTED_6808" address="e5d38" elements="5" scaling="941368" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Undefined" address="e5d74" elements="5" scaling="941428"
-><table name="FFFF_6808" address="e5d60" elements="5" scaling="941408" type="Y Axis"
+><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Alternator - Voltage Desired Add | RPM LT 5K, Load LT 0.80" address="e5d74" elements="5" scaling="941428"
+><table name="ALT_TEMP_CORRECTED_6808" address="e5d60" elements="5" scaling="941408" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Undefined" address="e5d9c" elements="5" scaling="941468"
-><table name="FFFF_6808" address="e5d88" elements="5" scaling="941448" type="Y Axis"
+><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Alternator - Voltage Desired Add | RPM LT 5K, Load LT 0.80" address="e5d9c" elements="5" scaling="941468"
+><table name="ALT_TEMP_CORRECTED_6808" address="e5d88" elements="5" scaling="941448" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Undefined" address="e5dc4" elements="5" scaling="941508"
-><table name="FFFF_6808" address="e5db0" elements="5" scaling="941488" type="Y Axis"
+><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Alternator - Voltage Desired Add | RPM LT 5K, Load LT 0.80" address="e5dc4" elements="5" scaling="941508"
+><table name="ALT_TEMP_CORRECTED_6808" address="e5db0" elements="5" scaling="941488" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Undefined" address="e5dec" elements="5" scaling="941548"
-><table name="FFFF_6808" address="e5dd8" elements="5" scaling="941528" type="Y Axis"
+><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Alternator - Voltage Desired Add | RPM LT 5K, Load LT 0.80" address="e5dec" elements="5" scaling="941548"
+><table name="ALT_TEMP_CORRECTED_6808" address="e5dd8" elements="5" scaling="941528" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Undefined" address="e5e14" elements="5" scaling="941588"
-><table name="FFFF_6808" address="e5e00" elements="5" scaling="941568" type="Y Axis"
+><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Alternator - Voltage Desired Add |" address="e5e14" elements="5" scaling="941588"
+><table name="ALT_TEMP_CORRECTED_6808" address="e5e00" elements="5" scaling="941568" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Undefined" address="e5e3c" elements="5" scaling="941628"
-><table name="FFFF_6808" address="e5e28" elements="5" scaling="941608" type="Y Axis"
+><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Alternator - Voltage Desired Add |" address="e5e3c" elements="5" scaling="941628"
+><table name="ALT_TEMP_CORRECTED_6808" address="e5e28" elements="5" scaling="941608" type="Y Axis"
 ></table
 ></table
 ><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Undefined" address="e5e5c" elements="3" scaling="941660"
@@ -12635,15 +12583,15 @@
 ><table name="FFFF_6800" address="e7998" elements="11" scaling="948632" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Undefined" address="e6010" elements="13" scaling="942096"
-><table name="FFFF_686C" address="e5fdc" elements="13" scaling="942044" type="Y Axis"
+><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Alternator Field Control Duty | Fault" address="e6010" elements="13" scaling="942096"
+><table name="ALT_SENSOR_V_DELTA_RATIO_686C" address="e5fdc" elements="13" scaling="942044" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Undefined" address="e6078" elements="13" scaling="942200"
-><table name="FFFF_2170" address="e6044" elements="13" scaling="942148" type="Y Axis"
+><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Alternator Field Control Duty - Limiter | Fault" address="e6078" elements="13" scaling="942200"
+><table name="RPM_6DD8" address="e6044" elements="13" scaling="942148" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="Undefined" address="e60d8" elements="11" scaling="942296"
+><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="ZEROED" address="e60d8" elements="11" scaling="942296"
 ><table name="FFFF_2170" address="e60ac" elements="11" scaling="942252" type="Y Axis"
 ></table
 ></table
@@ -12672,13 +12620,13 @@
 ></table
 ></table
 ><table level="1" type="3D" category="WIP - Alternator" swapxy="true" name="Undefined" address="e6360" elements="24" scaling="942944"
-><table name="FFFF_6808" address="e6354" elements="3" scaling="942932" type="X Axis"
+><table name="ALT_TEMP_CORRECTED_6808" address="e6354" elements="3" scaling="942932" type="X Axis"
 ></table
 ><table name="FFFF_2170" address="e6334" elements="8" scaling="942900" type="Y Axis"
 ></table
 ></table
 ><table level="1" type="3D" category="WIP - Alternator" swapxy="true" name="Undefined" address="e63ec" elements="24" scaling="943084"
-><table name="FFFF_6808" address="e63e0" elements="3" scaling="943072" type="X Axis"
+><table name="ALT_TEMP_CORRECTED_6808" address="e63e0" elements="3" scaling="943072" type="X Axis"
 ></table
 ><table name="FFFF_2170" address="e63c0" elements="8" scaling="943040" type="Y Axis"
 ></table
@@ -12725,10 +12673,10 @@
 ><table name="FFFF_67FC" address="e6794" elements="8" scaling="944020" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="WIP - Alternator" swapxy="true" name="Undefined" address="e6820" elements="132" scaling="944160"
-><table name="FFFF_682C" address="e79c4" elements="12" scaling="948676" type="X Axis"
+><table level="1" type="3D" category="WIP - Alternator" swapxy="true" name="Sensor_Scaling - Alt Amps to Sensor Voltage (not Batt V)" address="e6820" elements="132" scaling="944160"
+><table name="ALT_AMPS_682C" address="e79c4" elements="12" scaling="948676" type="X Axis"
 ></table
-><table name="FFFF_6800" address="e7998" elements="11" scaling="948632" type="Y Axis"
+><table name="ALT_RPM_6800" address="e7998" elements="11" scaling="948632" type="Y Axis"
 ></table
 ></table
 ><table level="1" type="2D" category="WIP - EVAP" swapxy="true" name="Undefined" address="e7c5c" elements="9" scaling="949340"
