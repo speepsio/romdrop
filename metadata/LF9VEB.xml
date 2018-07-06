@@ -2383,15 +2383,15 @@
 ></scaling
 ><scaling name="787544_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-20.000" max="100.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="894372" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+><scaling name="894156" units="" toexpr="x" frexpr="x" format="%0.2f" min="6.500" max="6.500" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="894376" units="" toexpr="x" frexpr="x" format="%0.2f" min="10388730000000000000000000000000000.000" max="10388730000000000000000000000000000.000" inc="1" storagetype="float" endian="big"
+><scaling name="894160" units="" toexpr="x" frexpr="x" format="%0.2f" min="11.000" max="11.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="894380" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+><scaling name="894164" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.050" max="0.050" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="894384" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+><scaling name="894168" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.020" max="0.020" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="894388" units="" toexpr="x" frexpr="x" format="%0.2f" min="13134369000000000000000.000" max="13134369000000000000000.000" inc="1" storagetype="float" endian="big"
+><scaling name="894172" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.030" max="0.030" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="787964" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.550" max="6.290" inc="0.1" storagetype="float" endian="big"
 ></scaling
@@ -8085,15 +8085,15 @@
 ><table name="ECT_6D44" address="c0458" elements="13" scaling="787544_DEG" type="Y Axis"
 ></table
 ></table
-><table level="4" type="1D" category="Spark Correction - Tip-In From Stop" swapxy="true" name="Tip-In Retard From Stop - Base Retard | AC On" address="da5a4" elements="1" scaling="894372"
+><table level="4" type="1D" category="Spark Correction - Tip-In From Stop" swapxy="true" name="Tip-In Retard From Stop - Base Retard | AC On" address="da4cc" elements="1" scaling="894156"
 ></table
-><table level="4" type="1D" category="Spark Correction - Tip-In From Stop" swapxy="true" name="Tip-In Retard From Stop - Base Retard | AC Off" address="da5a8" elements="1" scaling="894376"
+><table level="4" type="1D" category="Spark Correction - Tip-In From Stop" swapxy="true" name="Tip-In Retard From Stop - Base Retard | AC Off" address="da4d0" elements="1" scaling="894160"
 ></table
-><table level="4" type="1D" category="Spark Correction - Tip-In From Stop" swapxy="true" name="Tip-In Retard From Stop - Multiplier Increment to 1" address="da5ac" elements="1" scaling="894380"
+><table level="4" type="1D" category="Spark Correction - Tip-In From Stop" swapxy="true" name="Tip-In Retard From Stop - Multiplier Increment to 1" address="da4d4" elements="1" scaling="894164"
 ></table
-><table level="4" type="1D" category="Spark Correction - Tip-In From Stop" swapxy="true" name="Tip-In Retard From Stop - Multiplier Decrement to 0 | VSS LT 3.76" address="da5b0" elements="1" scaling="894384"
+><table level="4" type="1D" category="Spark Correction - Tip-In From Stop" swapxy="true" name="Tip-In Retard From Stop - Multiplier Decrement to 0 | VSS LT 3.76" address="da4d8" elements="1" scaling="894168"
 ></table
-><table level="4" type="1D" category="Spark Correction - Tip-In From Stop" swapxy="true" name="Tip-In Retard From Stop - Multiplier Decrement to 0 | VSS GT 3.76" address="da5b4" elements="1" scaling="894388"
+><table level="4" type="1D" category="Spark Correction - Tip-In From Stop" swapxy="true" name="Tip-In Retard From Stop - Multiplier Decrement to 0 | VSS GT 3.76" address="da4dc" elements="1" scaling="894172"
 ></table
 ><table level="1" type="2D" category="Spark Correction - Tip-In Anti Lug" swapxy="true" name="Tip-In Retard Anti Lug - Calculated Gear Alt WIP" address="c05fc" elements="12" scaling="787964"
 ><table name="RPM/VSS*36.37" address="b819c" elements="12" scaling="754076" type="Y Axis"
