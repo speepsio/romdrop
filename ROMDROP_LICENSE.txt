@@ -1,5 +1,3 @@
-ACCEPTED
-
 END-USER LICENSE AGREEMENT
 --------------------------
 This End-User License Agreement ("EULA") governs your use of ROMDROP/NC, 
