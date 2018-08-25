@@ -373,8 +373,6 @@
 ></scaling
 ><scaling name="855212" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.100" max="0.100" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="954468" units="" toexpr="x" frexpr="x" format="%d" min="0.000" max="0.000" inc="1" storagetype="uint8" endian="big"
-></scaling
 ><scaling name="916124" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.005" max="0.100" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="916068" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="66.560" inc="1" storagetype="float" endian="big"
@@ -5802,8 +5800,6 @@
 ><table level="4" type="1D" category="DBW - Brake Override" swapxy="true" name="BOS - Delay Decay Rate" address="abde4" elements="1" scaling="703972"
 ></table
 ><table level="4" type="1D" category="DBW - Brake Override" swapxy="true" name="BOS - Delay Multiplier" address="d0cac" elements="1" scaling="855212"
-></table
-><table level="1" type="1D" category="DBW - ECT Override WIP" swapxy="true" name="ECTOS - Activation Switch 2 | FF is On, Else Off (requires patch)" address="e9064" elements="1" scaling="954468"
 ></table
 ><table level="4" type="2D" category="Emission System - Catalyst" swapxy="true" name="Catalytic Temp Desired - Percent Est to Dsd Delta to Add " address="dfa9c" elements="14" scaling="916124"
 ><table name="MAF_W_IDLE/LOAD_LIMIT_6EF8" address="dfa64" elements="14" scaling="916068" type="Y Axis"
