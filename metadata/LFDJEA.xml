@@ -329,26 +329,6 @@
 ></scaling
 ><scaling name="762480" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="6.000" inc="0.1" storagetype="float" endian="big"
 ></scaling
-><scaling name="883504" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="883508" units="" toexpr="x" frexpr="x" format="%0.2f" min="3.000" max="3.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="883512_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="20.000" max="20.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="883516_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="-25.000" max="-25.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="883520_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="-70.000" max="-70.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="883524" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.250" max="1.250" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="883528" units="" toexpr="x" frexpr="x" format="%0.2f" min="-20.000" max="-20.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="883564" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.953" max="1.953" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="883568" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.200" max="1.200" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="883532" units="" toexpr="x" frexpr="x" format="%0.2f" min="-100.000" max="-100.000" inc="1" storagetype="float" endian="big"
-></scaling
 ><scaling name="880828" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.005" max="0.100" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="880772" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="66.560" inc="1" storagetype="float" endian="big"
@@ -1533,6 +1513,12 @@
 ></scaling
 ><scaling name="322130" units="" toexpr="x" frexpr="x" format="%d" min="36620.000" max="36620.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
+><scaling name="879316" units="" toexpr="x" frexpr="x" format="%0.2f" min="14.570" max="14.570" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="879320" units="" toexpr="x" frexpr="x" format="%0.2f" min="14.570" max="14.570" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="879324" units="" toexpr="x" frexpr="x" format="%0.2f" min="14.570" max="14.570" inc="1" storagetype="float" endian="big"
+></scaling
 ><scaling name="879408" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="879376_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-40.000" max="1080.000" inc="100" storagetype="float" endian="big"
@@ -1586,16 +1572,6 @@
 ><scaling name="877438" units="" toexpr="x" frexpr="x" format="%d" min="32.000" max="75.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="902296" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.120" max="17.920" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="879320" units="" toexpr="x" frexpr="x" format="%0.2f" min="14.570" max="14.570" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="879308" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.797" max="0.797" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="879324" units="" toexpr="x" frexpr="x" format="%0.2f" min="14.570" max="14.570" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="879312" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.047" max="0.047" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="879316" units="" toexpr="x" frexpr="x" format="%0.2f" min="14.570" max="14.570" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="878116" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.200" max="0.200" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -4249,6 +4225,8 @@
 ></scaling
 ><scaling name="920938" units="" toexpr="x" frexpr="x" format="%d" min="0.000" max="0.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
+><scaling name="292120" units="" toexpr="x" frexpr="x" format="%d" min="36610.000" max="36610.000" inc="1" storagetype="uint16" endian="big"
+></scaling
 ><scaling name="904700" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="26.500" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="904660" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="5000.000" inc="100" storagetype="float" endian="big"
@@ -5359,15 +5337,15 @@
 ><table name="APP_6D1C" address="c8a54" elements="16" scaling="821844" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DBW - Throttle Duty Desired" swapxy="true" name="APP to Throttle Duty Desired - Min" address="c8b9c" elements="18" scaling="822172"
+><table level="4" type="2D" category="DBW - Throttle Duty Desired" swapxy="true" name="APP to Throttle Duty Desired - Max" address="c8b9c" elements="18" scaling="822172"
 ><table name="APP_6D1C" address="c8b54" elements="18" scaling="822100" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="DBW - Throttle Duty Desired" swapxy="true" name="APP to Throttle Duty Desired - WIP | Brake On, VSS LT 2kph, AT" address="c8c2c" elements="18" scaling="822316"
+><table level="4" type="2D" category="DBW - Throttle Duty Desired" swapxy="true" name="APP to Throttle Duty Desired - Min" address="c8c2c" elements="18" scaling="822316"
 ><table name="APP_6D1C" address="c8be4" elements="18" scaling="822244" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DBW - Throttle Duty Desired" swapxy="true" name="APP to Throttle Duty Desired - Brake Override System" address="c8cbc" elements="18" scaling="822460"
+><table level="1" type="2D" category="DBW - Throttle Duty Desired" swapxy="true" name="APP to Throttle Duty Desired - WIP | Brake On, VSS LT 2kph, AT" address="c8cbc" elements="18" scaling="822460"
 ><table name="APP_6D1C" address="c8c74" elements="18" scaling="822388" type="Y Axis"
 ></table
 ></table
@@ -5648,26 +5626,6 @@
 ></table
 ><table name="VSS_INTERPOLATED_6740" address="ba24c" elements="9" scaling="762444_SPD" type="Y Axis"
 ></table
-></table
-><table level="4" type="1D" category="DBW - Brake Override" swapxy="true" name="BOS - Minimum APP Activation Threshold" address="d7b30" elements="1" scaling="883504"
-></table
-><table level="4" type="1D" category="DBW - Brake Override" swapxy="true" name="BOS - Minimum APP Activation Threshold Hysteresis" address="d7b34" elements="1" scaling="883508"
-></table
-><table level="4" type="1D" category="DBW - Brake Override" swapxy="true" name="BOS - VSS Activation Threshold | In-Gear" address="d7b38" elements="1" scaling="883512_SPD"
-></table
-><table level="4" type="1D" category="DBW - Brake Override" swapxy="true" name="BOS - VSS Activation Threshold | Not In-Gear" address="d7b3c" elements="1" scaling="883516_SPD"
-></table
-><table level="4" type="1D" category="DBW - Brake Override" swapxy="true" name="BOS - VSS Activation Threshold Hysteresis | Global" address="d7b40" elements="1" scaling="883520_SPD"
-></table
-><table level="4" type="1D" category="DBW - Brake Override" swapxy="true" name="BOS - RPM Activation Threshold" address="d7b44" elements="1" scaling="883524"
-></table
-><table level="4" type="1D" category="DBW - Brake Override" swapxy="true" name="BOS - RPM Activation Threshold Hysteresis" address="d7b48" elements="1" scaling="883528"
-></table
-><table level="4" type="1D" category="DBW - Brake Override" swapxy="true" name="BOS - Target Idle Speed | In-Gear" address="d7b6c" elements="1" scaling="883564"
-></table
-><table level="4" type="1D" category="DBW - Brake Override" swapxy="true" name="BOS - Target Idle Speed | Not In-Gear" address="d7b70" elements="1" scaling="883568"
-></table
-><table level="4" type="1D" category="DBW - Brake Override" swapxy="true" name="BOS - Delay Multiplier" address="d7b4c" elements="1" scaling="883532"
 ></table
 ><table level="4" type="2D" category="Emission System - Catalyst" swapxy="true" name="Catalytic Temp Desired - Percent Est to Dsd Delta to Add " address="d70bc" elements="14" scaling="880828"
 ><table name="MAF_W_IDLE/LOAD_LIMIT_6EF8" address="d7084" elements="14" scaling="880772" type="Y Axis"
@@ -6853,6 +6811,12 @@
 ></table
 ><table level="4" type="1D" category="Fuel Target CL - Base Patch" swapxy="true" name="Fuel Target CL Patch - Stock Value = 36620, Patch Value = 9" address="4ea52" elements="1" scaling="322130"
 ></table
+><table level="4" type="1D" category="Fuel Target CL - Base (requires patch)" swapxy="true" name="Fuel Target CL - Stoich AFR | Stock = 14.57, Gas = 14.7, E85 = 9.86" address="d6ad4" elements="1" scaling="879316"
+></table
+><table level="4" type="1D" category="Fuel Target CL - Base (requires patch)" swapxy="true" name="Fuel Target CL - Target AFR | Idle" address="d6ad8" elements="1" scaling="879320"
+></table
+><table level="4" type="1D" category="Fuel Target CL - Base (requires patch)" swapxy="true" name="Fuel Target CL - Target AFR | Not Idle" address="d6adc" elements="1" scaling="879324"
+></table
 ><table level="4" type="2D" category="Fuel Comp CL - Warm-Up Cat Efficency Check" swapxy="true" name="Warm-Up Cat Efficiency Check - Cat Temp Multiplier" address="d6b30" elements="8" scaling="879408"
 ><table name="CAT_TEMP_7924" address="d6b10" elements="8" scaling="879376_DEG" type="Y Axis"
 ></table
@@ -6906,16 +6870,6 @@
 ><table level="4" type="2D" category="Fuel Comp CL - RO2S Trim" swapxy="true" name="RO2S Trim - Timer 788D" address="d637e" elements="6" scaling="877438"
 ><table name="MAF_W_IDLE/LOAD_LIMIT_6EF8" address="dc498" elements="6" scaling="902296" type="Y Axis"
 ></table
-></table
-><table level="4" type="1D" category="Fuel Comp CL - RO2S Trim" swapxy="true" name="RO2S Trim - Enrichment Limit" address="d6ad8" elements="1" scaling="879320"
-></table
-><table level="4" type="1D" category="Fuel Comp CL - RO2S Trim" swapxy="true" name="RO2S Trim - Enrichment Rate | Timer 788E Trans To Expired, RO2S V Below Min" address="d6acc" elements="1" scaling="879308"
-></table
-><table level="4" type="1D" category="Fuel Comp CL - RO2S Trim" swapxy="true" name="RO2S Trim - Enleanment Limit " address="d6adc" elements="1" scaling="879324"
-></table
-><table level="4" type="1D" category="Fuel Comp CL - RO2S Trim" swapxy="true" name="RO2S Trim - Enleanment Rate | Timer 788D Trans to Expired" address="d6ad0" elements="1" scaling="879312"
-></table
-><table level="4" type="1D" category="Fuel Comp CL - RO2S Trim" swapxy="true" name="RO2S Trim - Enleanment Rate | Prev Timer A Below 64, Timer 7897 Above 64" address="d6ad4" elements="1" scaling="879316"
 ></table
 ><table level="4" type="2D" category="Fuel Comp CL - RO2S Trim" swapxy="true" name="RO2S Minimum Voltage Threshold | Shared" address="d6624" elements="6" scaling="878116"
 ><table name="CAT_TEMP_7924" address="dc4b0" elements="6" scaling="902320_DEG" type="Y Axis"
@@ -9568,6 +9522,8 @@
 ><table level="4" type="1D" category="DTC Flags A" swapxy="true" name=" P9342 - N/A" address="e0cca" elements="1" scaling="920778"
 ></table
 ><table level="4" type="1D" category="DTC Flags B" swapxy="true" name=" P9342 - N/A" address="e0d6a" elements="1" scaling="920938"
+></table
+><table level="1" type="1D" category="Patch - Decel Fuel Cutoff " swapxy="true" name="Patch - DFCO Disable | original = 36610, patch = 9" address="47518" elements="1" scaling="292120"
 ></table
 ><table level="1" type="2D" category="WIP - DTC Thresholds" swapxy="true" name="Throttle Duty Threshold" address="dcdfc" elements="10" scaling="904700"
 ><table name="RPM_6DD8" address="dcdd4" elements="10" scaling="904660" type="Y Axis"

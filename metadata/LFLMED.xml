@@ -1581,6 +1581,12 @@
 ></scaling
 ><scaling name="323866" units="" toexpr="x" frexpr="x" format="%d" min="36620.000" max="36620.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
+><scaling name="925208" units="" toexpr="x" frexpr="x" format="%0.2f" min="14.570" max="14.570" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="925212" units="" toexpr="x" frexpr="x" format="%0.2f" min="14.570" max="14.570" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="925216" units="" toexpr="x" frexpr="x" format="%0.2f" min="14.570" max="14.570" inc="1" storagetype="float" endian="big"
+></scaling
 ><scaling name="925300" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="925268_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-40.000" max="1080.000" inc="100" storagetype="float" endian="big"
@@ -1634,16 +1640,6 @@
 ><scaling name="922718" units="" toexpr="x" frexpr="x" format="%d" min="32.000" max="75.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="948484" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.120" max="17.920" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="925212" units="" toexpr="x" frexpr="x" format="%0.2f" min="14.570" max="14.570" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="925200" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.797" max="0.797" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="925216" units="" toexpr="x" frexpr="x" format="%0.2f" min="14.570" max="14.570" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="925204" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.047" max="0.047" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="925208" units="" toexpr="x" frexpr="x" format="%0.2f" min="14.570" max="14.570" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="923396" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.200" max="0.200" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -4338,6 +4334,8 @@
 ><scaling name="968269" units="" toexpr="x" frexpr="x" format="%d" min="0.000" max="0.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="968429" units="" toexpr="x" frexpr="x" format="%d" min="0.000" max="0.000" inc="1" storagetype="uint8" endian="big"
+></scaling
+><scaling name="293564" units="" toexpr="x" frexpr="x" format="%d" min="36610.000" max="36610.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
 ><scaling name="950888" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="26.500" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -7149,6 +7147,12 @@
 ></table
 ><table level="4" type="1D" category="Fuel Target CL - Base Patch" swapxy="true" name="Fuel Target CL Patch - Stock Value = 36620, Patch Value = 9" address="4f11a" elements="1" scaling="323866"
 ></table
+><table level="4" type="1D" category="Fuel Target CL - Base (requires patch)" swapxy="true" name="Fuel Target CL - Stoich AFR | Stock = 14.57, Gas = 14.7, E85 = 9.86" address="e1e18" elements="1" scaling="925208"
+></table
+><table level="4" type="1D" category="Fuel Target CL - Base (requires patch)" swapxy="true" name="Fuel Target CL - Target AFR | Idle" address="e1e1c" elements="1" scaling="925212"
+></table
+><table level="4" type="1D" category="Fuel Target CL - Base (requires patch)" swapxy="true" name="Fuel Target CL - Target AFR | Not Idle" address="e1e20" elements="1" scaling="925216"
+></table
 ><table level="4" type="2D" category="Fuel Comp CL - Warm-Up Cat Efficency Check" swapxy="true" name="Warm-Up Cat Efficiency Check - Cat Temp Multiplier" address="e1e74" elements="8" scaling="925300"
 ><table name="CAT_TEMP_7924" address="e1e54" elements="8" scaling="925268_DEG" type="Y Axis"
 ></table
@@ -7202,16 +7206,6 @@
 ><table level="4" type="2D" category="Fuel Comp CL - RO2S Trim" swapxy="true" name="RO2S Trim - Timer 788D" address="e145e" elements="6" scaling="922718"
 ><table name="MAF_W_IDLE/LOAD_LIMIT_6EF8" address="e7904" elements="6" scaling="948484" type="Y Axis"
 ></table
-></table
-><table level="4" type="1D" category="Fuel Comp CL - RO2S Trim" swapxy="true" name="RO2S Trim - Enrichment Limit" address="e1e1c" elements="1" scaling="925212"
-></table
-><table level="4" type="1D" category="Fuel Comp CL - RO2S Trim" swapxy="true" name="RO2S Trim - Enrichment Rate | Timer 788E Trans To Expired, RO2S V Below Min" address="e1e10" elements="1" scaling="925200"
-></table
-><table level="4" type="1D" category="Fuel Comp CL - RO2S Trim" swapxy="true" name="RO2S Trim - Enleanment Limit " address="e1e20" elements="1" scaling="925216"
-></table
-><table level="4" type="1D" category="Fuel Comp CL - RO2S Trim" swapxy="true" name="RO2S Trim - Enleanment Rate | Timer 788D Trans to Expired" address="e1e14" elements="1" scaling="925204"
-></table
-><table level="4" type="1D" category="Fuel Comp CL - RO2S Trim" swapxy="true" name="RO2S Trim - Enleanment Rate | Prev Timer A Below 64, Timer 7897 Above 64" address="e1e18" elements="1" scaling="925208"
 ></table
 ><table level="4" type="2D" category="Fuel Comp CL - RO2S Trim" swapxy="true" name="RO2S Minimum Voltage Threshold | Shared" address="e1704" elements="6" scaling="923396"
 ><table name="CAT_TEMP_7924" address="e791c" elements="6" scaling="948508_DEG" type="Y Axis"
@@ -9906,6 +9900,8 @@
 ><table level="4" type="1D" category="DTC Flags A" swapxy="true" name=" P9342 - N/A" address="ec64d" elements="1" scaling="968269"
 ></table
 ><table level="4" type="1D" category="DTC Flags B" swapxy="true" name=" P9342 - N/A" address="ec6ed" elements="1" scaling="968429"
+></table
+><table level="1" type="1D" category="Patch - Decel Fuel Cutoff " swapxy="true" name="Patch - DFCO Disable | original = 36610, patch = 9" address="47abc" elements="1" scaling="293564"
 ></table
 ><table level="1" type="2D" category="WIP - DTC Thresholds" swapxy="true" name="Throttle Duty Threshold" address="e8268" elements="10" scaling="950888"
 ><table name="RPM_6DD8" address="e8240" elements="10" scaling="950848" type="Y Axis"
