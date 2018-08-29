@@ -639,8 +639,6 @@
 ></scaling
 ><scaling name="778444" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="38316" units="" toexpr="x" frexpr="x" format="%0.2f" min="10.000" max="10.000" inc="1" storagetype="float" endian="big"
-></scaling
 ><scaling name="769191" units="" toexpr="x" frexpr="x" format="%d" min="24.000" max="24.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="771468" units="" toexpr="x" frexpr="x" format="%0.2f" min="287.000" max="287.000" inc="1" storagetype="float" endian="big"
@@ -2576,10 +2574,6 @@
 ><scaling name="857480" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="5.000" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="857452_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-40.000" max="80.000" inc="10" storagetype="float" endian="big"
-></scaling
-><scaling name="16695" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="16707" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="862116" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="9.900" inc="0.1" storagetype="float" endian="big"
 ></scaling
@@ -5539,8 +5533,6 @@
 ><table name="RPM_6DD8" address="be094" elements="14" scaling="778388" type="Y Axis"
 ></table
 ></table
-><table level="4" type="1D" category="Engine Sensors - KS" swapxy="true" name="KS Scaling - Proto-Knock Magnitude Multiplier | Global" address="95ac" elements="1" scaling="38316"
-></table
 ><table level="4" type="1D" category="Engine Sensors - KS" swapxy="true" name="KS Scaling - Minimum Proto-Knock Count for Successful Knock Event" address="bbca7" elements="1" scaling="769191"
 ></table
 ><table level="1" type="2D" category="Engine Sensors - KS - DO NOT MODIFY" swapxy="true" name="KS - DO NOT MODIFY - Proto-Knock Max Magnitude | Cylinder 1" address="bc58c" elements="14" scaling="771468"
@@ -7476,10 +7468,6 @@
 ><table level="4" type="2D" category="Spark Comp - Cold Advance" swapxy="true" name="Spark Cold Advance - Transition from Idle Add | Not Idle" address="d1588" elements="7" scaling="857480"
 ><table name="ECT_6D44" address="d156c" elements="7" scaling="857452_DEG" type="Y Axis"
 ></table
-></table
-><table level="4" type="1D" category="Spark Comp - Cold Advance" swapxy="true" name="Spark Cold Advance - Transition from Idle Add Timer" address="4137" elements="1" scaling="16695"
-></table
-><table level="4" type="1D" category="Spark Comp - Cold Advance" swapxy="true" name="Spark Cold Advance - Transition from Idle Add Retard Rate | Timer Expired" address="4143" elements="1" scaling="16707"
 ></table
 ><table level="4" type="3D" category="Spark Comp - EGR Advance" swapxy="true" name="Spark EGR Advance | IMRC" address="d27a4" elements="130" scaling="862116"
 ><table name="LOAD_6F44" address="d2770" elements="13" scaling="862064" type="X Axis"

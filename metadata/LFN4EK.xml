@@ -651,8 +651,6 @@
 ></scaling
 ><scaling name="778444" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="38320" units="" toexpr="x" frexpr="x" format="%0.2f" min="10.000" max="10.000" inc="1" storagetype="float" endian="big"
-></scaling
 ><scaling name="769191" units="" toexpr="x" frexpr="x" format="%d" min="24.000" max="24.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="771468" units="" toexpr="x" frexpr="x" format="%0.2f" min="319.000" max="319.000" inc="1" storagetype="float" endian="big"
@@ -1594,8 +1592,6 @@
 ><scaling name="768344" units="" toexpr="x" frexpr="x" format="%0.2f" min="6.010" max="6.010" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="881736" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.625" max="5.625" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="23858" units="" toexpr="x" frexpr="x" format="%0.2f" min="-70.000" max="-70.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="843456" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="10.000" inc="0.1" storagetype="float" endian="big"
 ></scaling
@@ -5611,8 +5607,6 @@
 ><table name="RPM_6DD8" address="be094" elements="14" scaling="778388" type="Y Axis"
 ></table
 ></table
-><table level="4" type="1D" category="Engine Sensors - KS" swapxy="true" name="KS Scaling - Proto-Knock Magnitude Multiplier | Global" address="95b0" elements="1" scaling="38320"
-></table
 ><table level="4" type="1D" category="Engine Sensors - KS" swapxy="true" name="KS Scaling - Minimum Proto-Knock Count for Successful Knock Event" address="bbca7" elements="1" scaling="769191"
 ></table
 ><table level="1" type="2D" category="Engine Sensors - KS - DO NOT MODIFY" swapxy="true" name="KS - DO NOT MODIFY - Proto-Knock Max Magnitude | Cylinder 1" address="bc58c" elements="14" scaling="771468"
@@ -6554,8 +6548,6 @@
 ><table level="4" type="1D" category="Fuel Comp OL/CL - MAF Thresholds WIP" swapxy="true" name="RO2S Comp Deactivation - Max MAF Threshold" address="bb958" elements="1" scaling="768344"
 ></table
 ><table level="4" type="1D" category="Fuel Comp OL/CL - MAF Thresholds WIP" swapxy="true" name="RO2S Comp Deactivation - Max MAF Threshold Hysteresis" address="d7448" elements="1" scaling="881736"
-></table
-><table level="4" type="1D" category="Fuel Comp OL/CL - Control Module Fault" swapxy="true" name="Control Module Fault - maximum Enleanment" address="5d32" elements="1" scaling="23858"
 ></table
 ><table level="4" type="3D" category="Fuel Comp OL/CL - Radiant Intake Heat" swapxy="true" name="Radiant Intake Heat Enrichment" address="cdec0" elements="91" scaling="843456"
 ><table name="LOAD_7004" address="cdea4" elements="7" scaling="843428" type="X Axis"

@@ -675,8 +675,6 @@
 ></scaling
 ><scaling name="777468" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="32532" units="" toexpr="x" frexpr="x" format="%0.2f" min="10.000" max="10.000" inc="1" storagetype="float" endian="big"
-></scaling
 ><scaling name="768215" units="" toexpr="x" frexpr="x" format="%d" min="24.000" max="24.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="770492" units="" toexpr="x" frexpr="x" format="%0.2f" min="319.000" max="319.000" inc="1" storagetype="float" endian="big"
@@ -5972,8 +5970,6 @@
 ></table
 ><table name="RPM_6DD8" address="bdcc4" elements="14" scaling="777412" type="Y Axis"
 ></table
-></table
-><table level="4" type="1D" category="Engine Sensors - KS" swapxy="true" name="KS Scaling - Proto-Knock Magnitude Multiplier | Global" address="7f14" elements="1" scaling="32532"
 ></table
 ><table level="4" type="1D" category="Engine Sensors - KS" swapxy="true" name="KS Scaling - Minimum Proto-Knock Count for Successful Knock Event" address="bb8d7" elements="1" scaling="768215"
 ></table
