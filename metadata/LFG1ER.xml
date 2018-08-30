@@ -433,11 +433,13 @@
 ></scaling
 ><scaling name="824284" units="" toexpr="x" frexpr="x" format="%0.2f" min="1998.000" max="1998.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="887568_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="999.000" max="999.000" inc="1" storagetype="float" endian="big"
+><scaling name="784916_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="45.000" max="45.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="818108_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.000" max="2.000" inc="1" storagetype="float" endian="big"
+><scaling name="784920_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="824396_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
+><scaling name="784924_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="85.000" max="85.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="784928_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="784888" units="" toexpr="x" frexpr="x" format="%d" min="96.000" max="96.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
@@ -499,13 +501,15 @@
 ></scaling
 ><scaling name="480253" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="804852" units="" toexpr="x" frexpr="x" format="%0.2f" min="80.000" max="80.000" inc="1" storagetype="float" endian="big"
+><scaling name="804772" units="" toexpr="x" frexpr="x" format="%0.2f" min="-15.000" max="-15.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="804952" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
+><scaling name="804776" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="804976" units="" toexpr="x" frexpr="x" format="%0.2f" min="5500.000" max="5500.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="804892" units="" toexpr="x" frexpr="x" format="%0.2f" min="40.000" max="40.000" inc="1" storagetype="float" endian="big"
+><scaling name="804780" units="" toexpr="x" frexpr="x" format="%0.2f" min="-15.000" max="-15.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="804784" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="804980" units="" toexpr="x" frexpr="x" format="%0.2f" min="5500.000" max="5500.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -521,13 +525,13 @@
 ></scaling
 ><scaling name="804996" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="804956_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="-1000.000" max="-1000.000" inc="1" storagetype="float" endian="big"
+><scaling name="804844_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="250.000" max="250.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="839568_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
+><scaling name="804848_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.640" max="5.640" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="804868" units="" toexpr="x" frexpr="x" format="%0.2f" min="3000.000" max="3000.000" inc="1" storagetype="float" endian="big"
+><scaling name="804836" units="" toexpr="x" frexpr="x" format="%0.2f" min="4000.000" max="4000.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="804888" units="" toexpr="x" frexpr="x" format="%0.2f" min="93.750" max="93.750" inc="1" storagetype="float" endian="big"
+><scaling name="804840" units="" toexpr="x" frexpr="x" format="%0.2f" min="93.750" max="93.750" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="824496" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.350" max="0.770" inc="0.01" storagetype="float" endian="big"
 ></scaling
@@ -560,10 +564,6 @@
 ><scaling name="824672" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.725" max="1.032" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="824620" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="6500.000" inc="100" storagetype="float" endian="big"
-></scaling
-><scaling name="869324" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="804800" units="" toexpr="x" frexpr="x" format="%0.2f" min="687.500" max="687.500" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="825276" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.120" max="0.120" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -893,9 +893,9 @@
 ></scaling
 ><scaling name="755736" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="839660" units="" toexpr="x" frexpr="x" format="%0.2f" min="87.500" max="87.500" inc="1" storagetype="float" endian="big"
+><scaling name="830160" units="" toexpr="x" frexpr="x" format="%0.2f" min="87.500" max="87.500" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="887416" units="" toexpr="x" frexpr="x" format="%0.2f" min="3.125" max="3.125" inc="1" storagetype="float" endian="big"
+><scaling name="830164" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.734" max="2.734" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="830460" units="" toexpr="x" frexpr="x" format="%0.2f" min="6.000" max="85.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -1047,19 +1047,21 @@
 ></scaling
 ><scaling name="833864" units="" toexpr="x" frexpr="x" format="%0.2f" min="-4.000" max="0.000" inc="0.1" storagetype="float" endian="big"
 ></scaling
-><scaling name="887404" units="" toexpr="x" frexpr="x" format="%0.2f" min="50.000" max="50.000" inc="1" storagetype="float" endian="big"
+><scaling name="830144" units="" toexpr="x" frexpr="x" format="%0.2f" min="82.031" max="82.031" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="887644" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
+><scaling name="830148" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.734" max="2.734" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="876288" units="" toexpr="x" frexpr="x" format="%0.2f" min="72.230" max="72.230" inc="1" storagetype="float" endian="big"
+><scaling name="804916" units="" toexpr="x" frexpr="x" format="%0.2f" min="93.000" max="93.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="869968" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.640" max="0.640" inc="1" storagetype="float" endian="big"
+><scaling name="804920" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="804726" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.011" max="0.011" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="804727" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.009" max="0.009" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="804964" units="" toexpr="x" frexpr="x" format="%0.2f" min="30.000" max="30.000" inc="1" storagetype="float" endian="big"
+><scaling name="804948" units="" toexpr="x" frexpr="x" format="%0.2f" min="200.000" max="200.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="804952" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="805660" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
@@ -1089,13 +1091,13 @@
 ></scaling
 ><scaling name="805020" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.734" max="2.734" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="804804" units="" toexpr="x" frexpr="x" format="%0.2f" min="1500.000" max="1500.000" inc="1" storagetype="float" endian="big"
+><scaling name="804900" units="" toexpr="x" frexpr="x" format="%0.2f" min="3289.000" max="3289.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="804824" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+><scaling name="804904" units="" toexpr="x" frexpr="x" format="%0.2f" min="93.750" max="93.750" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="804812" units="" toexpr="x" frexpr="x" format="%0.2f" min="3000.000" max="3000.000" inc="1" storagetype="float" endian="big"
+><scaling name="804908" units="" toexpr="x" frexpr="x" format="%0.2f" min="5000.000" max="5000.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="806300" units="" toexpr="x" frexpr="x" format="%0.2f" min="93.750" max="93.750" inc="1" storagetype="float" endian="big"
+><scaling name="804912" units="" toexpr="x" frexpr="x" format="%0.2f" min="93.750" max="93.750" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="806108" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="60.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -1111,9 +1113,9 @@
 ></scaling
 ><scaling name="873632" units="" toexpr="x" frexpr="x" format="%0.2f" min="880.000" max="880.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="804908" units="" toexpr="x" frexpr="x" format="%0.2f" min="5000.000" max="5000.000" inc="1" storagetype="float" endian="big"
+><scaling name="804884" units="" toexpr="x" frexpr="x" format="%0.2f" min="7968.750" max="7968.750" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="804816" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+><scaling name="804888" units="" toexpr="x" frexpr="x" format="%0.2f" min="93.750" max="93.750" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="806220" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.453" max="0.453" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -1121,15 +1123,17 @@
 ></scaling
 ><scaling name="805136" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.047" max="0.047" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="804792" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
+><scaling name="804892" units="" toexpr="x" frexpr="x" format="%0.2f" min="40.000" max="40.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="804896" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="804728" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="804729" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="887396" units="" toexpr="x" frexpr="x" format="%0.2f" min="72.844" max="72.844" inc="1" storagetype="float" endian="big"
+><scaling name="804924" units="" toexpr="x" frexpr="x" format="%0.2f" min="93.000" max="93.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="869976" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
+><scaling name="804928" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="804731" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -1143,9 +1147,9 @@
 ></scaling
 ><scaling name="804725" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.011" max="0.011" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="804876" units="" toexpr="x" frexpr="x" format="%0.2f" min="3000.000" max="3000.000" inc="1" storagetype="float" endian="big"
+><scaling name="804860" units="" toexpr="x" frexpr="x" format="%0.2f" min="2312.500" max="2312.500" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="804904" units="" toexpr="x" frexpr="x" format="%0.2f" min="93.750" max="93.750" inc="1" storagetype="float" endian="big"
+><scaling name="804864" units="" toexpr="x" frexpr="x" format="%0.2f" min="93.750" max="93.750" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="804733" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -1219,63 +1223,69 @@
 ></scaling
 ><scaling name="841756" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.250" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="839672" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="500.000" inc="1" storagetype="float" endian="big"
+><scaling name="839604" units="" toexpr="x" frexpr="x" format="%0.2f" min="5000.000" max="5000.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="839608" units="" toexpr="x" frexpr="x" format="%0.2f" min="100.000" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="839684" units="" toexpr="x" frexpr="x" format="%0.2f" min="700.000" max="700.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="876272" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.164" max="0.164" inc="1" storagetype="float" endian="big"
+><scaling name="839612" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.850" max="0.850" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="887636" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.047" max="0.047" inc="1" storagetype="float" endian="big"
+><scaling name="839616" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.050" max="0.050" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="839732" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="18.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="839704" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="30.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="876296_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="7.520" max="7.520" inc="1" storagetype="float" endian="big"
+><scaling name="839564_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="999.000" max="999.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="870124_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.640" max="5.640" inc="1" storagetype="float" endian="big"
+><scaling name="839568_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="839628" units="" toexpr="x" frexpr="x" format="%0.2f" min="95.000" max="95.000" inc="1" storagetype="float" endian="big"
+><scaling name="839572" units="" toexpr="x" frexpr="x" format="%0.2f" min="999.000" max="999.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="870024" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
+><scaling name="839576" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="869956" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.992" max="1.992" inc="1" storagetype="float" endian="big"
+><scaling name="839580" units="" toexpr="x" frexpr="x" format="%0.2f" min="999.000" max="999.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="769240" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.047" max="0.047" inc="1" storagetype="float" endian="big"
+><scaling name="839584" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.050" max="0.050" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="839604" units="" toexpr="x" frexpr="x" format="%0.2f" min="5000.000" max="5000.000" inc="1" storagetype="float" endian="big"
+><scaling name="839588" units="" toexpr="x" frexpr="x" format="%0.2f" min="8000.000" max="8000.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="839592" units="" toexpr="x" frexpr="x" format="%0.2f" min="100.000" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="839680" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="839676" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="870012" units="" toexpr="x" frexpr="x" format="%0.2f" min="70.000" max="70.000" inc="1" storagetype="float" endian="big"
+><scaling name="839620" units="" toexpr="x" frexpr="x" format="%0.2f" min="80.000" max="80.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="870132" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
+><scaling name="839624" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="870020" units="" toexpr="x" frexpr="x" format="%0.2f" min="-40.000" max="-40.000" inc="1" storagetype="float" endian="big"
+><scaling name="839628" units="" toexpr="x" frexpr="x" format="%0.2f" min="95.000" max="95.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="870140" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
+><scaling name="839632" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="852872" units="" toexpr="x" frexpr="x" format="%0.2f" min="-40.000" max="-40.000" inc="1" storagetype="float" endian="big"
+><scaling name="839636" units="" toexpr="x" frexpr="x" format="%0.2f" min="15.000" max="15.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="844196" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
+><scaling name="839640" units="" toexpr="x" frexpr="x" format="%0.2f" min="3.000" max="3.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="887016" units="" toexpr="x" frexpr="x" format="%0.2f" min="85.000" max="85.000" inc="1" storagetype="float" endian="big"
+><scaling name="839644" units="" toexpr="x" frexpr="x" format="%0.2f" min="35.000" max="35.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="887596" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
+><scaling name="839648" units="" toexpr="x" frexpr="x" format="%0.2f" min="3.000" max="3.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="844200" units="" toexpr="x" frexpr="x" format="%0.2f" min="3.125" max="3.125" inc="1" storagetype="float" endian="big"
+><scaling name="839652" units="" toexpr="x" frexpr="x" format="%0.2f" min="75.000" max="75.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="887412" units="" toexpr="x" frexpr="x" format="%0.2f" min="12.500" max="12.500" inc="1" storagetype="float" endian="big"
+><scaling name="839656" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="887652" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
+><scaling name="839660" units="" toexpr="x" frexpr="x" format="%0.2f" min="87.500" max="87.500" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="839664" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="839688" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.820" max="0.820" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="870080" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="500.000" inc="1" storagetype="float" endian="big"
+><scaling name="839668" units="" toexpr="x" frexpr="x" format="%0.2f" min="6250.000" max="6250.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="870164" units="" toexpr="x" frexpr="x" format="%0.2f" min="93.750" max="93.750" inc="1" storagetype="float" endian="big"
+><scaling name="839672" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="500.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="839560" units="" toexpr="x" frexpr="x" format="%d" min="0.000" max="0.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
@@ -1571,25 +1581,29 @@
 ></scaling
 ><scaling name="870060" units="" toexpr="x" frexpr="x" format="%0.2f" min="18.000" max="18.000" inc="1" storagetype="float" endian="big"
 ></scaling
+><scaling name="869964" units="" toexpr="x" frexpr="x" format="%0.2f" min="7.000" max="7.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="869968" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.640" max="0.640" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="869972" units="" toexpr="x" frexpr="x" format="%0.2f" min="15.000" max="15.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="869976" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
+></scaling
 ><scaling name="869980" units="" toexpr="x" frexpr="x" format="%0.2f" min="30.000" max="30.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="870000" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.500" max="1.500" inc="1" storagetype="float" endian="big"
+><scaling name="869984" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.500" max="1.500" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="869988" units="" toexpr="x" frexpr="x" format="%0.2f" min="200.000" max="200.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="870008" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.500" max="1.500" inc="1" storagetype="float" endian="big"
+><scaling name="869992" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.500" max="1.500" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="869996" units="" toexpr="x" frexpr="x" format="%0.2f" min="200.000" max="200.000" inc="1" storagetype="float" endian="big"
 ></scaling
+><scaling name="870000" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.500" max="1.500" inc="1" storagetype="float" endian="big"
+></scaling
 ><scaling name="870004" units="" toexpr="x" frexpr="x" format="%0.2f" min="200.000" max="200.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="768340" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.010" max="1.010" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="768348" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.010" max="1.010" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="768344" units="" toexpr="x" frexpr="x" format="%0.2f" min="6.010" max="6.010" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="881852" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.625" max="5.625" inc="1" storagetype="float" endian="big"
+><scaling name="870008" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.500" max="1.500" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="843456" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="10.000" inc="0.1" storagetype="float" endian="big"
 ></scaling
@@ -1745,13 +1759,13 @@
 ></scaling
 ><scaling name="767608" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="806312" units="" toexpr="x" frexpr="x" format="%0.2f" min="60.000" max="60.000" inc="1" storagetype="float" endian="big"
+><scaling name="837272" units="" toexpr="x" frexpr="x" format="%0.2f" min="75.000" max="75.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="839624" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
+><scaling name="837276" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="870028_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="7.520" max="7.520" inc="1" storagetype="float" endian="big"
+><scaling name="837280_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="20.000" max="20.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="870116_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.000" max="2.000" inc="1" storagetype="float" endian="big"
+><scaling name="837284_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="3.760" max="3.760" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="837268" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.500" max="1.500" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -1763,13 +1777,13 @@
 ></scaling
 ><scaling name="837200" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.031" max="0.031" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="783216" units="" toexpr="x" frexpr="x" format="%0.2f" min="-10.000" max="-10.000" inc="1" storagetype="float" endian="big"
+><scaling name="822572" units="" toexpr="x" frexpr="x" format="%0.2f" min="60.000" max="60.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="872212" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.047" max="0.047" inc="1" storagetype="float" endian="big"
+><scaling name="822576" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="822528" units="" toexpr="x" frexpr="x" format="%0.2f" min="900.000" max="900.000" inc="1" storagetype="float" endian="big"
+><scaling name="822580" units="" toexpr="x" frexpr="x" format="%0.2f" min="3750.000" max="3750.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="755364" units="" toexpr="x" frexpr="x" format="%0.2f" min="90.000" max="90.000" inc="1" storagetype="float" endian="big"
+><scaling name="822584" units="" toexpr="x" frexpr="x" format="%0.2f" min="93.750" max="93.750" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="822652" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="197.656" inc="10" storagetype="float" endian="big"
 ></scaling
@@ -1779,7 +1793,9 @@
 ></scaling
 ><scaling name="822708" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
 ></scaling
-><scaling name="755488" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
+><scaling name="822588" units="" toexpr="x" frexpr="x" format="%0.2f" min="3250.000" max="3250.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="822592" units="" toexpr="x" frexpr="x" format="%0.2f" min="93.750" max="93.750" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="822876" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -1817,13 +1833,13 @@
 ></scaling
 ><scaling name="768356" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="887616" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+><scaling name="768368" units="" toexpr="x" frexpr="x" format="%0.2f" min="3150.000" max="3150.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="822584" units="" toexpr="x" frexpr="x" format="%0.2f" min="93.750" max="93.750" inc="1" storagetype="float" endian="big"
+><scaling name="768372" units="" toexpr="x" frexpr="x" format="%0.2f" min="187.500" max="187.500" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="887624" units="" toexpr="x" frexpr="x" format="%0.2f" min="5000.000" max="5000.000" inc="1" storagetype="float" endian="big"
+><scaling name="768376" units="" toexpr="x" frexpr="x" format="%0.2f" min="4750.000" max="4750.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="822592" units="" toexpr="x" frexpr="x" format="%0.2f" min="93.750" max="93.750" inc="1" storagetype="float" endian="big"
+><scaling name="768380" units="" toexpr="x" frexpr="x" format="%0.2f" min="187.500" max="187.500" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="768576" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.107" inc="0.01" storagetype="float" endian="big"
 ></scaling
@@ -2279,13 +2295,13 @@
 ></scaling
 ><scaling name="863680" units="" toexpr="x" frexpr="x" format="%0.2f" min="-200.000" max="500.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="769220" units="" toexpr="x" frexpr="x" format="%0.2f" min="5250.000" max="5250.000" inc="1" storagetype="float" endian="big"
+><scaling name="863768" units="" toexpr="x" frexpr="x" format="%0.2f" min="5000.000" max="5000.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="807564" units="" toexpr="x" frexpr="x" format="%0.2f" min="93.750" max="93.750" inc="1" storagetype="float" endian="big"
+><scaling name="863772" units="" toexpr="x" frexpr="x" format="%0.2f" min="93.750" max="93.750" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="769252" units="" toexpr="x" frexpr="x" format="%0.2f" min="80.000" max="80.000" inc="1" storagetype="float" endian="big"
+><scaling name="863760" units="" toexpr="x" frexpr="x" format="%0.2f" min="100.000" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="785528" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
+><scaling name="863764" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="805812" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.307" max="0.307" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -2301,13 +2317,13 @@
 ></scaling
 ><scaling name="769208" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.047" max="0.047" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="887056" units="" toexpr="x" frexpr="x" format="%0.2f" min="9999.000" max="9999.000" inc="1" storagetype="float" endian="big"
+><scaling name="769212" units="" toexpr="x" frexpr="x" format="%0.2f" min="1000.000" max="1000.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="823328" units="" toexpr="x" frexpr="x" format="%0.2f" min="93.750" max="93.750" inc="1" storagetype="float" endian="big"
+><scaling name="769216" units="" toexpr="x" frexpr="x" format="%0.2f" min="93.750" max="93.750" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="807560" units="" toexpr="x" frexpr="x" format="%0.2f" min="3500.000" max="3500.000" inc="1" storagetype="float" endian="big"
+><scaling name="769220" units="" toexpr="x" frexpr="x" format="%0.2f" min="5250.000" max="5250.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="823336" units="" toexpr="x" frexpr="x" format="%0.2f" min="93.750" max="93.750" inc="1" storagetype="float" endian="big"
+><scaling name="769224" units="" toexpr="x" frexpr="x" format="%0.2f" min="93.750" max="93.750" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="769520" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.800" max="5.625" inc="0.1" storagetype="float" endian="big"
 ></scaling
@@ -2739,9 +2755,9 @@
 ></scaling
 ><scaling name="764404" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="6500.000" inc="100" storagetype="float" endian="big"
 ></scaling
-><scaling name="887420" units="" toexpr="x" frexpr="x" format="%0.2f" min="6600.000" max="6600.000" inc="1" storagetype="float" endian="big"
+><scaling name="764312" units="" toexpr="x" frexpr="x" format="%0.2f" min="7000.000" max="7000.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="768372" units="" toexpr="x" frexpr="x" format="%0.2f" min="187.500" max="187.500" inc="1" storagetype="float" endian="big"
+><scaling name="764316" units="" toexpr="x" frexpr="x" format="%0.2f" min="93.750" max="93.750" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="764560" units="" toexpr="x" frexpr="x" format="%0.2f" min="9.000" max="11.000" inc="0.1" storagetype="float" endian="big"
 ></scaling
@@ -5391,11 +5407,13 @@
 ></table
 ><table level="4" type="1D" category="Engine Displacement" swapxy="true" name="Engine Displacement" address="c93dc" elements="1" scaling="824284"
 ></table
-><table level="4" type="1D" category="Engine Fan Control" swapxy="true" name="Fan Mid Speed to Low Speed - VSS Threshold" address="d8b10" elements="1" scaling="887568_SPD"
+><table level="4" type="1D" category="Engine Fan Control" swapxy="true" name="Fan Mid Speed to Low Speed - VSS Threshold" address="bfa14" elements="1" scaling="784916_SPD"
 ></table
-><table level="4" type="1D" category="Engine Fan Control" swapxy="true" name="Fan Low Speed to Disabled - VSS Threshold" address="c7bbc" elements="1" scaling="818108_SPD"
+><table level="4" type="1D" category="Engine Fan Control" swapxy="true" name="Fan Mid Speed to Low Speed - VSS Threshold Hysteresis" address="bfa18" elements="1" scaling="784920_SPD"
 ></table
-><table level="4" type="1D" category="Engine Fan Control" swapxy="true" name="Fan Low Speed to Disabled - VSS Threshold Hysteresis" address="c944c" elements="1" scaling="824396_SPD"
+><table level="4" type="1D" category="Engine Fan Control" swapxy="true" name="Fan Low Speed to Disabled - VSS Threshold" address="bfa1c" elements="1" scaling="784924_SPD"
+></table
+><table level="4" type="1D" category="Engine Fan Control" swapxy="true" name="Fan Low Speed to Disabled - VSS Threshold Hysteresis" address="bfa20" elements="1" scaling="784928_SPD"
 ></table
 ><table level="4" type="1D" category="Engine Fan Control" swapxy="true" name="Fan Mid Speed - ECT Activation Threshold | AC Off" address="bf9f8" elements="1" scaling="784888"
 ></table
@@ -5457,13 +5475,15 @@
 ></table
 ><table level="4" type="1D" category="Engine Limiters - RPM" swapxy="true" name="Rev Limit Throttle Cut | CPP clear" address="753fd" elements="1" scaling="480253"
 ></table
-><table level="4" type="1D" category="Engine Limiters - RPM" swapxy="true" name="Rev Limit Fuel Cut - Primary Low ECT Threshold" address="c47f4" elements="1" scaling="804852"
+><table level="4" type="1D" category="Engine Limiters - RPM" swapxy="true" name="Rev Limit Fuel Cut - Primary Low ECT Threshold" address="c47a4" elements="1" scaling="804772"
 ></table
-><table level="4" type="1D" category="Engine Limiters - RPM" swapxy="true" name="Rev Limit Fuel Cut - Primary Low ECT Hysteresis" address="c4858" elements="1" scaling="804952"
+><table level="4" type="1D" category="Engine Limiters - RPM" swapxy="true" name="Rev Limit Fuel Cut - Primary Low ECT Hysteresis" address="c47a8" elements="1" scaling="804776"
 ></table
 ><table level="4" type="1D" category="Engine Limiters - RPM" swapxy="true" name="Rev Limit Fuel Cut | ECT below Primary Threshold or Low/High Input Fault" address="c4870" elements="1" scaling="804976"
 ></table
-><table level="4" type="1D" category="Engine Limiters - RPM" swapxy="true" name="Rev Limit Fuel Cut - Secondary Low ECT Threshold" address="c481c" elements="1" scaling="804892"
+><table level="4" type="1D" category="Engine Limiters - RPM" swapxy="true" name="Rev Limit Fuel Cut - Secondary Low ECT Threshold" address="c47ac" elements="1" scaling="804780"
+></table
+><table level="4" type="1D" category="Engine Limiters - RPM" swapxy="true" name="Rev Limit Fuel Cut - Secondary Low ECT Hysteresis" address="c47b0" elements="1" scaling="804784"
 ></table
 ><table level="4" type="1D" category="Engine Limiters - RPM" swapxy="true" name="Rev Limit Fuel Cut | ECT below Secondary Threshold, Start-Up" address="c4874" elements="1" scaling="804980"
 ></table
@@ -5479,13 +5499,13 @@
 ></table
 ><table level="4" type="1D" category="Engine Limiters - RPM" swapxy="true" name="Rev Limit Fuel Cut - Hysteresis B | 73C5 Delay Expired" address="c4884" elements="1" scaling="804996"
 ></table
-><table level="4" type="1D" category="Engine Limiters - VSS" swapxy="true" name="Speed Limiter - VSS Activation Threshold" address="c485c" elements="1" scaling="804956_SPD"
+><table level="4" type="1D" category="Engine Limiters - VSS" swapxy="true" name="Speed Limiter - VSS Activation Threshold" address="c47ec" elements="1" scaling="804844_SPD"
 ></table
-><table level="4" type="1D" category="Engine Limiters - VSS" swapxy="true" name="Speed Limiter - VSS Activation Threshold Hysteresis" address="ccf90" elements="1" scaling="839568_SPD"
+><table level="4" type="1D" category="Engine Limiters - VSS" swapxy="true" name="Speed Limiter - VSS Activation Threshold Hysteresis" address="c47f0" elements="1" scaling="804848_SPD"
 ></table
-><table level="4" type="1D" category="Engine Limiters - VSS" swapxy="true" name="Speed Limiter - RPM Activation Threshold " address="c4804" elements="1" scaling="804868"
+><table level="4" type="1D" category="Engine Limiters - VSS" swapxy="true" name="Speed Limiter - RPM Activation Threshold " address="c47e4" elements="1" scaling="804836"
 ></table
-><table level="4" type="1D" category="Engine Limiters - VSS" swapxy="true" name="Speed Limiter - RPM Activation Threshold Hysteresis" address="c4818" elements="1" scaling="804888"
+><table level="4" type="1D" category="Engine Limiters - VSS" swapxy="true" name="Speed Limiter - RPM Activation Threshold Hysteresis" address="c47e8" elements="1" scaling="804840"
 ></table
 ><table level="4" type="2D" category="Engine Load - Fault" swapxy="true" name="Load Estimated | MAF Fault" address="c94b0" elements="5" scaling="824496"
 ><table name="TP_6CF8" address="c949c" elements="5" scaling="824476" type="Y Axis"
@@ -5518,10 +5538,6 @@
 ><table level="4" type="2D" category="Engine Load - Limits" swapxy="true" name="Load Limit | No Fault" address="c9560" elements="13" scaling="824672"
 ><table name="RPM_6DD8" address="c952c" elements="13" scaling="824620" type="Y Axis"
 ></table
-></table
-><table level="4" type="1D" category="Engine Load - Limits" swapxy="true" name="Load Minimum - RPM Threshold" address="d43cc" elements="1" scaling="869324"
-></table
-><table level="4" type="1D" category="Engine Load - Limits" swapxy="true" name="Load Minimum - RPM Threshold Hysteresis" address="c47c0" elements="1" scaling="804800"
 ></table
 ><table level="4" type="2D" category="Engine Load - Limits" swapxy="true" name="Load Minimum | RPM Below Threshold" address="c97bc" elements="8" scaling="825276"
 ><table name="ECT_6D44" address="c979c" elements="8" scaling="825244_DEG" type="Y Axis"
@@ -5851,9 +5867,9 @@
 ><table name="RPM" address="b87e8" elements="12" scaling="755688" type="Y Axis"
 ></table
 ></table
-><table level="4" type="1D" category="Fuel IPW - Cranking" swapxy="true" name="IPW Cranking - Fuel Cut APP Threshold" address="ccfec" elements="1" scaling="839660"
+><table level="4" type="1D" category="Fuel IPW - Cranking" swapxy="true" name="IPW Cranking - Fuel Cut APP Threshold" address="caad0" elements="1" scaling="830160"
 ></table
-><table level="4" type="1D" category="Fuel IPW - Cranking" swapxy="true" name="IPW Cranking - Fuel Cut APP Threshold Hysteresis" address="d8a78" elements="1" scaling="887416"
+><table level="4" type="1D" category="Fuel IPW - Cranking" swapxy="true" name="IPW Cranking - Fuel Cut APP Threshold Hysteresis" address="caad4" elements="1" scaling="830164"
 ></table
 ><table level="4" type="2D" category="Fuel IPW - Cranking" swapxy="true" name="IPW Cranking - Injector Pulse Width Target" address="cabfc" elements="15" scaling="830460"
 ><table name="ECT_6D44" address="cabc0" elements="15" scaling="830400_DEG" type="Y Axis"
@@ -6005,19 +6021,21 @@
 ><table name="FFFF_701C" address="cb948" elements="11" scaling="833864" type="Y Axis"
 ></table
 ></table
-><table level="4" type="1D" category="Fuel Status OL - APP (Primary)" swapxy="true" name="OL Transition - APP Threshold (Primary)" address="d8a6c" elements="1" scaling="887404"
+><table level="4" type="1D" category="Fuel Status OL - APP (Primary)" swapxy="true" name="OL Transition - APP Threshold (Primary)" address="caac0" elements="1" scaling="830144"
 ></table
-><table level="4" type="1D" category="Fuel Status OL - APP (Primary)" swapxy="true" name="OL Transition - APP Threshold Hysteresis (Primary)" address="d8b5c" elements="1" scaling="887644"
+><table level="4" type="1D" category="Fuel Status OL - APP (Primary)" swapxy="true" name="OL Transition - APP Threshold Hysteresis (Primary)" address="caac4" elements="1" scaling="830148"
 ></table
-><table level="4" type="1D" category="Fuel Status OL - APP (Primary)" swapxy="true" name="OL Transition - APP (Primary) Above Threshold - Normal Baro Flag Threshold" address="d5f00" elements="1" scaling="876288"
+><table level="4" type="1D" category="Fuel Status OL - APP (Primary)" swapxy="true" name="OL Transition - APP (Primary) Above Threshold - Normal Baro Flag Threshold" address="c4834" elements="1" scaling="804916"
 ></table
-><table level="4" type="1D" category="Fuel Status OL - APP (Primary)" swapxy="true" name="OL Transition - APP (Primary) Above Threshold - Normal Baro Flag Hysteresis" address="d4650" elements="1" scaling="869968"
+><table level="4" type="1D" category="Fuel Status OL - APP (Primary)" swapxy="true" name="OL Transition - APP (Primary) Above Threshold - Normal Baro Flag Hysteresis" address="c4838" elements="1" scaling="804920"
 ></table
 ><table level="4" type="1D" category="Fuel Status OL - APP (Primary)" swapxy="true" name="OL Transition - APP (Primary) Above Threshold - Delay Reset Value | Normal Baro" address="c4776" elements="1" scaling="804726"
 ></table
 ><table level="4" type="1D" category="Fuel Status OL - APP (Primary)" swapxy="true" name="OL Transition - APP (Primary) Above Threshold - Delay Reset Value | Low Baro" address="c4777" elements="1" scaling="804727"
 ></table
-><table level="4" type="1D" category="Fuel Status OL - Load" swapxy="true" name="OL Transition - Load - High ECT Activation Threshold" address="c4864" elements="1" scaling="804964"
+><table level="4" type="1D" category="Fuel Status OL - Load" swapxy="true" name="OL Transition - Load - High ECT Activation Threshold" address="c4854" elements="1" scaling="804948"
+></table
+><table level="4" type="1D" category="Fuel Status OL - Load" swapxy="true" name="OL Transition - Load - High ECT Activation Threshold Hysteresis" address="c4858" elements="1" scaling="804952"
 ></table
 ><table level="4" type="2D" category="Fuel Status OL - Load" swapxy="true" name="OL Transition - Load Threshold | High ECT, High Det" address="c4b1c" elements="14" scaling="805660"
 ><table name="RPM_6DD8" address="c4ae4" elements="14" scaling="805604" type="Y Axis"
@@ -6047,13 +6065,13 @@
 ></table
 ><table level="4" type="1D" category="Fuel Status OL - APP (Secondary)" swapxy="true" name="OL Transition - APP Threshold Hysteresis (Secondary) | Global" address="c489c" elements="1" scaling="805020"
 ></table
-><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset - RPM" swapxy="true" name="OL Transition Delay Reset - Minimum RPM Threshold" address="c47c4" elements="1" scaling="804804"
+><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset - RPM" swapxy="true" name="OL Transition Delay Reset - Minimum RPM Threshold" address="c4824" elements="1" scaling="804900"
 ></table
-><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset - RPM" swapxy="true" name="OL Transition Delay Reset - Minimum RPM Threshold Hysteresis" address="c47d8" elements="1" scaling="804824"
+><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset - RPM" swapxy="true" name="OL Transition Delay Reset - Minimum RPM Threshold Hysteresis" address="c4828" elements="1" scaling="804904"
 ></table
-><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset - RPM" swapxy="true" name="OL Transition Delay Reset - Maximum RPM Threshold" address="c47cc" elements="1" scaling="804812"
+><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset - RPM" swapxy="true" name="OL Transition Delay Reset - Maximum RPM Threshold" address="c482c" elements="1" scaling="804908"
 ></table
-><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset - RPM" swapxy="true" name="OL Transition Delay Reset - Maximum RPM Threshold Hysteresis" address="c4d9c" elements="1" scaling="806300"
+><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset - RPM" swapxy="true" name="OL Transition Delay Reset - Maximum RPM Threshold Hysteresis" address="c4830" elements="1" scaling="804912"
 ></table
 ><table level="4" type="2D" category="Fuel Status OL Transition Delay Reset - Throttle Duty" swapxy="true" name="OL Transition Delay Reset - Maximum Throttle Duty Threshold" address="c4cdc" elements="14" scaling="806108"
 ><table name="RPM_6DD8" address="c4ca4" elements="14" scaling="806052" type="Y Axis"
@@ -6069,9 +6087,9 @@
 ></table
 ><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset - Estimated Cat Temp" swapxy="true" name="OL Transition Delay Reset - Max Estimated Cat Temp (Secondary)" address="d54a0" elements="1" scaling="873632"
 ></table
-><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset - RPM" swapxy="true" name="OL Transition Delay Reset - Max RPM Threshold" address="c482c" elements="1" scaling="804908"
+><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset - RPM" swapxy="true" name="OL Transition Delay Reset - Max RPM Threshold" address="c4814" elements="1" scaling="804884"
 ></table
-><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset - RPM" swapxy="true" name="OL Transition Delay Reset - Man RPM Threshold Hysteresis" address="c47d0" elements="1" scaling="804816"
+><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset - RPM" swapxy="true" name="OL Transition Delay Reset - Man RPM Threshold Hysteresis" address="c4818" elements="1" scaling="804888"
 ></table
 ><table level="4" type="2D" category="Fuel Status OL Transition Delay Reset - Load" swapxy="true" name="OL Transition Delay Reset - Maximum Load" address="c4d4c" elements="14" scaling="806220"
 ><table name="RPM_6DD8" address="c4d14" elements="14" scaling="806164" type="Y Axis"
@@ -6079,15 +6097,17 @@
 ></table
 ><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset - Load" swapxy="true" name="OL Transition Delay Reset - Maximum Load Hysteresis" address="c4910" elements="1" scaling="805136"
 ></table
-><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset" swapxy="true" name="OL Transition Delay Reset - ECT Threshold Hysteresis" address="c47b8" elements="1" scaling="804792"
+><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset" swapxy="true" name="OL Transition Delay Reset - ECT Threshold" address="c481c" elements="1" scaling="804892"
+></table
+><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset" swapxy="true" name="OL Transition Delay Reset - ECT Threshold Hysteresis" address="c4820" elements="1" scaling="804896"
 ></table
 ><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset" swapxy="true" name="OL Transition Delay Reset Value | ECT Below Threshold" address="c4778" elements="1" scaling="804728"
 ></table
 ><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset" swapxy="true" name="OL Transition Delay Reset Value | Hi-Det" address="c4779" elements="1" scaling="804729"
 ></table
-><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset" swapxy="true" name="OL Transition Delay Reset - BARO Below Threshold" address="d8a64" elements="1" scaling="887396"
+><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset" swapxy="true" name="OL Transition Delay Reset - BARO Below Threshold" address="c483c" elements="1" scaling="804924"
 ></table
-><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset" swapxy="true" name="OL Transition Delay Reset - BARO Below Threshold Hysteresis" address="d4658" elements="1" scaling="869976"
+><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset" swapxy="true" name="OL Transition Delay Reset - BARO Below Threshold Hysteresis" address="c4840" elements="1" scaling="804928"
 ></table
 ><table level="4" type="1D" category="Fuel Status OL Transition Delay Reset" swapxy="true" name="OL Transition Delay Reset Value | BARO Below Threshold" address="c477b" elements="1" scaling="804731"
 ></table
@@ -6101,9 +6121,9 @@
 ></table
 ><table level="4" type="1D" category="Fuel Status OL - Decel" swapxy="true" name="Decel Transition - Load Below Threshold Timer" address="c4775" elements="1" scaling="804725"
 ></table
-><table level="4" type="1D" category="Fuel Status OL - Decel" swapxy="true" name="Decel Transition - Min RPM Threshold" address="c480c" elements="1" scaling="804876"
+><table level="4" type="1D" category="Fuel Status OL - Decel" swapxy="true" name="Decel Transition - Min RPM Threshold" address="c47fc" elements="1" scaling="804860"
 ></table
-><table level="4" type="1D" category="Fuel Status OL - Decel" swapxy="true" name="Decel Transition - Min RPM Threshold Hysteresis" address="c4828" elements="1" scaling="804904"
+><table level="4" type="1D" category="Fuel Status OL - Decel" swapxy="true" name="Decel Transition - Min RPM Threshold Hysteresis" address="c4800" elements="1" scaling="804864"
 ></table
 ><table level="4" type="1D" category="Fuel Status OL - Decel" swapxy="true" name="Decel Transition - Min Count before Decel Status" address="c477d" elements="1" scaling="804733"
 ></table
@@ -6177,63 +6197,69 @@
 ><table name="RPM_6DD8" address="cd7e4" elements="14" scaling="841700" type="Y Axis"
 ></table
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Corrective Spark Enrichment for Base" swapxy="true" name="Corrective Spark Enrichment - RPM Threhold Hysteresis" address="ccff8" elements="1" scaling="839672"
+><table level="4" type="1D" category="Fuel Comp OL - Corrective Spark Enrichment for Base" swapxy="true" name="Corrective Spark Enrichment - RPM Threshold " address="ccfb4" elements="1" scaling="839604"
+></table
+><table level="4" type="1D" category="Fuel Comp OL - Corrective Spark Enrichment for Base" swapxy="true" name="Corrective Spark Enrichment - RPM Threhold Hysteresis" address="ccfb8" elements="1" scaling="839608"
 ></table
 ><table level="4" type="1D" category="Fuel Comp OL - Corrective Spark Enrichment for Base" swapxy="true" name="Corrective Spark Enrichment Exit - Estimated Cat Temperature Threshold" address="cd004" elements="1" scaling="839684"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Corrective Spark Enrichment for Base" swapxy="true" name="Corrective Spark Enrichment - Load Threshold" address="d5ef0" elements="1" scaling="876272"
+><table level="4" type="1D" category="Fuel Comp OL - Corrective Spark Enrichment for Base" swapxy="true" name="Corrective Spark Enrichment - Load Threshold" address="ccfbc" elements="1" scaling="839612"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Corrective Spark Enrichment for Base" swapxy="true" name="Corrective Spark Enrichment - Load Threshold Hysteresis" address="d8b54" elements="1" scaling="887636"
+><table level="4" type="1D" category="Fuel Comp OL - Corrective Spark Enrichment for Base" swapxy="true" name="Corrective Spark Enrichment - Load Threshold Hysteresis" address="ccfc0" elements="1" scaling="839616"
 ></table
 ><table level="4" type="2D" category="Fuel Comp OL - Corrective Spark Enrichment for Base" swapxy="true" name="Corrective Spark Enrichment | OL" address="cd034" elements="7" scaling="839732"
 ><table name="SPARK_CORR_C_COMP_7AC8" address="cd018" elements="7" scaling="839704" type="Y Axis"
 ></table
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment A for Base" swapxy="true" name="Power Enleanment A - VSS Threshold" address="d5f08" elements="1" scaling="876296_SPD"
+><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment A for Base" swapxy="true" name="Power Enleanment A - VSS Threshold" address="ccf8c" elements="1" scaling="839564_SPD"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment A for Base" swapxy="true" name="Power Enleanment A - VSS Threshold Hysteresis" address="d46ec" elements="1" scaling="870124_SPD"
+><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment A for Base" swapxy="true" name="Power Enleanment A - VSS Threshold Hysteresis" address="ccf90" elements="1" scaling="839568_SPD"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment A for Base" swapxy="true" name="Power Enleanment A Exit - ECT Threshold" address="ccfcc" elements="1" scaling="839628"
+><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment A for Base" swapxy="true" name="Power Enleanment A Exit - ECT Threshold" address="ccf94" elements="1" scaling="839572"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment A for Base" swapxy="true" name="Power Enleanment A Exit - ECT Threshold Hysteresis" address="d4688" elements="1" scaling="870024"
+><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment A for Base" swapxy="true" name="Power Enleanment A Exit - ECT Threshold Hysteresis" address="ccf98" elements="1" scaling="839576"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment A for Base" swapxy="true" name="Power Enleanment A Exit - Load Threshold " address="d4644" elements="1" scaling="869956"
+><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment A for Base" swapxy="true" name="Power Enleanment A Exit - Load Threshold " address="ccf9c" elements="1" scaling="839580"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment A for Base" swapxy="true" name="Power Enleanment A Exit - Load Threshold Hysteresis" address="bbcd8" elements="1" scaling="769240"
+><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment A for Base" swapxy="true" name="Power Enleanment A Exit - Load Threshold Hysteresis" address="ccfa0" elements="1" scaling="839584"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment A for Base" swapxy="true" name="Power Enleanment A Exit - RPM Threshold" address="ccfb4" elements="1" scaling="839604"
+><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment A for Base" swapxy="true" name="Power Enleanment A Exit - RPM Threshold" address="ccfa4" elements="1" scaling="839588"
+></table
+><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment A for Base" swapxy="true" name="Power Enleanment A Exit - RPM Threshold Hysteresis" address="ccfa8" elements="1" scaling="839592"
 ></table
 ><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment A for Base" swapxy="true" name="Power Enleanment A - Enleanment Rate | OL" address="cd000" elements="1" scaling="839680"
 ></table
 ><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment A for Base" swapxy="true" name="Power Enleanment A - Maximum | OL" address="ccffc" elements="1" scaling="839676"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B - ECT Threshold" address="d467c" elements="1" scaling="870012"
+><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B - ECT Threshold" address="ccfc4" elements="1" scaling="839620"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B - ECT Threshold Hysteresis" address="d46f4" elements="1" scaling="870132"
+><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B - ECT Threshold Hysteresis" address="ccfc8" elements="1" scaling="839624"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B Exit - ECT Threshold" address="d4684" elements="1" scaling="870020"
+><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B Exit - ECT Threshold" address="ccfcc" elements="1" scaling="839628"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B Exit - ECT Threshold Hysteresis" address="d46fc" elements="1" scaling="870140"
+><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B Exit - ECT Threshold Hysteresis" address="ccfd0" elements="1" scaling="839632"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B - IAT Threshold" address="d0388" elements="1" scaling="852872"
+><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B - IAT Threshold" address="ccfd4" elements="1" scaling="839636"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B - IAT Threshold Hysteresis" address="ce1a4" elements="1" scaling="844196"
+><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B - IAT Threshold Hysteresis" address="ccfd8" elements="1" scaling="839640"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B Exit - IAT Threshold" address="d88e8" elements="1" scaling="887016"
+><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B Exit - IAT Threshold" address="ccfdc" elements="1" scaling="839644"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B Exit - IAT Threshold Hysteresis" address="d8b2c" elements="1" scaling="887596"
+><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B Exit - IAT Threshold Hysteresis" address="ccfe0" elements="1" scaling="839648"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B - TP Threshold" address="ce1a8" elements="1" scaling="844200"
+><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B - TP Threshold" address="ccfe4" elements="1" scaling="839652"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B - APP Threshold" address="d8a74" elements="1" scaling="887412"
+><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B - TP Threshold Hysteresis" address="ccfe8" elements="1" scaling="839656"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B - APP Threshold Hysteresis" address="d8b64" elements="1" scaling="887652"
+><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B - APP Threshold" address="ccfec" elements="1" scaling="839660"
+></table
+><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B - APP Threshold Hysteresis" address="ccff0" elements="1" scaling="839664"
 ></table
 ><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B - Load Threshold" address="cd008" elements="1" scaling="839688"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B - RPM Threshold" address="d46c0" elements="1" scaling="870080"
+><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B - RPM Threshold" address="ccff4" elements="1" scaling="839668"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B - RPM Threshold Hysteresis" address="d4714" elements="1" scaling="870164"
+><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B - RPM Threshold Hysteresis" address="ccff8" elements="1" scaling="839672"
 ></table
 ><table level="4" type="1D" category="Fuel Comp OL - Power Enleanment B for Base" swapxy="true" name="Power Enleanment B Timer" address="ccf88" elements="1" scaling="839560"
 ></table
@@ -6529,25 +6555,29 @@
 ></table
 ><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT" swapxy="true" name="LTFT - Maximum STFT Range to set LTFT Targeting Flag | STFT Stable Flag Set " address="d46ac" elements="1" scaling="870060"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 0 - Idle" address="d465c" elements="1" scaling="869980"
+><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 0 - Idle" address="d464c" elements="1" scaling="869964"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 0 Hysteresis" address="d4670" elements="1" scaling="870000"
+><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 0 Hysteresis" address="d4650" elements="1" scaling="869968"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 1" address="d4664" elements="1" scaling="869988"
+><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 1" address="d4654" elements="1" scaling="869972"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 1 Hysteresis" address="d4678" elements="1" scaling="870008"
+><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 1 Hysteresis" address="d4658" elements="1" scaling="869976"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 2" address="d466c" elements="1" scaling="869996"
+><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 2" address="d465c" elements="1" scaling="869980"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 3" address="d4674" elements="1" scaling="870004"
+><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 2 Hyteresis" address="d4660" elements="1" scaling="869984"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 4 Hysteresis" address="bb954" elements="1" scaling="768340"
+><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 3" address="d4664" elements="1" scaling="869988"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 5 Hysteresis" address="bb95c" elements="1" scaling="768348"
+><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 3 Hysteresis" address="d4668" elements="1" scaling="869992"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL/CL - MAF Thresholds WIP" swapxy="true" name="RO2S Comp Deactivation - Max MAF Threshold" address="bb958" elements="1" scaling="768344"
+><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 4" address="d466c" elements="1" scaling="869996"
 ></table
-><table level="4" type="1D" category="Fuel Comp OL/CL - MAF Thresholds WIP" swapxy="true" name="RO2S Comp Deactivation - Max MAF Threshold Hysteresis" address="d74bc" elements="1" scaling="881852"
+><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 4 Hysteresis" address="d4670" elements="1" scaling="870000"
+></table
+><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 5" address="d4674" elements="1" scaling="870004"
+></table
+><table level="4" type="1D" category="Fuel Comp OL/CL - LTFT MAF Breakpoints" swapxy="true" name="LTFT MAF Breakpoint 5 Hysteresis" address="d4678" elements="1" scaling="870008"
 ></table
 ><table level="4" type="3D" category="Fuel Comp OL/CL - Radiant Intake Heat" swapxy="true" name="Radiant Intake Heat Enrichment" address="cdec0" elements="91" scaling="843456"
 ><table name="LOAD_7004" address="cdea4" elements="7" scaling="843428" type="X Axis"
@@ -6703,13 +6733,13 @@
 ></table
 ><table level="4" type="1D" category="Idle Transition Delay" swapxy="true" name="Idle Validation Switch - APP Threshold Hysteresis" address="bb678" elements="1" scaling="767608"
 ></table
-><table level="4" type="1D" category="Idle Transition Delay" swapxy="true" name="Idle Transition Delay Reset - ECT Above Reset Threshold" address="c4da8" elements="1" scaling="806312"
+><table level="4" type="1D" category="Idle Transition Delay" swapxy="true" name="Idle Transition Delay Reset - ECT Above Reset Threshold" address="cc698" elements="1" scaling="837272"
 ></table
-><table level="4" type="1D" category="Idle Transition Delay" swapxy="true" name="Idle Transition Delay Reset - ECT Above Reset Threshold Hysteresis" address="ccfc8" elements="1" scaling="839624"
+><table level="4" type="1D" category="Idle Transition Delay" swapxy="true" name="Idle Transition Delay Reset - ECT Above Reset Threshold Hysteresis" address="cc69c" elements="1" scaling="837276"
 ></table
-><table level="4" type="1D" category="Idle Transition Delay" swapxy="true" name="Idle Transition Delay Reset - VSS Above Reset Threshold" address="d468c" elements="1" scaling="870028_SPD"
+><table level="4" type="1D" category="Idle Transition Delay" swapxy="true" name="Idle Transition Delay Reset - VSS Above Reset Threshold" address="cc6a0" elements="1" scaling="837280_SPD"
 ></table
-><table level="4" type="1D" category="Idle Transition Delay" swapxy="true" name="Idle Transition Delay Reset - VSS Above Reset Threshold Hysteresis" address="d46e4" elements="1" scaling="870116_SPD"
+><table level="4" type="1D" category="Idle Transition Delay" swapxy="true" name="Idle Transition Delay Reset - VSS Above Reset Threshold Hysteresis" address="cc6a4" elements="1" scaling="837284_SPD"
 ></table
 ><table level="4" type="1D" category="Idle Transition Delay" swapxy="true" name="Idle Transition Delay Reset - Gear Above Reset Threshold" address="cc694" elements="1" scaling="837268"
 ></table
@@ -6721,13 +6751,13 @@
 ></table
 ><table level="4" type="1D" category="Idle Transition Delay" swapxy="true" name="TD Transition Delay Reset Value" address="cc650" elements="1" scaling="837200"
 ></table
-><table level="4" type="1D" category="Intake Manifold Runner Control (AT Only)" swapxy="true" name="IMRC Cold Exit - ECT Threshold" address="bf370" elements="1" scaling="783216"
+><table level="4" type="1D" category="Intake Manifold Runner Control (AT Only)" swapxy="true" name="IMRC Cold Exit - ECT Threshold" address="c8d2c" elements="1" scaling="822572"
 ></table
-><table level="4" type="1D" category="Intake Manifold Runner Control (AT Only)" swapxy="true" name="IMRC Cold Exit - ECT Threshold Hysteresis" address="d4f14" elements="1" scaling="872212"
+><table level="4" type="1D" category="Intake Manifold Runner Control (AT Only)" swapxy="true" name="IMRC Cold Exit - ECT Threshold Hysteresis" address="c8d30" elements="1" scaling="822576"
 ></table
-><table level="4" type="1D" category="Intake Manifold Runner Control (AT Only)" swapxy="true" name="IMRC Cold Exit - RPM Threshold" address="c8d00" elements="1" scaling="822528"
+><table level="4" type="1D" category="Intake Manifold Runner Control (AT Only)" swapxy="true" name="IMRC Cold Exit - RPM Threshold" address="c8d34" elements="1" scaling="822580"
 ></table
-><table level="4" type="1D" category="Intake Manifold Runner Control (AT Only)" swapxy="true" name="IMRC Cold Exit - RPM Threshold Hysteresis" address="b86a4" elements="1" scaling="755364"
+><table level="4" type="1D" category="Intake Manifold Runner Control (AT Only)" swapxy="true" name="IMRC Cold Exit - RPM Threshold Hysteresis" address="c8d38" elements="1" scaling="822584"
 ></table
 ><table level="4" type="2D" category="Intake Manifold Runner Control (AT Only)" swapxy="true" name="IMRC Cold Exit - Throttle Duty Threshold" address="c8d7c" elements="14" scaling="822652"
 ><table name="RPM_6DD8" address="c8d44" elements="14" scaling="822596" type="Y Axis"
@@ -6737,7 +6767,9 @@
 ><table name="RPM_6DD8" address="c8db4" elements="14" scaling="822708" type="Y Axis"
 ></table
 ></table
-><table level="4" type="1D" category="Intake Manifold Runner Control (AT Only)" swapxy="true" name="IMRC Warm Exit - RPM Threshold Hysteresis" address="b8720" elements="1" scaling="755488"
+><table level="4" type="1D" category="Intake Manifold Runner Control (AT Only)" swapxy="true" name="IMRC Warm Exit - RPM Threshold" address="c8d3c" elements="1" scaling="822588"
+></table
+><table level="4" type="1D" category="Intake Manifold Runner Control (AT Only)" swapxy="true" name="IMRC Warm Exit - RPM Threshold Hysteresis" address="c8d40" elements="1" scaling="822592"
 ></table
 ><table level="4" type="2D" category="Intake Manifold Runner Control (AT Only)" swapxy="true" name="IMRC Warm Exit - Throttle Duty Threshold" address="c8e5c" elements="14" scaling="822876"
 ><table name="RPM_6DD8" address="c8e24" elements="14" scaling="822820" type="Y Axis"
@@ -6775,13 +6807,13 @@
 ></table
 ><table level="4" type="1D" category="Intake Manifold Tuning Valve" swapxy="true" name="IMTV Open Alt (Part Throttle) - Throttle Duty Threshold Hysteresis" address="bb964" elements="1" scaling="768356"
 ></table
-><table level="4" type="1D" category="Intake Manifold Tuning Valve" swapxy="true" name="IMTV Open Alt (Part Throttle) - Max RPM Threshold | Not Idle" address="d8b40" elements="1" scaling="887616"
+><table level="4" type="1D" category="Intake Manifold Tuning Valve" swapxy="true" name="IMTV Open Alt (Part Throttle) - Max RPM Threshold | Not Idle" address="bb970" elements="1" scaling="768368"
 ></table
-><table level="4" type="1D" category="Intake Manifold Tuning Valve" swapxy="true" name="IMTV Open Alt (Part Throttle) - Max RPM Threshold Hysteresis | Not Idle" address="c8d38" elements="1" scaling="822584"
+><table level="4" type="1D" category="Intake Manifold Tuning Valve" swapxy="true" name="IMTV Open Alt (Part Throttle) - Max RPM Threshold Hysteresis | Not Idle" address="bb974" elements="1" scaling="768372"
 ></table
-><table level="4" type="1D" category="Intake Manifold Tuning Valve" swapxy="true" name="IMTV Open - RPM Threshold" address="d8b48" elements="1" scaling="887624"
+><table level="4" type="1D" category="Intake Manifold Tuning Valve" swapxy="true" name="IMTV Open - RPM Threshold" address="bb978" elements="1" scaling="768376"
 ></table
-><table level="4" type="1D" category="Intake Manifold Tuning Valve" swapxy="true" name="IMTV Open - RPM Threshold Hysteresis" address="c8d40" elements="1" scaling="822592"
+><table level="4" type="1D" category="Intake Manifold Tuning Valve" swapxy="true" name="IMTV Open - RPM Threshold Hysteresis" address="bb97c" elements="1" scaling="768380"
 ></table
 ><table level="4" type="2D" category="Ignition Coil Dwell Time" swapxy="true" name="Ignition Coil - Dwell Offset WIP" address="bba40" elements="14" scaling="768576"
 ><table name="RPM_6DD8" address="bba08" elements="14" scaling="768520" type="Y Axis"
@@ -7237,13 +7269,13 @@
 ><table name="RPM_6DD8 - IDLE_SPEED_7044" address="d2dc0" elements="8" scaling="863680" type="Y Axis"
 ></table
 ></table
-><table level="4" type="1D" category="Spark Correction - High RPM and ECT" swapxy="true" name="Spark High RPM and ECT Retard - RPM Threshold" address="bbcc4" elements="1" scaling="769220"
+><table level="4" type="1D" category="Spark Correction - High RPM and ECT" swapxy="true" name="Spark High RPM and ECT Retard - RPM Threshold" address="d2e18" elements="1" scaling="863768"
 ></table
-><table level="4" type="1D" category="Spark Correction - High RPM and ECT" swapxy="true" name="Spark High RPM and ECT Retard - RPM Threshold Hysteresis" address="c528c" elements="1" scaling="807564"
+><table level="4" type="1D" category="Spark Correction - High RPM and ECT" swapxy="true" name="Spark High RPM and ECT Retard - RPM Threshold Hysteresis" address="d2e1c" elements="1" scaling="863772"
 ></table
-><table level="4" type="1D" category="Spark Correction - High RPM and ECT" swapxy="true" name="Spark High RPM and ECT Retard - ECT Threshold" address="bbce4" elements="1" scaling="769252"
+><table level="4" type="1D" category="Spark Correction - High RPM and ECT" swapxy="true" name="Spark High RPM and ECT Retard - ECT Threshold" address="d2e10" elements="1" scaling="863760"
 ></table
-><table level="4" type="1D" category="Spark Correction - High RPM and ECT" swapxy="true" name="Spark High RPM and ECT Retard - ECT Threshold Hysteresis" address="bfc78" elements="1" scaling="785528"
+><table level="4" type="1D" category="Spark Correction - High RPM and ECT" swapxy="true" name="Spark High RPM and ECT Retard - ECT Threshold Hysteresis" address="d2e14" elements="1" scaling="863764"
 ></table
 ><table level="4" type="1D" category="Spark Correction - High RPM and ECT" swapxy="true" name="Spark High RPM and ECT Retard - Activation Delay" address="c4bb4" elements="1" scaling="805812"
 ></table
@@ -7259,13 +7291,13 @@
 ></table
 ><table level="4" type="1D" category="Spark Correction - Knock Retard" swapxy="true" name="Knock Listen - Minimum Load Hysteresis" address="bbcb8" elements="1" scaling="769208"
 ></table
-><table level="4" type="1D" category="Spark Correction - Knock Retard" swapxy="true" name="Knock Listen - Minimum RPM" address="d8910" elements="1" scaling="887056"
+><table level="4" type="1D" category="Spark Correction - Knock Retard" swapxy="true" name="Knock Listen - Minimum RPM" address="bbcbc" elements="1" scaling="769212"
 ></table
-><table level="4" type="1D" category="Spark Correction - Knock Retard" swapxy="true" name="Knock Listen - Minimum RPM Hysteresis" address="c9020" elements="1" scaling="823328"
+><table level="4" type="1D" category="Spark Correction - Knock Retard" swapxy="true" name="Knock Listen - Minimum RPM Hysteresis" address="bbcc0" elements="1" scaling="769216"
 ></table
-><table level="4" type="1D" category="Spark Correction - Knock Retard" swapxy="true" name="Knock Listen - Maximum RPM" address="c5288" elements="1" scaling="807560"
+><table level="4" type="1D" category="Spark Correction - Knock Retard" swapxy="true" name="Knock Listen - Maximum RPM" address="bbcc4" elements="1" scaling="769220"
 ></table
-><table level="4" type="1D" category="Spark Correction - Knock Retard" swapxy="true" name="Knock Listen - Maximum RPM Hysteresis" address="c9028" elements="1" scaling="823336"
+><table level="4" type="1D" category="Spark Correction - Knock Retard" swapxy="true" name="Knock Listen - Maximum RPM Hysteresis" address="bbcc8" elements="1" scaling="769224"
 ></table
 ><table level="4" type="2D" category="Spark Correction - Knock Retard" swapxy="true" name="KR Accumulator - Minimum KR for Accumulation" address="bbdf0" elements="13" scaling="769520"
 ><table name="RPM_6DD8" address="bbdbc" elements="13" scaling="769468" type="Y Axis"
@@ -7697,9 +7729,9 @@
 ><table name="RPM_6DD8" address="ba9f4" elements="13" scaling="764404" type="Y Axis"
 ></table
 ></table
-><table level="4" type="1D" category="Variable Cam Timing - DO NOT MODIFY" swapxy="true" name="VCT Error - RPM Threshold" address="d8a7c" elements="1" scaling="887420"
+><table level="4" type="1D" category="Variable Cam Timing - DO NOT MODIFY" swapxy="true" name="VCT Error - RPM Threshold" address="ba998" elements="1" scaling="764312"
 ></table
-><table level="4" type="1D" category="Variable Cam Timing - DO NOT MODIFY" swapxy="true" name="VCT Error - RPM Threshold Hysteresis" address="bb974" elements="1" scaling="768372"
+><table level="4" type="1D" category="Variable Cam Timing - DO NOT MODIFY" swapxy="true" name="VCT Error - RPM Threshold Hysteresis" address="ba99c" elements="1" scaling="764316"
 ></table
 ><table level="4" type="2D" category="Variable Cam Timing - DO NOT MODIFY" swapxy="true" name="VCT Error - Multiplier | Above RPM Threshold" address="baa90" elements="13" scaling="764560"
 ><table name="RPM_6DD8" address="baa5c" elements="13" scaling="764508" type="Y Axis"
