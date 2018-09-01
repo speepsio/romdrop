@@ -1679,19 +1679,19 @@
 ></scaling
 ><scaling name="839544_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-40.000" max="100.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="845436" units="" toexpr="x" frexpr="x" format="%0.2f" min="4.100" max="4.100" inc="1" storagetype="float" endian="big"
+><scaling name="791384" units="" toexpr="x" frexpr="x" format="%0.2f" min="3.727" max="3.727" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="845440" units="" toexpr="x" frexpr="x" format="%0.2f" min="7.500" max="7.500" inc="1" storagetype="float" endian="big"
+><scaling name="791388" units="" toexpr="x" frexpr="x" format="%0.2f" min="3.709" max="3.709" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="845444" units="" toexpr="x" frexpr="x" format="%0.2f" min="9.500" max="9.500" inc="1" storagetype="float" endian="big"
+><scaling name="791392" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.190" max="2.190" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="845448" units="" toexpr="x" frexpr="x" format="%0.2f" min="11.000" max="11.000" inc="1" storagetype="float" endian="big"
+><scaling name="791396" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.536" max="1.536" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="845452" units="" toexpr="x" frexpr="x" format="%0.2f" min="13.000" max="13.000" inc="1" storagetype="float" endian="big"
+><scaling name="791400" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.177" max="1.177" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="845456" units="" toexpr="x" frexpr="x" format="%0.2f" min="-11.750" max="-11.750" inc="1" storagetype="float" endian="big"
+><scaling name="791404" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="845460" units="" toexpr="x" frexpr="x" format="%0.2f" min="-4.350" max="-4.350" inc="1" storagetype="float" endian="big"
+><scaling name="791408" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.832" max="0.832" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="879772" units="" toexpr="x" frexpr="x" format="%0.2f" min="720.000" max="1150.000" inc="10" storagetype="float" endian="big"
 ></scaling
@@ -2563,13 +2563,13 @@
 ></scaling
 ><scaling name="791228" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="4000.000" inc="100" storagetype="float" endian="big"
 ></scaling
-><scaling name="844784" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.125" max="0.125" inc="1" storagetype="float" endian="big"
+><scaling name="790732" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="844844" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.008" max="0.008" inc="1" storagetype="float" endian="big"
+><scaling name="790792" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="844904" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.455" max="0.455" inc="1" storagetype="float" endian="big"
+><scaling name="790852" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="844964" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.020" max="0.020" inc="1" storagetype="float" endian="big"
+><scaling name="790912" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="785512" units="" toexpr="x" frexpr="x" format="%0.2f" min="39.727" max="39.727" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -6617,19 +6617,19 @@
 ><table name="ECT_6D44" address="ccf78" elements="8" scaling="839544_DEG" type="Y Axis"
 ></table
 ></table
-><table level="4" type="1D" category="Gear Ratio" swapxy="true" name="Gear Ratio - Final Drive" address="ce67c" elements="1" scaling="845436"
+><table level="4" type="1D" category="Gear Ratio" swapxy="true" name="Gear Ratio - Final Drive" address="c1358" elements="1" scaling="791384"
 ></table
-><table level="4" type="1D" category="Gear Ratio" swapxy="true" name="Gear Ratio - 1st" address="ce680" elements="1" scaling="845440"
+><table level="4" type="1D" category="Gear Ratio" swapxy="true" name="Gear Ratio - 1st" address="c135c" elements="1" scaling="791388"
 ></table
-><table level="4" type="1D" category="Gear Ratio" swapxy="true" name="Gear Ratio - 2nd" address="ce684" elements="1" scaling="845444"
+><table level="4" type="1D" category="Gear Ratio" swapxy="true" name="Gear Ratio - 2nd" address="c1360" elements="1" scaling="791392"
 ></table
-><table level="4" type="1D" category="Gear Ratio" swapxy="true" name="Gear Ratio - 3rd" address="ce688" elements="1" scaling="845448"
+><table level="4" type="1D" category="Gear Ratio" swapxy="true" name="Gear Ratio - 3rd" address="c1364" elements="1" scaling="791396"
 ></table
-><table level="4" type="1D" category="Gear Ratio" swapxy="true" name="Gear Ratio - 4th" address="ce68c" elements="1" scaling="845452"
+><table level="4" type="1D" category="Gear Ratio" swapxy="true" name="Gear Ratio - 4th" address="c1368" elements="1" scaling="791400"
 ></table
-><table level="4" type="1D" category="Gear Ratio" swapxy="true" name="Gear Ratio - 5th" address="ce690" elements="1" scaling="845456"
+><table level="4" type="1D" category="Gear Ratio" swapxy="true" name="Gear Ratio - 5th" address="c136c" elements="1" scaling="791404"
 ></table
-><table level="4" type="1D" category="Gear Ratio" swapxy="true" name="Gear Ratio - 6th" address="ce694" elements="1" scaling="845460"
+><table level="4" type="1D" category="Gear Ratio" swapxy="true" name="Gear Ratio - 6th" address="c1370" elements="1" scaling="791408"
 ></table
 ><table level="4" type="2D" category="Idle Speed - Base" swapxy="true" name="Idle Speed - Base | In-Gear" address="d6c9c" elements="8" scaling="879772"
 ><table name="CONST_80" address="d6c7c" elements="8" scaling="879740" type="Y Axis"
@@ -7501,13 +7501,13 @@
 ><table name="RPMSUB_EST_AT_6DB8" address="c12bc" elements="16" scaling="791228" type="Y Axis"
 ></table
 ></table
-><table level="4" type="1D" category="Spark Correction - Tip-In High Speed" swapxy="true" name="Tip-In Retard High Speed - ZEROED Base Retard | Unknown" address="ce3f0" elements="1" scaling="844784"
+><table level="4" type="1D" category="Spark Correction - Tip-In High Speed" swapxy="true" name="Tip-In Retard High Speed - ZEROED Base Retard | Unknown" address="c10cc" elements="1" scaling="790732"
 ></table
-><table level="4" type="1D" category="Spark Correction - Tip-In High Speed" swapxy="true" name="Tip-In Retard High Speed - ZEROED Base Retard | Gear 1st" address="ce42c" elements="1" scaling="844844"
+><table level="4" type="1D" category="Spark Correction - Tip-In High Speed" swapxy="true" name="Tip-In Retard High Speed - ZEROED Base Retard | Gear 1st" address="c1108" elements="1" scaling="790792"
 ></table
-><table level="4" type="1D" category="Spark Correction - Tip-In High Speed" swapxy="true" name="Tip-In Retard High Speed - ZEROED Base Retard | Gear 2nd" address="ce468" elements="1" scaling="844904"
+><table level="4" type="1D" category="Spark Correction - Tip-In High Speed" swapxy="true" name="Tip-In Retard High Speed - ZEROED Base Retard | Gear 2nd" address="c1144" elements="1" scaling="790852"
 ></table
-><table level="4" type="1D" category="Spark Correction - Tip-In High Speed" swapxy="true" name="Tip-In Retard High Speed - ZEROED Base Retard | Gear Other" address="ce4a4" elements="1" scaling="844964"
+><table level="4" type="1D" category="Spark Correction - Tip-In High Speed" swapxy="true" name="Tip-In Retard High Speed - ZEROED Base Retard | Gear Other" address="c1180" elements="1" scaling="790912"
 ></table
 ><table level="4" type="1D" category="Spark Correction - Feedback WIP (AT)" swapxy="true" name="Feedback Retard - Maximum | 6E53 Set, 6E5E Set" address="bfc68" elements="1" scaling="785512"
 ></table
