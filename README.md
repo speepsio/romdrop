@@ -1,5 +1,5 @@
 ### ROMDROP/NC
-Minimalist PCM flash utility for the NC Mazda MX-5 (Miata). 
+Minimalist PCM Flash Utility for the 2006-2015 Mazda MX-5 (NC).
 
 ### Requirements:
 * Tactrix Openport 2.0 J2534 Device
