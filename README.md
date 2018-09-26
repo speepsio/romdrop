@@ -1,4 +1,4 @@
-### ROMDROP/NC
+### ROMDROP
 Minimalist PCM Flash Utility for the 2006-2015 Mazda MX-5 (NC).
 
 ### Requirements:
