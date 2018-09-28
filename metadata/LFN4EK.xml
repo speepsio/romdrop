@@ -2491,33 +2491,37 @@
 ></scaling
 ><scaling name="765196" units="" toexpr="x" frexpr="x" format="%0.2f" min="100.000" max="1000.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="1007748_TQ" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.600" max="22.000" inc="1" storagetype="float" endian="big"
+><scaling name="1006192_TQ" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.360" max="160.120" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="1007584" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="6000.000" inc="100" storagetype="float" endian="big"
+><scaling name="1006028" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="6000.000" inc="100" storagetype="float" endian="big"
 ></scaling
-><scaling name="1007632" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
+><scaling name="1006076" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1000620_TQ" units="" toexpr="x" frexpr="x" format="%0.2f" min="2000.000" max="2000.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1010860_TQ" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.600" max="22.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="1010696" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="6000.000" inc="100" storagetype="float" endian="big"
-></scaling
-><scaling name="1010744" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="1009304" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.480" max="199.200" inc="10" storagetype="float" endian="big"
+><scaling name="1009304_TQ" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.480" max="199.200" inc="10" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1009140" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="6000.000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1009188" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
+><scaling name="1007748" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.600" max="22.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="1007584" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="6000.000" inc="100" storagetype="float" endian="big"
+></scaling
+><scaling name="1007632" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
+></scaling
 ><scaling name="1000624" units="" toexpr="x" frexpr="x" format="%0.2f" min="90.000" max="90.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1012316" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.005" max="0.017" inc="0.01" storagetype="float" endian="big"
+><scaling name="1010860" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.600" max="22.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1012252" units="" toexpr="x" frexpr="x" format="%0.2f" min="1000.000" max="4000.000" inc="100" storagetype="float" endian="big"
+><scaling name="1010696" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="6000.000" inc="100" storagetype="float" endian="big"
 ></scaling
-><scaling name="1012280" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="50.000" inc="1" storagetype="float" endian="big"
+><scaling name="1010744" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="1013920" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="1013848" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1014064" units="" toexpr="x" frexpr="x" format="%0.2f" min="16.500" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -2526,6 +2530,12 @@
 ><scaling name="1014208" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1014136" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="1014928" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="894036" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="894108" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1015648" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -2551,27 +2561,23 @@
 ></scaling
 ><scaling name="894108" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
 ></scaling
-><scaling name="1018696" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
+><scaling name="1002252" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="13.069" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1018528" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
+><scaling name="1002156" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="23284.430" inc="0.1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1018588" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="150.000" inc="10" storagetype="float" endian="big"
+><scaling name="1003672" units="" toexpr="x" frexpr="x" format="%0.2f" min="18500.000" max="18500.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1014340" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="1014280" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="2.000" inc="0.1" storagetype="float" endian="big"
-></scaling
-><scaling name="1002388" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="1002348" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="5000.000" inc="100" storagetype="float" endian="big"
+><scaling name="1003644_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-20.000" max="100.000" inc="10" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1003732" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1003700_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="7.866" max="63.328" inc="1" storagetype="float" endian="big"
+><scaling name="1003700" units="" toexpr="x" frexpr="x" format="%0.2f" min="7.866" max="63.328" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1003788" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.130" max="0.300" inc="0.01" storagetype="float" endian="big"
+><scaling name="1024000" units="" toexpr="x" frexpr="x" format="%0.2f" min="-277.926" max="1214.270" inc="100" storagetype="float" endian="big"
 ></scaling
-><scaling name="1003764" units="" toexpr="x" frexpr="x" format="%0.2f" min="-20.000" max="80.000" inc="1" storagetype="float" endian="big"
+><scaling name="1023816" units="" toexpr="x" frexpr="x" format="%0.2f" min="750.000" max="6500.000" inc="100" storagetype="float" endian="big"
+></scaling
+><scaling name="1023880" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="200.000" inc="10" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1026104" units="" toexpr="x" frexpr="x" format="%0.2f" min="-278.085" max="1168.966" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -2579,9 +2585,11 @@
 ></scaling
 ><scaling name="1025984" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="200.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="905016" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+><scaling name="1018696" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="904988" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="2.988" inc="0.1" storagetype="float" endian="big"
+><scaling name="1018528" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="1018588" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="150.000" inc="10" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1020500" units="" toexpr="x" frexpr="x" format="%0.2f" min="-277.926" max="1214.270" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -2589,33 +2597,29 @@
 ></scaling
 ><scaling name="1020380" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="200.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="1022476" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.031" max="0.492" inc="0.01" storagetype="float" endian="big"
+><scaling name="1014820" units="" toexpr="x" frexpr="x" format="%0.2f" min="16.500" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1022420" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.000" max="10.000" inc="0.1" storagetype="float" endian="big"
-></scaling
-><scaling name="1022452" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.200" max="1.000" inc="0.01" storagetype="float" endian="big"
+><scaling name="1014784" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1014892" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1014856" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1014928" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
+><scaling name="1014748" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="894036" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
+><scaling name="1014712" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="894108" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
+><scaling name="1002988" units="" toexpr="x" frexpr="x" format="%0.2f" min="720.000" max="1150.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="1014820" units="" toexpr="x" frexpr="x" format="%0.2f" min="16.500" max="100.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="1014784" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
+><scaling name="1002956" units="" toexpr="x" frexpr="x" format="%0.2f" min="-40.000" max="100.000" inc="10" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1003052" units="" toexpr="x" frexpr="x" format="%0.2f" min="720.000" max="1750.000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1003020" units="" toexpr="x" frexpr="x" format="%0.2f" min="-40.000" max="100.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="1003112" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+><scaling name="1003336" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="20.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1003084" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="60.000" inc="1" storagetype="float" endian="big"
+><scaling name="1003308_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="60.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1003392" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -2637,27 +2641,27 @@
 ></scaling
 ><scaling name="1003588_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="60.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1003672" units="" toexpr="x" frexpr="x" format="%0.2f" min="18500.000" max="18500.000" inc="1" storagetype="float" endian="big"
+><scaling name="1002752" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="1003644_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-20.000" max="100.000" inc="10" storagetype="float" endian="big"
+><scaling name="1002684" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="25.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1002888" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1002820" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="25.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1002988" units="" toexpr="x" frexpr="x" format="%0.2f" min="720.000" max="1150.000" inc="10" storagetype="float" endian="big"
+><scaling name="1012952" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.135" max="0.500" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="1002956" units="" toexpr="x" frexpr="x" format="%0.2f" min="-40.000" max="100.000" inc="10" storagetype="float" endian="big"
+><scaling name="1012884_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-30.000" max="100.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="1013164" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="1.400" inc="0.01" storagetype="float" endian="big"
+><scaling name="1012940_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-20.000" max="20.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1013120_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-40.000" max="100.000" inc="10" storagetype="float" endian="big"
+><scaling name="1004488" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1013152_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-20.000" max="20.000" inc="1" storagetype="float" endian="big"
+><scaling name="1004460" units="" toexpr="x" frexpr="x" format="%0.2f" min="40.000" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1004548" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.020" max="0.085" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="1004516" units="" toexpr="x" frexpr="x" format="%0.2f" min="-40.000" max="100.000" inc="10" storagetype="float" endian="big"
+><scaling name="1004516_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-40.000" max="100.000" inc="10" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1004612" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.020" max="0.070" inc="0.01" storagetype="float" endian="big"
 ></scaling
@@ -2677,7 +2681,7 @@
 ></scaling
 ><scaling name="1004880" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="2.200" inc="0.1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1004836_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="156.250" inc="10" storagetype="float" endian="big"
+><scaling name="1004836" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="156.250" inc="10" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1004968" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="2.200" inc="0.1" storagetype="float" endian="big"
 ></scaling
@@ -2701,11 +2705,11 @@
 ></scaling
 ><scaling name="1005392" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.100" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="1005364" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="22.608" inc="1" storagetype="float" endian="big"
+><scaling name="1005364_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="22.608" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1005468" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.003" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="1005420_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="450.000" max="1000.000" inc="10" storagetype="float" endian="big"
+><scaling name="1005420" units="" toexpr="x" frexpr="x" format="%0.2f" min="450.000" max="1000.000" inc="10" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1005576" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="31.220" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -2715,17 +2719,15 @@
 ></scaling
 ><scaling name="1005636" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="1.167" inc="0.1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1005784" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.060" inc="0.01" storagetype="float" endian="big"
+><scaling name="1013164" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="1.400" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="1005756" units="" toexpr="x" frexpr="x" format="%0.2f" min="20.000" max="80.000" inc="1" storagetype="float" endian="big"
+><scaling name="1013120_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-40.000" max="100.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="1013556" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+><scaling name="1013152_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-20.000" max="20.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1013520_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="4500.000" inc="100" storagetype="float" endian="big"
+><scaling name="1014660" units="" toexpr="x" frexpr="x" format="%0.2f" min="10.300" max="16.417" inc="0.1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1014748" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="1014712" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
+><scaling name="1014608" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="6500.000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1013320" units="" toexpr="x" frexpr="x" format="%0.2f" min="1998.000" max="1998.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -2753,35 +2755,39 @@
 ></scaling
 ><scaling name="898696" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="3500.000" inc="100" storagetype="float" endian="big"
 ></scaling
-><scaling name="899108" units="" toexpr="x" frexpr="x" format="%0.2f" min="27.658" max="389.875" inc="10" storagetype="float" endian="big"
-></scaling
-><scaling name="899076_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="211.010" inc="10" storagetype="float" endian="big"
-></scaling
-><scaling name="899360" units="" toexpr="x" frexpr="x" format="%0.2f" min="20.000" max="33.000" inc="1" storagetype="float" endian="big"
+><scaling name="899360" units="" toexpr="x" frexpr="x" format="%d" min="0.000" max="16900.000" inc="0.1" storagetype="uint16" endian="big"
 ></scaling
 ><scaling name="899316_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-15.000" max="35.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="899460" units="" toexpr="x" frexpr="x" format="%d" min="0.000" max="17048.000" inc="0.1" storagetype="uint16" endian="big"
+><scaling name="902748" units="" toexpr="x" frexpr="x" format="%0.2f" min="10.000" max="10.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="899424_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-20.000" max="60.000" inc="1" storagetype="float" endian="big"
+><scaling name="902720_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-40.000" max="20.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="903148" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="2000.000" inc="100" storagetype="float" endian="big"
+><scaling name="902916" units="" toexpr="x" frexpr="x" format="%0.2f" min="4.390" max="59.740" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="902856" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="7500.000" inc="100" storagetype="float" endian="big"
+></scaling
+><scaling name="903148" units="" toexpr="x" frexpr="x" format="%d" min="84.000" max="1250.000" inc="100" storagetype="uint16" endian="big"
 ></scaling
 ><scaling name="903116" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="7500.000" inc="100" storagetype="float" endian="big"
 ></scaling
-><scaling name="903216" units="" toexpr="x" frexpr="x" format="%d" min="2097.000" max="62390.000" inc="0.1" storagetype="uint16" endian="big"
+><scaling name="903216" units="" toexpr="x" frexpr="x" format="%0.2f" min="8.757" max="11.192" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="903164" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="6500.000" inc="100" storagetype="float" endian="big"
 ></scaling
-><scaling name="903400" units="" toexpr="x" frexpr="x" format="%0.2f" min="200.000" max="200.000" inc="1" storagetype="float" endian="big"
+><scaling name="904012" units="" toexpr="x" frexpr="x" format="%d" min="84.000" max="1250.000" inc="100" storagetype="uint16" endian="big"
 ></scaling
-><scaling name="903360_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="2000.000" max="6500.000" inc="100" storagetype="float" endian="big"
+><scaling name="903980" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="7500.000" inc="100" storagetype="float" endian="big"
+></scaling
+><scaling name="904304" units="" toexpr="x" frexpr="x" format="%0.2f" min="30000.000" max="80000.000" inc="0.1" storagetype="float" endian="big"
+></scaling
+><scaling name="904268_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-40.000" max="80.000" inc="10" storagetype="float" endian="big"
 ></scaling
 ><scaling name="904376" units="" toexpr="x" frexpr="x" format="%0.2f" min="21.560" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="904340_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="6.500" max="16.500" inc="0.1" storagetype="float" endian="big"
+><scaling name="904340" units="" toexpr="x" frexpr="x" format="%0.2f" min="6.500" max="16.500" inc="0.1" storagetype="float" endian="big"
 ></scaling
-><scaling name="904608" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="9.000" inc="0.1" storagetype="float" endian="big"
+><scaling name="904608" units="" toexpr="x" frexpr="x" format="%d" min="31.000" max="100.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
 ><scaling name="904592" units="" toexpr="x" frexpr="x" format="%0.2f" min="4.200" max="22.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -2789,17 +2795,17 @@
 ></scaling
 ><scaling name="904616" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.500" max="22.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="904656" units="" toexpr="x" frexpr="x" format="%d" min="13107.000" max="39322.000" inc="0.1" storagetype="uint16" endian="big"
+><scaling name="904656" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.600" max="22.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="904640" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.100" max="7.700" inc="0.1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1001568" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
+><scaling name="1001568" units="" toexpr="x" frexpr="x" format="%d" min="0.000" max="0.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="1001528" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="5000.000" inc="100" storagetype="float" endian="big"
 ></scaling
-><scaling name="1001612" units="" toexpr="x" frexpr="x" format="%d" min="0.000" max="40.000" inc="1" storagetype="uint8" endian="big"
+><scaling name="1001612" units="" toexpr="x" frexpr="x" format="%d" min="40.000" max="40.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
-><scaling name="1001580" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="120.000" inc="10" storagetype="float" endian="big"
+><scaling name="1001580_TQ" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="120.000" inc="10" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1001660" units="" toexpr="x" frexpr="x" format="%d" min="40.000" max="40.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
@@ -2807,7 +2813,7 @@
 ></scaling
 ><scaling name="1001692" units="" toexpr="x" frexpr="x" format="%d" min="10.000" max="32.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
-><scaling name="1001676_TQ" units="" toexpr="x" frexpr="x" format="%0.2f" min="4.200" max="22.000" inc="1" storagetype="float" endian="big"
+><scaling name="1001676" units="" toexpr="x" frexpr="x" format="%0.2f" min="4.200" max="22.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1001748" units="" toexpr="x" frexpr="x" format="%d" min="40.000" max="40.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
@@ -2821,7 +2827,7 @@
 ></scaling
 ><scaling name="1001844" units="" toexpr="x" frexpr="x" format="%0.2f" min="4.200" max="22.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1001916" units="" toexpr="x" frexpr="x" format="%d" min="0.000" max="16416.000" inc="0.1" storagetype="uint16" endian="big"
+><scaling name="1001916_TQ" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.500" max="2.500" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="1001868" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="6000.000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -2833,9 +2839,9 @@
 ></scaling
 ><scaling name="1002060" units="" toexpr="x" frexpr="x" format="%0.2f" min="500.000" max="6000.000" inc="100" storagetype="float" endian="big"
 ></scaling
-><scaling name="1002252_TQ" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="13.069" inc="1" storagetype="float" endian="big"
+><scaling name="905016" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1002156" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="23284.430" inc="0.1" storagetype="float" endian="big"
+><scaling name="904988" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="2.988" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="907065" units="" toexpr="x" frexpr="x" format="%d" min="1.000" max="1.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
@@ -6247,32 +6253,36 @@
 ><table name="OCV_DSD_834C" address="bad0c" elements="9" scaling="765196" type="Y Axis"
 ></table
 ></table
-><table level="4" type="3D" category="Data Integrity Thresholds - DBW Torque Request" swapxy="true" name="Checksum Fault - Requested Torque Threshold" address="f6084" elements="348" scaling="1007748_TQ"
-><table name="APP_6D1C" address="f6010" elements="29" scaling="1007632" type="X Axis"
+><table level="4" type="3D" category="Data Integrity Thresholds - DBW Torque Request" swapxy="true" name="Checksum Fault - Requested Torque Threshold" address="f5a70" elements="348" scaling="1006192_TQ"
+><table name="APP_6D1C" address="f59fc" elements="29" scaling="1006076" type="X Axis"
 ></table
-><table name="RPM_6DD8" address="f5fe0" elements="12" scaling="1007584" type="Y Axis"
+><table name="RPM_6DD8" address="f59cc" elements="12" scaling="1006028" type="Y Axis"
 ></table
 ></table
 ><table level="4" type="1D" category="Data Integrity Thresholds - DBW Torque Request" swapxy="true" name="Checksum Fault - Requested Torque Threshold | Cruise Cotrol" address="f44ac" elements="1" scaling="1000620_TQ"
 ></table
-><table level="4" type="3D" category="Data Integrity Thresholds - DBW Torque Request" swapxy="true" name="Checksum Fault - Negative Torque Request Threshold" address="f6cac" elements="348" scaling="1010860_TQ"
-><table name="APP_6D1C" address="f6c38" elements="29" scaling="1010744" type="X Axis"
-></table
-><table name="RPM_6DD8" address="f6c08" elements="12" scaling="1010696" type="Y Axis"
-></table
-></table
-><table level="4" type="3D" category="Data Integrity Thresholds - DBW Throttle Duty Target" swapxy="true" name="Checksum Fault DTC P0601 - Throttle Duty Delta Threshold" address="f6698" elements="348" scaling="1009304"
+><table level="4" type="3D" category="Data Integrity Thresholds - DBW Torque Request" swapxy="true" name="Checksum Fault - Negative Torque Request Threshold" address="f6698" elements="348" scaling="1009304_TQ"
 ><table name="APP_6D1C" address="f6624" elements="29" scaling="1009188" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="f65f4" elements="12" scaling="1009140" type="Y Axis"
 ></table
 ></table
+><table level="4" type="3D" category="Data Integrity Thresholds - DBW Throttle Duty Target" swapxy="true" name="Checksum Fault DTC P0601 - Throttle Duty Delta Threshold" address="f6084" elements="348" scaling="1007748"
+><table name="APP_6D1C" address="f6010" elements="29" scaling="1007632" type="X Axis"
+></table
+><table name="RPM_6DD8" address="f5fe0" elements="12" scaling="1007584" type="Y Axis"
+></table
+></table
 ><table level="4" type="1D" category="Data Integrity Thresholds - DBW Throttle Duty Target" swapxy="true" name="Checksum Fault DTC P0601 - Throttle Duty Delta Threshold | Cruise Control" address="f44b0" elements="1" scaling="1000624"
 ></table
-><table level="1" type="3D" category="Data Integrity Thresholds - DBW Torque Request " swapxy="true" name="BYPASSED - WIP" address="f725c" elements="63" scaling="1012316"
-><table name="APP_6D1C" address="f7238" elements="9" scaling="1012280" type="X Axis"
+><table level="1" type="3D" category="Data Integrity Thresholds - DBW Torque Request " swapxy="true" name="BYPASSED - WIP" address="f6cac" elements="348" scaling="1010860"
+><table name="APP_6D1C" address="f6c38" elements="29" scaling="1010744" type="X Axis"
 ></table
-><table name="RPM_6DD8" address="f721c" elements="7" scaling="1012252" type="Y Axis"
+><table name="RPM_6DD8" address="f6c08" elements="12" scaling="1010696" type="Y Axis"
+></table
+></table
+><table level="4" type="2D" category="Data Integrity Checks - DBW Throttle Duty Desired" swapxy="true" name="APP to Throttle Duty Desired - WIP | Brake On, VSS LT 2kph, AT" address="f78a0" elements="18" scaling="1013920"
+><table name="APP_6D1C" address="f7858" elements="18" scaling="1013848" type="Y Axis"
 ></table
 ></table
 ><table level="4" type="2D" category="Data Integrity Checks - DBW Throttle Duty Desired" swapxy="true" name="APP to Throttle Duty Desired - Max" address="f7930" elements="18" scaling="1014064"
@@ -6283,204 +6293,202 @@
 ><table name="APP_6D1C" address="f7978" elements="18" scaling="1014136" type="Y Axis"
 ></table
 ></table
-><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired" swapxy="true" name="APP to Throttle Duty Desired - 1st Gear" address="f7f60" elements="180" scaling="1015648"
+><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired" swapxy="true" name="APP to Throttle Duty Desired - 1st Gear" address="f7c90" elements="180" scaling="1014928"
 ><table name="RPM_6DD8" address="da49c" elements="10" scaling="894108" type="X Axis"
 ></table
 ><table name="APP_6D1C" address="da454" elements="18" scaling="894036" type="Y Axis"
 ></table
 ></table
-><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired" swapxy="true" name="APP to Throttle Duty Desired - 2nd Gear" address="f8230" elements="180" scaling="1016368"
+><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired" swapxy="true" name="APP to Throttle Duty Desired - 2nd Gear" address="f7f60" elements="180" scaling="1015648"
 ><table name="RPM_6DD8" address="da49c" elements="10" scaling="894108" type="X Axis"
 ></table
 ><table name="APP_6D1C" address="da454" elements="18" scaling="894036" type="Y Axis"
 ></table
 ></table
-><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired" swapxy="true" name="APP to Throttle Duty Desired - 3rd Gear" address="f8500" elements="180" scaling="1017088"
+><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired" swapxy="true" name="APP to Throttle Duty Desired - 3rd Gear" address="f8230" elements="180" scaling="1016368"
 ><table name="RPM_6DD8" address="da49c" elements="10" scaling="894108" type="X Axis"
 ></table
 ><table name="APP_6D1C" address="da454" elements="18" scaling="894036" type="Y Axis"
 ></table
 ></table
-><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired" swapxy="true" name="APP to Throttle Duty Desired - 4th, 5th, 6th Gear" address="f87d0" elements="180" scaling="1017808"
+><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired" swapxy="true" name="APP to Throttle Duty Desired - 4th, 5th, 6th Gear" address="f8500" elements="180" scaling="1017088"
 ><table name="RPM_6DD8" address="da49c" elements="10" scaling="894108" type="X Axis"
 ></table
 ><table name="APP_6D1C" address="da454" elements="18" scaling="894036" type="Y Axis"
 ></table
 ></table
-><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired" swapxy="true" name="APP to Throttle Duty Desired - Neutral" address="f8b48" elements="405" scaling="1018696"
-><table name="RPM_6DD8" address="f8adc" elements="27" scaling="1018588" type="X Axis"
+><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired" swapxy="true" name="APP to Throttle Duty Desired - Neutral" address="f87d0" elements="180" scaling="1017808"
+><table name="RPM_6DD8" address="da49c" elements="10" scaling="894108" type="X Axis"
 ></table
-><table name="APP_6D1C" address="f8aa0" elements="15" scaling="1018528" type="Y Axis"
-></table
-></table
-><table level="4" type="2D" category="Data Integrity Checks - DBW Throttle Duty Desired" swapxy="true" name="APP to Throttle Duty Desired - Fault Limited | Fault 8D4C at Start with High ECT and IAT" address="f7a44" elements="15" scaling="1014340"
-><table name="RPM_6DD8" address="f7a08" elements="15" scaling="1014280" type="Y Axis"
+><table name="APP_6D1C" address="da454" elements="18" scaling="894036" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - DBW Throttle Duty Desired Comp - Aggregate" swapxy="true" name="Estimated Volumetric Flow to Throttle Duty Aggregate Compensation" address="f4b94" elements="10" scaling="1002388"
-><table name="THROTTLE_DUTY_COMBINED_COMP_RAW_8048" address="f4b6c" elements="10" scaling="1002348" type="Y Axis"
+><table level="4" type="2D" category="Data Integrity Checks - DBW Throttle Duty Desired Comp - Aggregate" swapxy="true" name="Estimated Volumetric Flow to Throttle Duty Aggregate Compensation" address="f4b0c" elements="24" scaling="1002252"
+><table name="THROTTLE_DUTY_COMBINED_COMP_RAW_8048" address="f4aac" elements="24" scaling="1002156" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - DBW Throttle Duty Desired Comp - Aggregate" swapxy="true" name="Estimated Volumetric Flow - Default | KOEO" address="f50d4" elements="8" scaling="1003732"
-><table name="ECT_6D4C" address="f50b4" elements="8" scaling="1003700_DEG" type="Y Axis"
+><table level="4" type="2D" category="Data Integrity Checks - DBW Throttle Duty Desired Comp - Aggregate" swapxy="true" name="Estimated Volumetric Flow - Default | KOEO" address="f5098" elements="7" scaling="1003672"
+><table name="ECT_6D4C" address="f507c" elements="7" scaling="1003644_DEG" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - DBW Throttle Duty Desired Comp - Aggregate" swapxy="true" name="Estimated Volumetric Flow - Air Density Scaler" address="f510c" elements="6" scaling="1003788"
-><table name="BARO - ((IAT + 273) * A407C / 293)_6D70" address="f50f4" elements="6" scaling="1003764" type="Y Axis"
+><table level="4" type="2D" category="Data Integrity Checks - DBW Throttle Duty Desired Comp - Aggregate" swapxy="true" name="Estimated Volumetric Flow - Air Density Scaler" address="f50d4" elements="8" scaling="1003732"
+><table name="BARO - ((IAT + 273) * A407C / 293)_6D70" address="f50b4" elements="8" scaling="1003700" type="Y Axis"
 ></table
 ></table
-><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired + Comp to Torque Request" swapxy="true" name="Torque Request - Limiter | Normal" address="fa838" elements="480" scaling="1026104"
+><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired + Comp to Torque Request" swapxy="true" name="Torque Request - Limiter | Normal" address="fa000" elements="480" scaling="1024000"
+><table name="APP_SCALED_A6B0+CORR_A6B4" address="f9f88" elements="30" scaling="1023880" type="X Axis"
+></table
+><table name="RPM_A838" address="f9f48" elements="16" scaling="1023816" type="Y Axis"
+></table
+></table
+><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired + Comp to Torque Request" swapxy="true" name="Torque Request - Limiter | Fault 71B0" address="fa838" elements="480" scaling="1026104"
 ><table name="APP_SCALED_A6B0+CORR_A6B4" address="fa7c0" elements="30" scaling="1025984" type="X Axis"
 ></table
 ><table name="RPM_A838" address="fa780" elements="16" scaling="1025920" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - DBW Throttle Duty Desired + Comp to Torque Request" swapxy="true" name="Torque Request - Limiter | Fault 71B0" address="dcf38" elements="7" scaling="905016"
-><table name="RPM_A838" address="dcf1c" elements="7" scaling="904988" type="Y Axis"
+><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired + Comp to Torque Request" swapxy="true" name="Torque Request - Vehicle Speed Multiplier | AT" address="f8b48" elements="405" scaling="1018696"
+><table name="VSS_REL_ACCUM" address="f8adc" elements="27" scaling="1018588" type="X Axis"
+></table
+><table name="APP_SCALED_A6B0" address="f8aa0" elements="15" scaling="1018528" type="Y Axis"
 ></table
 ></table
-><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired + Comp to Torque Request" swapxy="true" name="Torque Request - Vehicle Speed Multiplier | AT" address="f9254" elements="480" scaling="1020500"
-><table name="VSS_REL_ACCUM" address="f91dc" elements="30" scaling="1020380" type="X Axis"
+><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired + Comp to Torque Request" swapxy="true" name="Torque Request - Base" address="f9254" elements="480" scaling="1020500"
+><table name="APP_SCALED_A6B0+CORR_A6B4" address="f91dc" elements="30" scaling="1020380" type="X Axis"
 ></table
-><table name="APP_SCALED_A6B0" address="f919c" elements="16" scaling="1020316" type="Y Axis"
-></table
-></table
-><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Desired + Comp to Torque Request" swapxy="true" name="Torque Request - Base" address="f9a0c" elements="48" scaling="1022476"
-><table name="APP_SCALED_A6B0+CORR_A6B4" address="f99f4" elements="6" scaling="1022452" type="X Axis"
-></table
-><table name="RPM_A838" address="f99d4" elements="8" scaling="1022420" type="Y Axis"
+><table name="RPM_A838" address="f919c" elements="16" scaling="1020316" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - DBW Throttle Duty Commanded Limits" swapxy="true" name="Throttle Duty Commanded - Maximum" address="f7c6c" elements="9" scaling="1014892"
-><table name="APP_SCALED_A6B0" address="f7c48" elements="9" scaling="1014856" type="Y Axis"
-></table
-></table
-><table level="4" type="3D" category="Data Integrity Checks - DBW Throttle Duty Commanded Limits" swapxy="true" name="Throttle Duty Commanded - Minimum" address="f7c90" elements="180" scaling="1014928"
-><table name="" address="da49c" elements="10" scaling="894108" type="X Axis"
-></table
-><table name="APP_SCALED_A6B0" address="da454" elements="18" scaling="894036" type="Y Axis"
-></table
-></table
-><table level="4" type="2D" category="Data Integrity Checks - DBW Throttle Duty Commanded Limits" swapxy="true" name="DISABLED - Throttle Duty Commanded Scaling (Bypass Torque Request)" address="f7c24" elements="9" scaling="1014820"
+><table level="4" type="2D" category="Data Integrity Checks - DBW Throttle Duty Commanded Limits" swapxy="true" name="Throttle Duty Commanded - Maximum" address="f7c24" elements="9" scaling="1014820"
 ><table name="APP_SCALED_A6B0" address="f7c00" elements="9" scaling="1014784" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Idle Speed - Base" swapxy="true" name="Idle Speed - Base | In-Gear" address="f4e2c" elements="8" scaling="1003052"
+><table level="4" type="2D" category="Data Integrity Checks - DBW Throttle Duty Commanded Limits" swapxy="true" name="Throttle Duty Commanded - Minimum" address="f7c6c" elements="9" scaling="1014892"
+><table name="APP_SCALED_A6B0" address="f7c48" elements="9" scaling="1014856" type="Y Axis"
+></table
+></table
+><table level="4" type="2D" category="Data Integrity Checks - DBW Throttle Duty Commanded Limits" swapxy="true" name="DISABLED - Throttle Duty Commanded Scaling (Bypass Torque Request)" address="f7bdc" elements="9" scaling="1014748"
+><table name="APP_SCALED_A6B0" address="f7bb8" elements="9" scaling="1014712" type="Y Axis"
+></table
+></table
+><table level="4" type="2D" category="Data Integrity Checks - Idle Speed - Base" swapxy="true" name="Idle Speed - Base | In-Gear" address="f4dec" elements="8" scaling="1002988"
+><table name="CONST_80" address="f4dcc" elements="8" scaling="1002956" type="Y Axis"
+></table
+></table
+><table level="4" type="2D" category="Data Integrity Checks - Idle Speed - Base" swapxy="true" name="Idle Speed - Base | Not In-Gear" address="f4e2c" elements="8" scaling="1003052"
 ><table name="CONST_80" address="f4e0c" elements="8" scaling="1003020" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Idle Speed - Base" swapxy="true" name="Idle Speed - Base | Not In-Gear" address="f4e68" elements="7" scaling="1003112"
-><table name="CONST_80" address="f4e4c" elements="7" scaling="1003084" type="Y Axis"
+><table level="4" type="2D" category="Data Integrity Checks - Idle Speed Comp" swapxy="true" name="Start-up Base | In-Gear" address="f4f48" elements="7" scaling="1003336"
+><table name="ECT_START_6D54" address="f4f2c" elements="7" scaling="1003308_DEG" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Idle Speed Comp" swapxy="true" name="Start-up Base | In-Gear" address="f4f80" elements="7" scaling="1003392"
+><table level="4" type="2D" category="Data Integrity Checks - Idle Speed Comp" swapxy="true" name="Start-up Base Limited (Zeroed) | In-Gear, 96F4 clear" address="f4f80" elements="7" scaling="1003392"
 ><table name="ECT_START_6D54" address="f4f64" elements="7" scaling="1003364_DEG" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Idle Speed Comp" swapxy="true" name="Start-up Base Limited (Zeroed) | In-Gear, 96F4 clear" address="f4fb8" elements="7" scaling="1003448"
+><table level="4" type="2D" category="Data Integrity Checks - Idle Speed Comp" swapxy="true" name="Start-up Base | Not In-Gear" address="f4fb8" elements="7" scaling="1003448"
 ><table name="ECT_START_6D54" address="f4f9c" elements="7" scaling="1003420_DEG" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Idle Speed Comp" swapxy="true" name="Start-up Base | Not In-Gear" address="f4ff0" elements="7" scaling="1003504"
+><table level="4" type="2D" category="Data Integrity Checks - Idle Speed Comp" swapxy="true" name="Base Limited (Zeroed) | 96F4 clear" address="f4ff0" elements="7" scaling="1003504"
 ><table name="ECT_START_6D54" address="f4fd4" elements="7" scaling="1003476_DEG" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Idle Speed Comp" swapxy="true" name="Base Limited (Zeroed) | 96F4 clear" address="f5028" elements="7" scaling="1003560"
+><table level="4" type="2D" category="Data Integrity Checks - Idle Speed Comp" swapxy="true" name="Start-up Base (Zeroed) | In-Gear" address="f5028" elements="7" scaling="1003560"
 ><table name="ECT_START_6D54" address="f500c" elements="7" scaling="1003532_DEG" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Idle Speed Comp" swapxy="true" name="Start-up Base (Zeroed) | In-Gear" address="f5060" elements="7" scaling="1003616"
+><table level="4" type="2D" category="Data Integrity Checks - Idle Speed Comp" swapxy="true" name="Start-up Base | Not In-Gear" address="f5060" elements="7" scaling="1003616"
 ><table name="ECT_START_6D54" address="f5044" elements="7" scaling="1003588_DEG" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Idle Speed Comp" swapxy="true" name="Start-up Base | Not In-Gear" address="f5098" elements="7" scaling="1003672"
-><table name="ECT_START_6D54" address="f507c" elements="7" scaling="1003644_DEG" type="Y Axis"
+><table level="4" type="2D" category="Data Integrity Checks - Idle Speed Comp" swapxy="true" name="Start-up Multiplier | In-Gear" address="f4d00" elements="17" scaling="1002752"
+><table name="THROTTLE_DUTY_FAULT_LIMITED_7324" address="f4cbc" elements="17" scaling="1002684" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Idle Speed Comp" swapxy="true" name="Start-up Multiplier | In-Gear" address="f4d88" elements="17" scaling="1002888"
+><table level="4" type="2D" category="Data Integrity Checks - Idle Speed Comp" swapxy="true" name="Start-up Multiplier | Not In-Gear" address="f4d88" elements="17" scaling="1002888"
 ><table name="THROTTLE_DUTY_FAULT_LIMITED_7324" address="f4d44" elements="17" scaling="1002820" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Idle Speed Comp" swapxy="true" name="Start-up Multiplier | Not In-Gear" address="f4dec" elements="8" scaling="1002988"
-><table name="THROTTLE_DUTY_FAULT_LIMITED_7324" address="f4dcc" elements="8" scaling="1002956" type="Y Axis"
+><table level="4" type="3D" category="Data Integrity Checks - Spark Idle Load - Base" swapxy="true" name="Spark Idle Load - Base" address="f74d8" elements="42" scaling="1012952"
+><table name="ECT_START_6D54" address="f74cc" elements="3" scaling="1012940_DEG" type="X Axis"
+></table
+><table name="ECT_6D5C" address="f7494" elements="14" scaling="1012884_DEG" type="Y Axis"
 ></table
 ></table
-><table level="4" type="3D" category="Data Integrity Checks - Spark Idle Load - Base" swapxy="true" name="Spark Idle Load - Base" address="f75ac" elements="24" scaling="1013164"
-><table name="ECT_START_6D54" address="f75a0" elements="3" scaling="1013152_DEG" type="X Axis"
-></table
-><table name="ECT_6D5C" address="f7580" elements="8" scaling="1013120_DEG" type="Y Axis"
+><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - Base" swapxy="true" name="Spark Idle Load - Base Add | ECT Start LT -200 else 0" address="f53c8" elements="7" scaling="1004488"
+><table name="FFFF_8104" address="f53ac" elements="7" scaling="1004460" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - Base" swapxy="true" name="Spark Idle Load - Base Add | ECT Start LT -200 else 0" address="f5404" elements="8" scaling="1004548"
-><table name="FFFF_8104" address="f53e4" elements="8" scaling="1004516" type="Y Axis"
+><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - AC Comp" swapxy="true" name="AC Comp Base | AC, RO2S Heater Off, In-Gear" address="f5404" elements="8" scaling="1004548"
+><table name="ECT_6D4C" address="f53e4" elements="8" scaling="1004516_DEG" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - AC Comp" swapxy="true" name="AC Comp Base | AC, RO2S Heater Off, In-Gear" address="f5444" elements="8" scaling="1004612"
+><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - AC Comp" swapxy="true" name="AC Comp Base | AC, RO2S Heater Off, Not In-Gear" address="f5444" elements="8" scaling="1004612"
 ><table name="ECT_6D4C" address="f5424" elements="8" scaling="1004580_DEG" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - AC Comp" swapxy="true" name="AC Comp Base | AC, RO2S Heater Off, Not In-Gear" address="f5484" elements="8" scaling="1004676"
+><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - AC Comp" swapxy="true" name="AC Comp Base | AC, RO2S Heater On, In-Gear" address="f5484" elements="8" scaling="1004676"
 ><table name="ECT_6D4C" address="f5464" elements="8" scaling="1004644_DEG" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - AC Comp" swapxy="true" name="AC Comp Base | AC, RO2S Heater On, In-Gear" address="f54c4" elements="8" scaling="1004740"
+><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - AC Comp" swapxy="true" name="AC Comp Base | AC, RO2S Heater On, Not In-Gear," address="f54c4" elements="8" scaling="1004740"
 ><table name="ECT_6D4C" address="f54a4" elements="8" scaling="1004708_DEG" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - AC Comp" swapxy="true" name="AC Comp Base | AC, RO2S Heater On, Not In-Gear," address="f5504" elements="8" scaling="1004804"
+><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - PSP Comp" swapxy="true" name="PSP Comp Base Multiplier" address="f5504" elements="8" scaling="1004804"
 ><table name="ECT_6D4C" address="f54e4" elements="8" scaling="1004772_DEG" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - PSP Comp" swapxy="true" name="PSP Comp Base Multiplier" address="f5550" elements="11" scaling="1004880"
-><table name="ECT_6D4C" address="f5524" elements="11" scaling="1004836_DEG" type="Y Axis"
+><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - Alternator Comp" swapxy="true" name="Alt Comp - Alternator to Estimated MAF Add | In-Gear" address="f5550" elements="11" scaling="1004880"
+><table name="ALT_AMPS_6CEC" address="f5524" elements="11" scaling="1004836" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - Alternator Comp" swapxy="true" name="Alt Comp - Alternator to Estimated MAF Add | In-Gear" address="f55a8" elements="11" scaling="1004968"
+><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - Alternator Comp" swapxy="true" name="Alt Comp - Alternator to Estimated MAF Add | Not In-Gear" address="f55a8" elements="11" scaling="1004968"
 ><table name="ALT_AMPS_6CEC" address="f557c" elements="11" scaling="1004924" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - Alternator Comp" swapxy="true" name="Alt Comp - Alternator to Estimated MAF Add | Not In-Gear" address="f5600" elements="11" scaling="1005056"
-><table name="ALT_AMPS_6CEC" address="f55d4" elements="11" scaling="1005012" type="Y Axis"
+><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - Alternator Comp" swapxy="true" name="Alt Comp Base | Alternator Field Control Duty GT 75" address="f5600" elements="11" scaling="1005056"
+><table name="INTERP_ALT_FIELD_CONTROL_DUTY_8154" address="f55d4" elements="11" scaling="1005012" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - Alternator Comp" swapxy="true" name="Alt Comp Base | Alternator Field Control Duty GT 75" address="f5658" elements="11" scaling="1005144"
+><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - Alternator Comp" swapxy="true" name="Alt Comp Base | In-Gear, Neg Alt to Ctrl Mod Delta" address="f5658" elements="11" scaling="1005144"
 ><table name="INTERP_ALT_FIELD_CONTROL_DUTY_8154" address="f562c" elements="11" scaling="1005100" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - Alternator Comp" swapxy="true" name="Alt Comp Base | In-Gear, Neg Alt to Ctrl Mod Delta" address="f56b0" elements="11" scaling="1005232"
+><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - Alternator Comp" swapxy="true" name="Alt Comp Base | Not In-Gear, Neg Alt to Ctrl Mod Delta" address="f56b0" elements="11" scaling="1005232"
 ><table name="INTERP_ALT_FIELD_CONTROL_DUTY_8154" address="f5684" elements="11" scaling="1005188" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - Alternator Comp" swapxy="true" name="Alt Comp Base | Not In-Gear, Neg Alt to Ctrl Mod Delta" address="f5708" elements="11" scaling="1005320"
-><table name="INTERP_ALT_FIELD_CONTROL_DUTY_8154" address="f56dc" elements="11" scaling="1005276" type="Y Axis"
+><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - Alternator Comp" swapxy="true" name="Alt Comp - Alt to Ctrl Mod Delta Hysteresis" address="f5708" elements="11" scaling="1005320"
+><table name="FFFF_8154" address="f56dc" elements="11" scaling="1005276" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - Alternator Comp" swapxy="true" name="Alt Comp - Alt to Ctrl Mod Delta Hysteresis" address="f5750" elements="7" scaling="1005392"
-><table name="FFFF_8154" address="f5734" elements="7" scaling="1005364" type="Y Axis"
+><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - VSS Comp" swapxy="true" name="VSS Comp | In-Gear, MT" address="f5750" elements="7" scaling="1005392"
+><table name="VSS_6D80" address="f5734" elements="7" scaling="1005364_SPD" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - VSS Comp" swapxy="true" name="VSS Comp | In-Gear, MT" address="f579c" elements="12" scaling="1005468"
-><table name="VSS_6D80" address="f576c" elements="12" scaling="1005420_SPD" type="Y Axis"
+><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - VSS Comp" swapxy="true" name="VSS Comp Sub | In-Gear, MT" address="f579c" elements="12" scaling="1005468"
+><table name="RPM_6DD8" address="f576c" elements="12" scaling="1005420" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - VSS Comp" swapxy="true" name="VSS Comp Sub | In-Gear, MT" address="f5808" elements="15" scaling="1005576"
-><table name="RPM_6DD8" address="f57cc" elements="15" scaling="1005516" type="Y Axis"
+><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - VSS Comp" swapxy="true" name="VSS Comp | Above VSS Threshold (5kph), AT" address="f5808" elements="15" scaling="1005576"
+><table name="FFFF_6DB0" address="f57cc" elements="15" scaling="1005516" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - VSS Comp" swapxy="true" name="VSS Comp | Above VSS Threshold (5kph), AT" address="f5880" elements="15" scaling="1005696"
+><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - VSS Comp" swapxy="true" name="VSS Comp | Below VSS Threshold (5kph), AT" address="f5880" elements="15" scaling="1005696"
 ><table name="FFFF_6DB0" address="f5844" elements="15" scaling="1005636" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - VSS Comp" swapxy="true" name="VSS Comp | Below VSS Threshold (5kph), AT" address="f58d8" elements="7" scaling="1005784"
-><table name="FFFF_6DB0" address="f58bc" elements="7" scaling="1005756" type="Y Axis"
+><table level="4" type="3D" category="Data Integrity Checks - Spark Idle Load - VSS Comp" swapxy="true" name="VSS Comp Multiplier | AT " address="f75ac" elements="24" scaling="1013164"
+><table name="ECT_6D4C" address="f75a0" elements="3" scaling="1013152_DEG" type="X Axis"
+></table
+><table name="ECT_START_6D54" address="f7580" elements="8" scaling="1013120_DEG" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="Data Integrity Checks - Spark Idle Load - VSS Comp" swapxy="true" name="VSS Comp Multiplier | AT " address="f7734" elements="9" scaling="1013556"
-><table name="ECT_START_6D54" address="f7710" elements="9" scaling="1013520_DEG" type="Y Axis"
-></table
-></table
-><table level="4" type="2D" category="Data Integrity Checks - WIP Cruise Control Torque Request Delta" swapxy="true" name="Cruise Control WIP - Torque Request Delta Threshold (for unknown CC state change)" address="f7bdc" elements="9" scaling="1014748"
-><table name="RPM_6DD8" address="f7bb8" elements="9" scaling="1014712" type="Y Axis"
+><table level="4" type="2D" category="Data Integrity Checks - WIP Cruise Control Torque Request Delta" swapxy="true" name="Cruise Control WIP - Torque Request Delta Threshold (for unknown CC state change)" address="f7b84" elements="13" scaling="1014660"
+><table name="RPM_6DD8" address="f7b50" elements="13" scaling="1014608" type="Y Axis"
 ></table
 ></table
 ><table level="4" type="1D" category="Data Integrity Checks - Engine Displacement" swapxy="true" name="Engine Displacement" address="f7648" elements="1" scaling="1013320"
@@ -6509,88 +6517,92 @@
 ><table name="RPM_6DD8" address="db688" elements="13" scaling="898696" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0126 P0128 Monitor A57E8" address="db824" elements="8" scaling="899108"
-><table name="IAT_MINIMUM_9324" address="db804" elements="8" scaling="899076_DEG" type="Y Axis"
+><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0126 Monitor Coolant Thermostat Stuck Open Activation Timer" address="db920" elements="11" scaling="899360"
+><table name="ECT_6D54" address="db8f4" elements="11" scaling="899316_DEG" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0126 Monitor Coolant Thermostat Stuck Open ECT Deactivation Threshold" address="db920" elements="11" scaling="899360"
-><table name="IAT_MINIMUM_9324" address="db8f4" elements="11" scaling="899316_DEG" type="Y Axis"
+><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0125 Excessive Time To Enter CL ECT Threshold" address="dc65c" elements="7" scaling="902748"
+><table name="ECT_START_6D54" address="dc640" elements="7" scaling="902720_DEG" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0126 Monitor Coolant Thermostat Stuck Open Activation Timer" address="db984" elements="9" scaling="899460"
-><table name="ECT_6D54" address="db960" elements="9" scaling="899424_DEG" type="Y Axis"
+><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="TP factor for Estimated MAF" address="dc704" elements="15" scaling="902916"
+><table name="TP_ACT_6D04" address="dc6c8" elements="15" scaling="902856" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0101 - Estimated MAF " address="dc7ec" elements="8" scaling="903148"
-><table name="BARO_6DE8" address="dc7cc" elements="8" scaling="903116" type="Y Axis"
+><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0016 - CMP Out of Sync Counter Limit" address="dc7ec" elements="8" scaling="903148"
+><table name="RPM_6DD8" address="dc7cc" elements="8" scaling="903116" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0016 - CMP Out of Sync Counter Limit" address="dc830" elements="13" scaling="903216"
+><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0016 - CPK-CMP Sync Offset" address="dc830" elements="13" scaling="903216"
 ><table name="RPM_6DD8" address="dc7fc" elements="13" scaling="903164" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P050A Cold Start Idle Speed Low Expected Diff Threshold" address="dc8e8" elements="10" scaling="903400"
-><table name="ECT_START_6D54" address="dc8c0" elements="10" scaling="903360_DEG" type="Y Axis"
+><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0011 MONITOR CMP Timing Over Advanced Timer" address="dcb4c" elements="8" scaling="904012"
+><table name="RPM_6DD8" address="dcb2c" elements="8" scaling="903980" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0134 air fuel no activity detected - AFR Element Impedence Threshold" address="dccb8" elements="9" scaling="904376"
-><table name="ECT_AT_START_A4B8" address="dcc94" elements="9" scaling="904340_DEG" type="Y Axis"
+><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0134 air fuel no activity detected - AFR Element Impedence Threshold" address="dcc70" elements="9" scaling="904304"
+><table name="ECT_AT_START_A4B8" address="dcc4c" elements="9" scaling="904268_DEG" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0134 air fuel no activity detected - Sub for Low ECT Start " address="dcda0" elements="4" scaling="904608"
-><table name="CTRLMOD_V_6CD4" address="dcd90" elements="4" scaling="904592" type="Y Axis"
+><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0134 air fuel no activity detected - Sub for Low ECT Start " address="dccb8" elements="9" scaling="904376"
+><table name="CTRLMOD_V_6CD4" address="dcc94" elements="9" scaling="904340" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0638 TP GT Closed Min Activation Timer" address="dcdb8" elements="4" scaling="904632"
+><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0638 TP GT Closed Min Activation Timer" address="dcda0" elements="4" scaling="904608"
+><table name="TP1_PROTO_6638 - TP_CLOSED_2124" address="dcd90" elements="4" scaling="904592" type="Y Axis"
+></table
+></table
+><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0638 TP LT Closed MIN Activation Timer" address="dcdb8" elements="4" scaling="904632"
 ><table name="TP1_PROTO_6638 - TP_CLOSED_2124" address="dcda8" elements="4" scaling="904616" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0638 TP LT Closed MIN Activation Timer" address="dcdd0" elements="4" scaling="904656"
-><table name="TP1_PROTO_6638 - TP_CLOSED_2124" address="dcdc0" elements="4" scaling="904640" type="Y Axis"
+><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0638 FAULT 20BC TP Threshold" address="dcdd0" elements="4" scaling="904656"
+><table name="TP_DESIRED_WITH_MIN_CLOSED_THROTTLE_POS_WIP_56A0" address="dcdc0" elements="4" scaling="904640" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0638 FAULT 20BC TP Threshold" address="f4860" elements="10" scaling="1001568"
-><table name="TP_DESIRED_WITH_MIN_CLOSED_THROTTLE_POS_WIP_56A0" address="f4838" elements="10" scaling="1001528" type="Y Axis"
+><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="BYPASSED - ZEROED" address="f4860" elements="10" scaling="1001568"
+><table name="" address="f4838" elements="10" scaling="1001528" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="BYPASSED - ZEROED" address="f488c" elements="8" scaling="1001612"
-><table name="" address="f486c" elements="8" scaling="1001580" type="Y Axis"
+><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0601 Req Torque Fault 20C6 Activation Count A" address="f488c" elements="8" scaling="1001612"
+><table name="REQ_TORQUE_A_BASE_NM_2_72F0" address="f486c" elements="8" scaling="1001580_TQ" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0601 Req Torque Fault 20C6 Activation Count A" address="f48bc" elements="8" scaling="1001660"
+><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0601 Req Torque Fault 20C6 Activation Count B" address="f48bc" elements="8" scaling="1001660"
 ><table name="REQ_TORQUE_A_BASE_NM_2_72F0" address="f489c" elements="8" scaling="1001628_TQ" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0601 Req Torque Fault 20C6 Activation Count B" address="f48dc" elements="4" scaling="1001692"
-><table name="REQ_TORQUE_A_BASE_NM_2_72F0" address="f48cc" elements="4" scaling="1001676_TQ" type="Y Axis"
+><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0601 TP Comp Fault 20C8 Activation Count" address="f48dc" elements="4" scaling="1001692"
+><table name="TP_COMP_BOUND_828C" address="f48cc" elements="4" scaling="1001676" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0601 TP Comp Fault 20C8 Activation Count" address="f4914" elements="12" scaling="1001748"
-><table name="TP_COMP_BOUND_828C" address="f48e4" elements="12" scaling="1001700" type="Y Axis"
+><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0601 Req Torque Fault 20CA Activation Count A" address="f4914" elements="12" scaling="1001748"
+><table name="RPM_6DD8" address="f48e4" elements="12" scaling="1001700" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0601 Req Torque Fault 20CA Activation Count A" address="f495c" elements="12" scaling="1001820"
+><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0601 Req Torque Fault 20CA Activation Count B" address="f495c" elements="12" scaling="1001820"
 ><table name="RPM_6DD8" address="f492c" elements="12" scaling="1001772" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0601 Req Torque Fault 20CA Activation Count B" address="f4984" elements="4" scaling="1001860"
-><table name="RPM_6DD8" address="f4974" elements="4" scaling="1001844" type="Y Axis"
+><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0601 APP to TP Fault 20CC Activation Count" address="f4984" elements="4" scaling="1001860"
+><table name="TP_DESIRED_WITH_MIN_CLOSED_THROTTLE_POS_WIP_56A0" address="f4974" elements="4" scaling="1001844" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0601 APP to TP Fault 20CC Activation Count" address="f49bc" elements="12" scaling="1001916"
-><table name="TP_DESIRED_WITH_MIN_CLOSED_THROTTLE_POS_WIP_56A0" address="f498c" elements="12" scaling="1001868" type="Y Axis"
+><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0601 Minimum Requested Torque Threshold WIP" address="f49bc" elements="12" scaling="1001916_TQ"
+><table name="RPM_6DD8" address="f498c" elements="12" scaling="1001868" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0601 Minimum Requested Torque Threshold WIP" address="f4a1c" elements="12" scaling="1002012_TQ"
+><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0601 Requested Torque Delta Threshold" address="f4a1c" elements="12" scaling="1002012_TQ"
 ><table name="RPM_6DD8" address="f49ec" elements="12" scaling="1001964" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0601 Requested Torque Delta Threshold" address="f4a7c" elements="12" scaling="1002108_TQ"
+><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0601 Requested Torque Detla Threshold DUPE" address="f4a7c" elements="12" scaling="1002108_TQ"
 ><table name="RPM_6DD8" address="f4a4c" elements="12" scaling="1002060" type="Y Axis"
 ></table
 ></table
-><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0601 Requested Torque Detla Threshold DUPE" address="f4b0c" elements="24" scaling="1002252_TQ"
-><table name="RPM_6DD8" address="f4aac" elements="24" scaling="1002156" type="Y Axis"
+><table level="4" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P2135 TP Sensor 2 Offset (ZEROED)" address="dcf38" elements="7" scaling="905016"
+><table name="TP1_V_BITSHIFTED_B_6662" address="dcf1c" elements="7" scaling="904988" type="Y Axis"
 ></table
 ></table
 ><table level="4" type="1D" category="DTC Flags A/B Combined Activation" swapxy="true" name=" C0073 - CAN system communication error" address="dd739" elements="1" scaling="907065"
