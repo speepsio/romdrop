@@ -6,6 +6,10 @@ Minimalist PCM Flash Toolkit for the 2006-2015 Mazda MX-5 (NC).
 * Windows 10 (probably works with older versions, but untested)
 * NC1/NC2/NC3 Mazda Miata
 
+### How To Download Latest Romdrop and Definitions:
+* select the green button labeled "Clone or Download" to the right
+* select "Download Zip" from the drop down menu
+
 ### Install:
 * unzip the romdrop archive to desired location
 * license agreement MUST remain in the same folder as the executable
