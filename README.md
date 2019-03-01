@@ -7,8 +7,8 @@ Minimalist PCM Flash Toolkit for the 2006-2015 Mazda MX-5 (NC).
 * NC1/NC2/NC3 Mazda Miata
 
 ### How To Download:
-* select the green button labeled "Clone or Download" to the right
-* select "Download Zip" from the drop down menu
+* select the green button labeled "clone or download" to the upper right
+* select "Download ZIP" from the drop down menu
 
 ### Install:
 * unzip the romdrop archive to desired location
