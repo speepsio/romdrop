@@ -27,18 +27,6 @@
 ><memmodel
 >SH7058</memmodel
 ></romid
-><scaling name="821780" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="821744" units="" toexpr="x" frexpr="x" format="%0.3f" min="500.000" max="4500.000" inc="100" storagetype="float" endian="big"
-></scaling
-><scaling name="822008" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="821944" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="50.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="821880" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="821816" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="23.438" inc="1" storagetype="float" endian="big"
-></scaling
 ><scaling name="822144" units="" toexpr="x" frexpr="x" format="%0.3f" min="16.500" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="822072" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
@@ -88,18 +76,6 @@
 ><scaling name="826200" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="50.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="899856" units="" toexpr="x" frexpr="x" format="%0.3f" min="1500.000" max="6500.000" inc="100" storagetype="float" endian="big"
-></scaling
-><scaling name="882476" units="" toexpr="x" frexpr="x" format="%0.3f" min="79.688" max="127.734" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="882444_DEG" units="" toexpr="x" frexpr="x" format="%0.3f" min="-40.000" max="100.000" inc="10" storagetype="float" endian="big"
-></scaling
-><scaling name="882540" units="" toexpr="x" frexpr="x" format="%0.3f" min="92.969" max="188.281" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="882508" units="" toexpr="x" frexpr="x" format="%0.3f" min="53.930" max="109.340" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="882628" units="" toexpr="x" frexpr="x" format="%0.3f" min="414.000" max="750.000" inc="10" storagetype="float" endian="big"
-></scaling
-><scaling name="882572" units="" toexpr="x" frexpr="x" format="%0.3f" min="-20.313" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="766656" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="12.766" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -857,9 +833,9 @@
 ></scaling
 ><scaling name="805248" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="805046" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.011" max="0.011" inc="1" storagetype="float" endian="big"
+><scaling name="805046" units="" toexpr="x" frexpr="x" format="%d" min="60.000" max="60.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
-><scaling name="805047" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.009" max="0.009" inc="1" storagetype="float" endian="big"
+><scaling name="805047" units="" toexpr="x" frexpr="x" format="%d" min="60.000" max="60.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="805276" units="" toexpr="x" frexpr="x" format="%0.3f" min="200.000" max="200.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -937,17 +913,17 @@
 ></scaling
 ><scaling name="805224" units="" toexpr="x" frexpr="x" format="%0.3f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="805048" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+><scaling name="805048" units="" toexpr="x" frexpr="x" format="%d" min="15.000" max="15.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
-><scaling name="805049" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+><scaling name="805049" units="" toexpr="x" frexpr="x" format="%d" min="15.000" max="15.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="805252" units="" toexpr="x" frexpr="x" format="%0.3f" min="93.000" max="93.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="805256" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="805051" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+><scaling name="805051" units="" toexpr="x" frexpr="x" format="%d" min="15.000" max="15.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
-><scaling name="805050" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+><scaling name="805050" units="" toexpr="x" frexpr="x" format="%d" min="15.000" max="15.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="805636" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.016" max="0.141" inc="0.01" storagetype="float" endian="big"
 ></scaling
@@ -955,13 +931,13 @@
 ></scaling
 ><scaling name="805328" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.016" max="0.016" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="805045" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.011" max="0.011" inc="1" storagetype="float" endian="big"
+><scaling name="805045" units="" toexpr="x" frexpr="x" format="%d" min="60.000" max="60.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="805188" units="" toexpr="x" frexpr="x" format="%0.3f" min="2312.500" max="2312.500" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="805192" units="" toexpr="x" frexpr="x" format="%0.3f" min="93.750" max="93.750" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="805053" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+><scaling name="805053" units="" toexpr="x" frexpr="x" format="%d" min="30.000" max="30.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="842620_LAMBDA" units="" toexpr="1/(1+(x/100))" frexpr="((1/x)-1)*100" format="%0.3f" min="0.526" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
@@ -3853,18 +3829,6 @@
 ></scaling
 ><scaling name="900184" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="130.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><table level="4" type="2D" category="DBW - Throttle Duty Desired" swapxy="true" name="Throttle Duty Desired Bias - ZEROED Prev to Current Target | Load Delta Over Threshold" address="c8a14" elements="9" scaling="821780"
-><table name="RPM_6DD8" address="c89f0" elements="9" scaling="821744" type="Y Axis"
-></table
-></table
-><table level="4" type="2D" category="DBW - Throttle Duty Desired" swapxy="true" name="Throttle Duty Desired Bias - ZEROED Prev to Current Bias | Throttle Duty Delta Over Threadhold" address="c8af8" elements="16" scaling="822008"
-><table name="APP_6D1C" address="c8ab8" elements="16" scaling="821944" type="Y Axis"
-></table
-></table
-><table level="4" type="2D" category="DBW - Throttle Duty Desired" swapxy="true" name="Throttle Duty Desired Bias - ZEROED Prev to Current Bias | DISABLED" address="c8a78" elements="16" scaling="821880"
-><table name="APP_6D1C" address="c8a38" elements="16" scaling="821816" type="Y Axis"
-></table
-></table
 ><table level="4" type="2D" category="DBW - Throttle Duty Desired" swapxy="true" name="APP to Throttle Duty Desired - Max" address="c8b80" elements="18" scaling="822144"
 ><table name="APP_6D1C" address="c8b38" elements="18" scaling="822072" type="Y Axis"
 ></table
@@ -3913,18 +3877,6 @@
 ></table
 ><table level="4" type="2D" category="DBW - Throttle Duty Desired" swapxy="true" name="APP to Throttle Duty Desired - Fault Limited | Fault 8D4C at Start with High ECT and IAT" address="c9b58" elements="11" scaling="826200"
 ><table name="RPM_6DD8" address="dbb10" elements="11" scaling="899856" type="Y Axis"
-></table
-></table
-><table level="4" type="2D" category="DBW - Throttle Duty Desired Comp - EVAP (Emissions)" swapxy="true" name="EVAP Comp - IAT Multiplier" address="d772c" elements="8" scaling="882476"
-><table name="IAT_6D64" address="d770c" elements="8" scaling="882444_DEG" type="Y Axis"
-></table
-></table
-><table level="4" type="2D" category="DBW - Throttle Duty Desired Comp - EVAP (Emissions)" swapxy="true" name="EVAP Comp - BARO Multiplier" address="d776c" elements="8" scaling="882540"
-><table name="BARO_6DE8" address="d774c" elements="8" scaling="882508" type="Y Axis"
-></table
-></table
-><table level="4" type="2D" category="DBW - Throttle Duty Desired Comp - EVAP (Emissions)" swapxy="true" name="EVAP Comp - Base | 7773 Set" address="d77c4" elements="14" scaling="882628"
-><table name="MAF Avg / STFT Avg  (Accumulated)" address="d778c" elements="14" scaling="882572" type="Y Axis"
 ></table
 ></table
 ><table level="4" type="2D" category="DBW - Throttle Duty Desired Comp - Aggregate" swapxy="true" name="Estimated Volumetric Flow to Throttle Duty Aggregate Compensation" address="bb2c0" elements="24" scaling="766656"
