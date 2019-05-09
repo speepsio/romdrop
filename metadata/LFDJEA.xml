@@ -3669,6 +3669,10 @@
 ></scaling
 ><scaling name="705487" units="" toexpr="x" frexpr="x" format="%d" min="6.000" max="6.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
+><scaling name="673856" units="" toexpr="x" frexpr="x" format="%d" min="827988.000" max="827988.000" inc="1" storagetype="uint32" endian="big"
+></scaling
+><scaling name="674744" units="" toexpr="x" frexpr="x" format="%d" min="827988.000" max="827988.000" inc="1" storagetype="uint32" endian="big"
+></scaling
 ><scaling name="784520" units="" toexpr="x" frexpr="x" format="%0.3f" min="6.000" max="50.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="901792_SPD" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="130.000" inc="10" storagetype="float" endian="big"
@@ -4151,7 +4155,7 @@
 ><table name="FFFF_6C44" address="dc4c8" elements="15" scaling="902344" type="Y Axis"
 ></table
 ></table
-><table level="1" type="1D" category="Engine Displacement" swapxy="true" name="Engine Displacement" address="ca254" elements="1" scaling="827988"
+><table level="4" type="1D" category="Engine Displacement (Requires Patch)" swapxy="true" name="Engine Displacement (for load based calculations)" address="ca254" elements="1" scaling="827988"
 ></table
 ><table level="3" type="1D" category="Engine Fan Control" swapxy="true" name="Fan Mid Speed to Low Speed - VSS Threshold" address="bf668" elements="1" scaling="783976_SPD"
 ></table
@@ -6583,7 +6587,7 @@
 ><table name="ECT_START_6D54" address="f7bc4" elements="8" scaling="1014724_DEG" type="Y Axis"
 ></table
 ></table
-><table level="1" type="1D" category="Data Integrity Checks - Engine Displacement" swapxy="true" name="Engine Displacement" address="f7c88" elements="1" scaling="1014920"
+><table level="4" type="1D" category="Engine Displacement (Requires Patch)" swapxy="true" name="Engine Displacement (for drive by wire calculations) - DO NOT MODIFY" address="f7c88" elements="1" scaling="1014920"
 ></table
 ><table level="2" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0401 EGR Flow Insignificant Detection Threshold" address="dc798" elements="4" scaling="903064"
 ><table name="BARO_6DE8" address="dc788" elements="4" scaling="903048" type="Y Axis"
@@ -7530,6 +7534,10 @@
 ><table level="4" type="1D" category="Patch - UDS Read Memory By Address (Mode 23)" swapxy="true" name="Patch - UDS Mode 23 Enable | unpatched = 0, patched = 16" address="ac3cc" elements="1" scaling="705484"
 ></table
 ><table level="4" type="1D" category="Patch - UDS Read Memory By Address (Mode 23)" swapxy="true" name="Patch - UDS Mode 23 Enable | unpatched = 6, patched = 15" address="ac3cf" elements="1" scaling="705487"
+></table
+><table level="4" type="1D" category="Patch - Engine Displacement" swapxy="true" name="Patch - Engine Displacement A (refer to documentation)" address="a4840" elements="1" scaling="673856"
+></table
+><table level="4" type="1D" category="Patch - Engine Displacement" swapxy="true" name="Patch - Engine Displacement B (refer to documentation)" address="a4bb8" elements="1" scaling="674744"
 ></table
 ><table level="1" type="2D" category="WIP - Gear Ratio" swapxy="true" name="WIP Special Mode - VSS Threshold" address="bf888" elements="7" scaling="784520"
 ><table name="VSS_6D80" address="dc2a0" elements="7" scaling="901792_SPD" type="Y Axis"

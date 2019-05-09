@@ -3491,6 +3491,10 @@
 ></scaling
 ><scaling name="705475" units="" toexpr="x" frexpr="x" format="%d" min="6.000" max="6.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
+><scaling name="615196" units="" toexpr="x" frexpr="x" format="%d" min="827956.000" max="827956.000" inc="1" storagetype="uint32" endian="big"
+></scaling
+><scaling name="616084" units="" toexpr="x" frexpr="x" format="%d" min="827956.000" max="827956.000" inc="1" storagetype="uint32" endian="big"
+></scaling
 ><scaling name="784496" units="" toexpr="x" frexpr="x" format="%0.3f" min="6.000" max="50.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="899432_SPD" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="130.000" inc="10" storagetype="float" endian="big"
@@ -3965,7 +3969,7 @@
 ><table name="FFFF_6C44" address="dbb60" elements="15" scaling="899936" type="Y Axis"
 ></table
 ></table
-><table level="1" type="1D" category="Engine Displacement" swapxy="true" name="Engine Displacement" address="ca234" elements="1" scaling="827956"
+><table level="4" type="1D" category="Engine Displacement (Requires Patch)" swapxy="true" name="Engine Displacement (for load based calculations)" address="ca234" elements="1" scaling="827956"
 ></table
 ><table level="3" type="1D" category="Engine Fan Control" swapxy="true" name="Fan Mid Speed to Low Speed - VSS Threshold" address="bf650" elements="1" scaling="783952_SPD"
 ></table
@@ -6299,7 +6303,7 @@
 ><table name="ECT_START_6D54" address="f7ba8" elements="8" scaling="1014696_DEG" type="Y Axis"
 ></table
 ></table
-><table level="1" type="1D" category="Data Integrity Checks - Engine Displacement" swapxy="true" name="Engine Displacement" address="f7c6c" elements="1" scaling="1014892"
+><table level="4" type="1D" category="Engine Displacement (Requires Patch)" swapxy="true" name="Engine Displacement (for drive by wire calculations) - DO NOT MODIFY" address="f7c6c" elements="1" scaling="1014892"
 ></table
 ><table level="2" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0172 Fuel Trim Too Rich - Summed LT/STFT Rich Threshold" address="dc634" elements="7" scaling="902708"
 ><table name="IAT_6D64" address="dc618" elements="7" scaling="902680_DEG" type="Y Axis"
@@ -7174,6 +7178,10 @@
 ><table level="4" type="1D" category="Patch - UDS Read Memory By Address (Mode 23)" swapxy="true" name="Patch - UDS Mode 23 Enable | unpatched = 0, patched = 16" address="ac3c0" elements="1" scaling="705472"
 ></table
 ><table level="4" type="1D" category="Patch - UDS Read Memory By Address (Mode 23)" swapxy="true" name="Patch - UDS Mode 23 Enable | unpatched = 6, patched = 15" address="ac3c3" elements="1" scaling="705475"
+></table
+><table level="4" type="1D" category="Patch - Engine Displacement" swapxy="true" name="Patch - Engine Displacement A (refer to documentation)" address="9631c" elements="1" scaling="615196"
+></table
+><table level="4" type="1D" category="Patch - Engine Displacement" swapxy="true" name="Patch - Engine Displacement B (refer to documentation)" address="96694" elements="1" scaling="616084"
 ></table
 ><table level="1" type="2D" category="WIP - Gear Ratio" swapxy="true" name="WIP Special Mode - VSS Threshold" address="bf870" elements="7" scaling="784496"
 ><table name="VSS_6D80" address="db968" elements="7" scaling="899432_SPD" type="Y Axis"
