@@ -7127,9 +7127,9 @@
 ></table
 ><table level="4" type="1D" category="Patch - UDS Read Memory By Address (Mode 23)" swapxy="true" name="Patch - UDS Mode 23 Enable | unpatched = 6, patched = 15" address="87637" elements="1" scaling="554551"
 ></table
-><table level="4" type="1D" category="Patch - Engine Displacement" swapxy="true" name="Patch - Engine Displacement A (refer to documentation)" address="988a4" elements="1" scaling="624804"
+><table level="4" type="1D" category="Patch - Engine Displacement" swapxy="true" name="Patch - Engine Displacement - DBW Address A (refer to documentation)" address="988a4" elements="1" scaling="624804"
 ></table
-><table level="4" type="1D" category="Patch - Engine Displacement" swapxy="true" name="Patch - Engine Displacement B (refer to documentation)" address="98c1c" elements="1" scaling="625692"
+><table level="4" type="1D" category="Patch - Engine Displacement" swapxy="true" name="Patch - Engine Displacement - DBW Address B (refer to documentation)" address="98c1c" elements="1" scaling="625692"
 ></table
 ><table level="1" type="2D" category="WIP - Alternator" swapxy="true" name="WIP Timer" address="d8d24" elements="15" scaling="888100"
 ><table name="ECT_6D44" address="d8ce8" elements="15" scaling="888040_DEG" type="Y Axis"
