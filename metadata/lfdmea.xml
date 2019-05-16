@@ -289,8 +289,6 @@
 ></scaling
 ><scaling name="902404" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="71.190" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="827988" units="" toexpr="x" frexpr="x" format="%0.3f" min="1998.000" max="1998.000" inc="1" storagetype="float" endian="big"
-></scaling
 ><scaling name="783976_SPD" units="" toexpr="x" frexpr="x" format="%0.3f" min="45.000" max="45.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="783980_SPD" units="" toexpr="x" frexpr="x" format="%0.3f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
@@ -2721,8 +2719,6 @@
 ></scaling
 ><scaling name="1014756_DEG" units="" toexpr="x" frexpr="x" format="%0.3f" min="-20.000" max="20.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="1014920" units="" toexpr="x" frexpr="x" format="%0.3f" min="1998.000" max="1998.000" inc="1" storagetype="float" endian="big"
-></scaling
 ><scaling name="903064" units="" toexpr="x" frexpr="x" format="%0.3f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="903048" units="" toexpr="x" frexpr="x" format="%0.3f" min="52.930" max="101.400" inc="1" storagetype="float" endian="big"
@@ -3669,9 +3665,13 @@
 ></scaling
 ><scaling name="705487" units="" toexpr="x" frexpr="x" format="%d" min="6.000" max="6.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
-><scaling name="673856" units="" toexpr="x" frexpr="x" format="%d" min="827988.000" max="827988.000" inc="1" storagetype="uint32" endian="big"
+><scaling name="245084" units="" toexpr="x" frexpr="x" format="%d" min="827988.000" max="827988.000" inc="1" storagetype="uint32" endian="big"
 ></scaling
-><scaling name="674744" units="" toexpr="x" frexpr="x" format="%d" min="827988.000" max="827988.000" inc="1" storagetype="uint32" endian="big"
+><scaling name="245956" units="" toexpr="x" frexpr="x" format="%d" min="827988.000" max="827988.000" inc="1" storagetype="uint32" endian="big"
+></scaling
+><scaling name="247068" units="" toexpr="x" frexpr="x" format="%d" min="827988.000" max="827988.000" inc="1" storagetype="uint32" endian="big"
+></scaling
+><scaling name="1047456" units="" toexpr="x" frexpr="x" format="%0.0f" min="NaN" max="NaN" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="784520" units="" toexpr="x" frexpr="x" format="%0.3f" min="6.000" max="50.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -4154,8 +4154,6 @@
 ></table
 ><table name="FFFF_6C44" address="dc4c8" elements="15" scaling="902344" type="Y Axis"
 ></table
-></table
-><table level="4" type="1D" category="Engine Displacement (Requires Patch)" swapxy="true" name="Engine Displacement (for load based calculations)" address="ca254" elements="1" scaling="827988"
 ></table
 ><table level="3" type="1D" category="Engine Fan Control" swapxy="true" name="Fan Mid Speed to Low Speed - VSS Threshold" address="bf668" elements="1" scaling="783976_SPD"
 ></table
@@ -6587,8 +6585,6 @@
 ><table name="ECT_START_6D54" address="f7bc4" elements="8" scaling="1014724_DEG" type="Y Axis"
 ></table
 ></table
-><table level="4" type="1D" category="Engine Displacement (Requires Patch)" swapxy="true" name="Engine Displacement (for drive by wire calculations) - DO NOT MODIFY" address="f7c88" elements="1" scaling="1014920"
-></table
 ><table level="2" type="2D" category="DTC Thresholds" swapxy="true" name="DTC P0401 EGR Flow Insignificant Detection Threshold" address="dc798" elements="4" scaling="903064"
 ><table name="BARO_6DE8" address="dc788" elements="4" scaling="903048" type="Y Axis"
 ></table
@@ -7535,9 +7531,13 @@
 ></table
 ><table level="4" type="1D" category="Patch - UDS Read Memory By Address (Mode 23)" swapxy="true" name="Patch - UDS Mode 23 Enable | unpatched = 6, patched = 15" address="ac3cf" elements="1" scaling="705487"
 ></table
-><table level="4" type="1D" category="Patch - Engine Displacement" swapxy="true" name="Patch - Engine Displacement - DBW Address A (refer to documentation)" address="a4840" elements="1" scaling="673856"
+><table level="4" type="1D" category="Patch - Engine Displacement" swapxy="true" name="Patch - Engine Displacement - Patch Address A | patched = 1047456" address="3bd5c" elements="1" scaling="245084"
 ></table
-><table level="4" type="1D" category="Patch - Engine Displacement" swapxy="true" name="Patch - Engine Displacement - DBW Address B (refer to documentation)" address="a4bb8" elements="1" scaling="674744"
+><table level="4" type="1D" category="Patch - Engine Displacement" swapxy="true" name="Patch - Engine Displacement - Patch Address B | patched = 1047456" address="3c0c4" elements="1" scaling="245956"
+></table
+><table level="4" type="1D" category="Patch - Engine Displacement" swapxy="true" name="Patch - Engine Displacement - Patch Address C | patched = 1047456" address="3c51c" elements="1" scaling="247068"
+></table
+><table level="4" type="1D" category="Patch - Engine Displacement" swapxy="true" name="Patch - Engine Displacement | replace NaN value with engine displacment in cc" address="ffba0" elements="1" scaling="1047456"
 ></table
 ><table level="1" type="2D" category="WIP - Gear Ratio" swapxy="true" name="WIP Special Mode - VSS Threshold" address="bf888" elements="7" scaling="784520"
 ><table name="VSS_6D80" address="dc2a0" elements="7" scaling="901792_SPD" type="Y Axis"
