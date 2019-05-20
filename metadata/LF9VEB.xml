@@ -1327,6 +1327,8 @@
 ></scaling
 ><scaling name="907520" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.060" max="0.060" inc="1" storagetype="float" endian="big"
 ></scaling
+><scaling name="879253" units="" toexpr="x" frexpr="x" format="%d" min="110.000" max="110.000" inc="1" storagetype="uint8" endian="big"
+></scaling
 ><scaling name="879384" units="" toexpr="x" frexpr="x" format="%d" min="30.000" max="100.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="879368_DEG" units="" toexpr="x" frexpr="x" format="%0.3f" min="20.000" max="80.000" inc="1" storagetype="float" endian="big"
@@ -5120,6 +5122,8 @@
 ><table level="1" type="1D" category="Fuel Comp CL - RO2S Emissions Monitor No Activity Check" swapxy="true" name="RO2S Monitor No Activity Check - Enrich/Enlean Rate" address="d64f8" elements="1" scaling="877816"
 ></table
 ><table level="1" type="1D" category="Fuel Comp CL - AFS / RO2S Emissions Monitors" swapxy="true" name="Fuel Comp - AFS Emissions Monitor - Secondary Add | DTC P0133 (AFS Circuit Monitor)" address="dd900" elements="1" scaling="907520"
+></table
+><table level="1" type="1D" category="Fuel Comp CL - STFT Transition Delay" swapxy="true" name="STFT Transition Delay | Overfueling STFT, WIP" address="d6a95" elements="1" scaling="879253"
 ></table
 ><table level="1" type="2D" category="Fuel Comp CL - STFT Transition Delay" swapxy="true" name="STFT Transition Delay | Low ECT, Fault, Over Rich, Other WIP" address="d6b18" elements="4" scaling="879384"
 ><table name="ECT_6D44" address="d6b08" elements="4" scaling="879368_DEG" type="Y Axis"
