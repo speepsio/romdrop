@@ -3497,6 +3497,8 @@
 ></scaling
 ><scaling name="1030656" units="" toexpr="x" frexpr="x" format="%0.0f" min="NaN" max="NaN" inc="0.1" storagetype="float" endian="big"
 ></scaling
+><scaling name="313994" units="" toexpr="x" frexpr="x" format="%d" min="141.000" max="141.000" inc="1" storagetype="uint8" endian="big"
+></scaling
 ><scaling name="784496" units="" toexpr="x" frexpr="x" format="%0.3f" min="6.000" max="50.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="899432_SPD" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="130.000" inc="10" storagetype="float" endian="big"
@@ -7186,6 +7188,8 @@
 ><table level="4" type="1D" category="Patch - Engine Displacement" swapxy="true" name="Patch - Engine Displacement - Patch Address C | patched = 1030656" address="3b7a0" elements="1" scaling="243616"
 ></table
 ><table level="4" type="1D" category="Patch - Engine Displacement" swapxy="true" name="Patch - Engine Displacement | replace NaN value with engine displacment in cc" address="fba00" elements="1" scaling="1030656"
+></table
+><table level="4" type="1D" category="Patch - Open Loop Short Term Fuel Trim Fix" swapxy="true" name="Patch - Open Loop STFT Fix | unpatched = 141, patched = 160" address="4ca8a" elements="1" scaling="313994"
 ></table
 ><table level="1" type="2D" category="WIP - Gear Ratio" swapxy="true" name="WIP Special Mode - VSS Threshold" address="bf870" elements="7" scaling="784496"
 ><table name="VSS_6D80" address="db968" elements="7" scaling="899432_SPD" type="Y Axis"
