@@ -22,7 +22,7 @@ Minimalist PCM Flash Toolkit for the 2006-2015 Mazda MX-5 (NC).
 
 ### Application Files (generated):
 * romdrop.log - all loggable activity
-* romdrop.rda - last succesful flash (romdrop archive) 
+* romdrop.rda - last calibration succesful flashed 
 * candump.raw - up to 2MB of binary data sniffed off the canbus (see menu item below)
 
 ### Usage:
