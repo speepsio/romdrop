@@ -1,5 +1,5 @@
 ### ROMDROP
-Minimalist PCM Flash Toolkit for the 2006-2015 Mazda MX-5 (NC).
+Minimalist Flash Toolkit for the 2006-2015 Mazda MX-5 (NC).
 
 ### Requirements:
 * Tactrix Openport 2.0 J2534 Device
@@ -34,12 +34,12 @@ Minimalist PCM Flash Toolkit for the 2006-2015 Mazda MX-5 (NC).
 
 BTW you can associate a rom's file extension (typically .bin) with romdrop, afterwhich, you'll only need to double-click the rom you want to flash. Romdrop will automatically attempt to "dynamic" (quick) flash that file to the ECU... no menus, no keypresses, no nothing.
 
-It’s advised that you do not simultaneously run applications that consume heavy resources while flashing. Doing so can impact USB speeds which can result in a failed flash. BTW, a failed flash and all it's blinking lights isn’t the end of the world... in most cases, it's recoverable.
+It’s advised that you do not simultaneously run applications that consume heavy resources while flashing. Doing so can impact transfer speeds which can result in a failed flash. BTW, a failed flash and all it's blinking lights isn’t the end of the world... in most cases, it's recoverable.
 
 ### Menu Items:
 * C | Clear Diagnostic Trouble Codes - self explanatory.
-* D | Dynamic Flash PCM - References last succesful flash and updates blocks that have changed.
-* F | Flash ROM - Flashes all ROM blocks to the PCM/ECU.
+* D | Dynamic Flash ROM to ECU - References last succesful flash, and updates ROM blocks that have changed.
+* F | Flash ROM to ECU - Flashes all ROM blocks to the ECU.
 * P | Patch Stock ROM - Many functions accessable by romdrop require that the factory calibration be patched with updated code. Use this option to apply the patch file to your stock ROM, and generate a newly patched calibration for editing with ecuflash.
 * R | Read ROM from ECU - this is the first thing you should do if virgin to the application. Why? **You will always want a backup of your original stock rom, and it's required to apply feature patches.**
 * S | Sniff CAN Communications - the app can log 2MB of raw CAN communications. This is for the true hacker types.
