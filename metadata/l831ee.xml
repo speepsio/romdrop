@@ -1083,7 +1083,7 @@
 ></scaling
 ><scaling name="839716" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.500" max="0.500" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="842660_LAMBDA_ADJ" units="" toexpr="1-(100/(100+x))" frexpr="(100/(1-x))-100" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+><scaling name="842660_LAMBDA_ADJ" units="" toexpr="1-(100/(100+x))" frexpr="(100/(1-x))-100" format="%0.2f" min="0.000" max="14.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="842552" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
 ></scaling
