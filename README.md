@@ -38,11 +38,15 @@ It’s advised that you do not simultaneously run applications that consume heav
 
 ### Menu Items:
 * C | Clear Diagnostic Trouble Codes - self explanatory.
-* D | Dynamic Flash ROM to ECU - References last succesful flash, and updates ROM blocks that have changed.
-* F | Flash ROM to ECU - Flashes all ROM blocks to the ECU.
+* D | Dynamic Flash ROM - References last succesful flash, and updates ROM blocks that have changed.
+* F | Flash Entire ROM - Flashes all ROM blocks to the ECU.
 * P | Patch Stock ROM - Many functions accessable by romdrop require that the factory calibration be patched with updated code. Use this option to apply the patch file to your stock ROM, and generate a newly patched calibration for editing with ecuflash.
 * R | Read ROM from ECU - this is the first thing you should do if virgin to the application. Why? **You will always want a backup of your original stock rom, and it's required to apply feature patches.**
 * S | Sniff CAN Communications - the app can log 2MB of raw CAN communications. This is for the true hacker types.
+* Q | Quit - Exit application
+
+### Calibration Patches:
+* https://github.com/speepsio/romdrop-patches
 
 ### ECUFlash Setup
 * download and install ecuflash
