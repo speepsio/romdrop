@@ -1551,6 +1551,12 @@
 ></scaling
 ><scaling name="889348" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="0.625" inc="0.01" storagetype="float" endian="big"
 ></scaling
+><scaling name="872944" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="872948" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="872952" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+></scaling
 ><scaling name="769272" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.400" max="0.400" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="769220" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="6500.000" inc="100" storagetype="float" endian="big"
@@ -3398,6 +3404,12 @@
 ></table
 ><table name="IDLE_SPEED_7044" address="d91d8" elements="11" scaling="889304" type="Y Axis"
 ></table
+></table
+><table level="1" type="1D" category="Spark Correction - Launch Control" swapxy="true" name="Launch Control Activated - Retard Rate" address="d51f0" elements="1" scaling="872944"
+></table
+><table level="1" type="1D" category="Spark Correction - Launch Control" swapxy="true" name="Launch Control Activated - Retard Limit" address="d51f4" elements="1" scaling="872948"
+></table
+><table level="1" type="1D" category="Spark Correction - Launch Control" swapxy="true" name="Launch Control Deactivated - Advance Rate to Normal" address="d51f8" elements="1" scaling="872952"
 ></table
 ><table level="4" type="2D" category="Spark Correction - Knock Retard" swapxy="true" name="Knock Listen - Minimum Load" address="bbcf8" elements="13" scaling="769272"
 ><table name="RPM_6DD8" address="bbcc4" elements="13" scaling="769220" type="Y Axis"
