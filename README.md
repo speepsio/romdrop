@@ -1,7 +1,3 @@
-PATCHES RECENTLY RELEASED (20-1123) HAVE A BUG THAT CAN BRICK SOME ECUs. 
-PLEASE DO NOT FLASH ANY 20-1123 PATCHES UNTIL THE ISSUE IS RESOLVED.
-* https://github.com/speepsio/romdrop-patches (OFFLINE FOR NOW)
-
 ### ROMDROP
 Minimalist Flash Toolkit for the 2006-2015 Mazda MX-5 (NC).
 
@@ -50,7 +46,7 @@ It’s advised that you do not simultaneously run applications that consume heav
 * Q | Quit - Exit application
 
 ### Calibration Patches:
- (TEMPORARILY OFFLINE - FIX)
+* https://github.com/speepsio/romdrop-patches
 
 ### ECUFlash Setup
 * download and install ecuflash
