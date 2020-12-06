@@ -1,5 +1,5 @@
-_*NOTE: PATCHES HAVE BEEN UPDATED, AND ARE NOW BACK ONLINE*
-https://github.com/speepsio/romdrop-patches_
+>*NOTE: PATCHES HAVE BEEN UPDATED, AND ARE NOW BACK ONLINE*
+https://github.com/speepsio/romdrop-patches
 
 ### ROMDROP
 Minimalist Flash Toolkit for the 2006-2015 Mazda MX-5 (NC).
