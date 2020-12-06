@@ -23,9 +23,11 @@
 ><year
 ></year
 ><flashmethod
->subarucan</flashmethod
+>Romdrop</flashmethod
 ><memmodel
 >SH7058</memmodel
+><checksummodule
+>201201</checksummodule
 ></romid
 ><scaling name="226172" units="" toexpr="x" frexpr="x" format="%d" min="257.000" max="257.000" inc="1" storagetype="uint32" endian="big"
 ></scaling
