@@ -1,4 +1,4 @@
-*NOTE: PATCHES HAVE BEEN UPDATED, AND ARE NOW BACK ONLINE*
+>*Note: Patches have been updated, and are now back online*
 https://github.com/speepsio/romdrop-patches
 
 ### ROMDROP
