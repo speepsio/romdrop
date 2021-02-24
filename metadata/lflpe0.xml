@@ -3,13 +3,13 @@
 ><rom
 ><romid
 ><xmlid
->LFMAEC</xmlid
+>LFLPE0</xmlid
 ><internalidaddress
 >c0046</internalidaddress
 ><internalidstring
->LFMAEC</internalidstring
+>LFLPE0</internalidstring
 ><ecuid
->LFMAEC</ecuid
+>LFLPE0</ecuid
 ><market
 ></market
 ><make
@@ -141,7 +141,7 @@
 ></scaling
 ><scaling name="864028" units="" toexpr="x" frexpr="x" format="%0.0f" min="1200.000" max="1200.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="718948" units="" toexpr="x" frexpr="x" format="%0.2f" min="-5.000" max="-5.000" inc="1" storagetype="float" endian="big"
+><scaling name="718644" units="" toexpr="x" frexpr="x" format="%0.2f" min="-5.000" max="-5.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="863992" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.100" max="0.100" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -179,19 +179,19 @@
 ></scaling
 ><scaling name="963416" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="109.340" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="955524" units="" toexpr="x" frexpr="x" format="%d" min="231.000" max="791.000" inc="10" storagetype="uint16" endian="big"
+><scaling name="955524" units="" toexpr="x" frexpr="x" format="%d" min="225.000" max="1011.000" inc="10" storagetype="uint16" endian="big"
 ></scaling
 ><scaling name="955452_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-15.000" max="70.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="955632" units="" toexpr="x" frexpr="x" format="%d" min="231.000" max="791.000" inc="10" storagetype="uint16" endian="big"
+><scaling name="955632" units="" toexpr="x" frexpr="x" format="%d" min="225.000" max="1011.000" inc="10" storagetype="uint16" endian="big"
 ></scaling
 ><scaling name="955560_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-15.000" max="70.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="955740" units="" toexpr="x" frexpr="x" format="%0.2f" min="6.400" max="1600.000" inc="100" storagetype="float" endian="big"
+><scaling name="955740" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="1600.000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="955668_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-15.000" max="70.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="955884" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.900" max="6.500" inc="0.1" storagetype="float" endian="big"
+><scaling name="955884" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.600" max="5.400" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="955812_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-15.000" max="70.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -559,7 +559,7 @@
 ></scaling
 ><scaling name="968749" units="" toexpr="x" frexpr="x" format="%d" min="3.000" max="3.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
-><scaling name="871340" units="" toexpr="x" frexpr="x" format="%d" min="0.000" max="52.000" inc="1" storagetype="uint8" endian="big"
+><scaling name="871340" units="" toexpr="x" frexpr="x" format="%d" min="0.000" max="40.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="871248" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="5000.000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -605,7 +605,7 @@
 ></scaling
 ><scaling name="817346" units="" toexpr="x" frexpr="x" format="%d" min="84.000" max="84.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
-><scaling name="817892" units="" toexpr="x" frexpr="x" format="%0.0f" min="109.000" max="109.000" inc="1" storagetype="float" endian="big"
+><scaling name="817892" units="" toexpr="x" frexpr="x" format="%0.0f" min="115.000" max="115.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="817860" units="" toexpr="x" frexpr="x" format="%0.2f" min="53.930" max="109.340" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -633,9 +633,9 @@
 ></scaling
 ><scaling name="817668" units="" toexpr="x" frexpr="x" format="%0.2f" min="53.930" max="109.340" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="817354" units="" toexpr="x" frexpr="x" format="%d" min="150.000" max="150.000" inc="1" storagetype="uint16" endian="big"
+><scaling name="817354" units="" toexpr="x" frexpr="x" format="%d" min="225.000" max="225.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
-><scaling name="817796" units="" toexpr="x" frexpr="x" format="%d" min="975.000" max="975.000" inc="1" storagetype="uint16" endian="big"
+><scaling name="817796" units="" toexpr="x" frexpr="x" format="%d" min="900.000" max="900.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
 ><scaling name="817764" units="" toexpr="x" frexpr="x" format="%0.2f" min="53.930" max="109.340" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -645,19 +645,19 @@
 ></scaling
 ><scaling name="817812" units="" toexpr="x" frexpr="x" format="%0.2f" min="53.930" max="109.340" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="842040" units="" toexpr="x" frexpr="x" format="%0.0f" min="6700.000" max="6700.000" inc="1" storagetype="float" endian="big"
+><scaling name="842040" units="" toexpr="x" frexpr="x" format="%0.0f" min="7200.000" max="7200.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="842044" units="" toexpr="x" frexpr="x" format="%0.0f" min="6700.000" max="6700.000" inc="1" storagetype="float" endian="big"
+><scaling name="842044" units="" toexpr="x" frexpr="x" format="%0.0f" min="7200.000" max="7200.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="838760" units="" toexpr="x" frexpr="x" format="%0.0f" min="7000.000" max="7000.000" inc="1" storagetype="float" endian="big"
+><scaling name="838760" units="" toexpr="x" frexpr="x" format="%0.0f" min="7500.000" max="7500.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="838463" units="" toexpr="x" frexpr="x" format="%d" min="240.000" max="240.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="838460" units="" toexpr="x" frexpr="x" format="%d" min="80.000" max="80.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
-><scaling name="842004" units="" toexpr="x" frexpr="x" format="%0.0f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+><scaling name="838764" units="" toexpr="x" frexpr="x" format="%0.0f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="842008" units="" toexpr="x" frexpr="x" format="%0.0f" min="300.000" max="300.000" inc="1" storagetype="float" endian="big"
+><scaling name="838768" units="" toexpr="x" frexpr="x" format="%0.0f" min="300.000" max="300.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="999068" units="" toexpr="x" frexpr="x" format="%0.0f" min="90.000" max="90.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -843,25 +843,25 @@
 ></scaling
 ><scaling name="815324" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.500" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="809296" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.350" max="3.000" inc="0.01" storagetype="float" endian="big"
+><scaling name="809296" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.300" max="2.600" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="809208" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="809264" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="809832" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.350" max="3.000" inc="0.01" storagetype="float" endian="big"
+><scaling name="809832" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.300" max="2.600" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="809744" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="809800" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="810368" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.350" max="3.000" inc="0.01" storagetype="float" endian="big"
+><scaling name="810368" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.300" max="2.600" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="810280" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="810336" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="810904" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.350" max="3.000" inc="0.01" storagetype="float" endian="big"
+><scaling name="810904" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.300" max="2.600" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="810816" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -901,7 +901,7 @@
 ></scaling
 ><scaling name="801619" units="" toexpr="x" frexpr="x" format="%d" min="24.000" max="24.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
-><scaling name="873232" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.500" max="1.000" inc="0.01" storagetype="float" endian="big"
+><scaling name="873232" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.600" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="873200_DEG" units="" toexpr="x" frexpr="x" format="%0.1f" min="-40.000" max="100.000" inc="10" storagetype="float" endian="big"
 ></scaling
@@ -977,19 +977,19 @@
 ></scaling
 ><scaling name="879112_SPD" units="" toexpr="x" frexpr="x" format="%0.1f" min="0.000" max="30.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="882260_FUEL_TO_FILM" units="" toexpr="1-x" frexpr="1-x" format="%0.4f" min="0.438" max="0.985" inc="0.01" storagetype="float" endian="big"
+><scaling name="882260_FUEL_TO_FILM" units="" toexpr="1-x" frexpr="1-x" format="%0.4f" min="0.365" max="0.970" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="882208_DEG" units="" toexpr="x" frexpr="x" format="%0.1f" min="-40.000" max="100.000" inc="10" storagetype="float" endian="big"
 ></scaling
 ><scaling name="882240" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="882472_FUEL_TO_FILM" units="" toexpr="1-x" frexpr="1-x" format="%0.4f" min="0.469" max="0.990" inc="0.01" storagetype="float" endian="big"
+><scaling name="882472_FUEL_TO_FILM" units="" toexpr="1-x" frexpr="1-x" format="%0.4f" min="0.434" max="0.970" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="882420_DEG" units="" toexpr="x" frexpr="x" format="%0.1f" min="-40.000" max="100.000" inc="10" storagetype="float" endian="big"
 ></scaling
 ><scaling name="882452" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="882684_FUEL_TO_FILM" units="" toexpr="1-x" frexpr="1-x" format="%0.4f" min="0.656" max="1.000" inc="0.01" storagetype="float" endian="big"
+><scaling name="882684_FUEL_TO_FILM" units="" toexpr="1-x" frexpr="1-x" format="%0.4f" min="0.621" max="0.980" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="882632_DEG" units="" toexpr="x" frexpr="x" format="%0.1f" min="-40.000" max="100.000" inc="10" storagetype="float" endian="big"
 ></scaling
@@ -1013,19 +1013,19 @@
 ></scaling
 ><scaling name="883300" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="883532" units="" toexpr="x" frexpr="x" format="%0.4f" min="0.050" max="0.190" inc="0.01" storagetype="float" endian="big"
+><scaling name="883532" units="" toexpr="x" frexpr="x" format="%0.4f" min="0.035" max="0.180" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="883480_DEG" units="" toexpr="x" frexpr="x" format="%0.1f" min="-40.000" max="100.000" inc="10" storagetype="float" endian="big"
 ></scaling
 ><scaling name="883512" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="883744" units="" toexpr="x" frexpr="x" format="%0.4f" min="0.050" max="0.190" inc="0.01" storagetype="float" endian="big"
+><scaling name="883744" units="" toexpr="x" frexpr="x" format="%0.4f" min="0.040" max="0.190" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="883692_DEG" units="" toexpr="x" frexpr="x" format="%0.1f" min="-40.000" max="100.000" inc="10" storagetype="float" endian="big"
 ></scaling
 ><scaling name="883724" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="883956" units="" toexpr="x" frexpr="x" format="%0.4f" min="0.041" max="0.190" inc="0.01" storagetype="float" endian="big"
+><scaling name="883956" units="" toexpr="x" frexpr="x" format="%0.4f" min="0.042" max="0.190" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="883904_DEG" units="" toexpr="x" frexpr="x" format="%0.1f" min="-40.000" max="100.000" inc="10" storagetype="float" endian="big"
 ></scaling
@@ -1049,7 +1049,7 @@
 ></scaling
 ><scaling name="884572" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="887696_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.513" max="1.000" inc="0.01" storagetype="float" endian="big"
+><scaling name="887696_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.625" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="887668_DEG" units="" toexpr="x" frexpr="x" format="%0.1f" min="-40.000" max="80.000" inc="10" storagetype="float" endian="big"
 ></scaling
@@ -1057,7 +1057,7 @@
 ></scaling
 ><scaling name="887724_DEG" units="" toexpr="x" frexpr="x" format="%0.1f" min="-40.000" max="80.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="887808_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.2f" min="0.595" max="1.000" inc="0.01" storagetype="float" endian="big"
+><scaling name="887808_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.2f" min="0.500" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="887780_DEG" units="" toexpr="x" frexpr="x" format="%0.1f" min="-40.000" max="80.000" inc="10" storagetype="float" endian="big"
 ></scaling
@@ -1119,37 +1119,37 @@
 ></scaling
 ><scaling name="838487" units="" toexpr="x" frexpr="x" format="%d" min="30.000" max="30.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
-><scaling name="889236_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.735" max="0.884" inc="0.01" storagetype="float" endian="big"
+><scaling name="889236_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.697" max="0.884" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="889144" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7500.000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="889204" units="" toexpr="x" frexpr="x" format="%0.2f" min="12.500" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="889808_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.735" max="0.884" inc="0.01" storagetype="float" endian="big"
+><scaling name="889808_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.664" max="0.884" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="889716" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7500.000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="889776" units="" toexpr="x" frexpr="x" format="%0.2f" min="12.500" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="890380_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.735" max="0.884" inc="0.01" storagetype="float" endian="big"
+><scaling name="890380_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.697" max="0.884" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="890288" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7500.000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="890348" units="" toexpr="x" frexpr="x" format="%0.2f" min="12.500" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="890972_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.735" max="1.000" inc="0.01" storagetype="float" endian="big"
+><scaling name="890972_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.697" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="890860" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7500.000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="890920" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.250" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="892756_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.735" max="1.000" inc="0.01" storagetype="float" endian="big"
+><scaling name="892756_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.664" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="892644" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7500.000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="892704" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.250" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="891864_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.735" max="1.000" inc="0.01" storagetype="float" endian="big"
+><scaling name="891864_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.697" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="891752" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7500.000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -1157,11 +1157,11 @@
 ></scaling
 ><scaling name="888884" units="" toexpr="x" frexpr="x" format="%0.2f" min="5000.000" max="5000.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="888964" units="" toexpr="x" frexpr="x" format="%0.2f" min="700.000" max="700.000" inc="1" storagetype="float" endian="big"
+><scaling name="888964" units="" toexpr="x" frexpr="x" format="%0.2f" min="9999.000" max="9999.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="888892" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.850" max="0.850" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="889012_LAMBDA_ADJ" units="" toexpr="1-(100/(100+x))" frexpr="(100/(1-x))-100" format="%0.2f" min="0.000" max="18.000" inc="1" storagetype="float" endian="big"
+><scaling name="889012_LAMBDA_ADJ" units="" toexpr="1-(100/(100+x))" frexpr="(100/(1-x))-100" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="888984" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="30.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -1181,7 +1181,7 @@
 ></scaling
 ><scaling name="888948" units="" toexpr="x" frexpr="x" format="%0.0f" min="6250.000" max="6250.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="888840" units="" toexpr="x" frexpr="x" format="%d" min="0.000" max="0.000" inc="1" storagetype="uint8" endian="big"
+><scaling name="888840" units="" toexpr="x" frexpr="x" format="%d" min="240.000" max="240.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="888841" units="" toexpr="x" frexpr="x" format="%d" min="40.000" max="40.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
@@ -1191,7 +1191,7 @@
 ></scaling
 ><scaling name="888980" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.500" max="0.500" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="893648_LAMBDA_ADJ" units="" toexpr="1-(100/(100+x))" frexpr="(100/(1-x))-100" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+><scaling name="893648_LAMBDA_ADJ" units="" toexpr="1-(100/(100+x))" frexpr="(100/(1-x))-100" format="%0.2f" min="0.000" max="21.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="893536" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7500.000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -1207,7 +1207,7 @@
 ></scaling
 ><scaling name="885472" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.015" max="0.015" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="885476" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.007" max="0.007" inc="1" storagetype="float" endian="big"
+><scaling name="885476" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.001" max="0.001" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="885480" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.007" max="0.007" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -1225,17 +1225,17 @@
 ></scaling
 ><scaling name="885484" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.688" max="0.688" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="888400" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="7.000" inc="0.1" storagetype="float" endian="big"
+><scaling name="888400" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="5.000" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="888348" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="2000.000" inc="100" storagetype="float" endian="big"
 ></scaling
-><scaling name="987604_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.986" max="1.002" inc="0.01" storagetype="float" endian="big"
+><scaling name="987604_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.987" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="987484" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7500.000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="987544" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="988624_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.986" max="1.002" inc="0.01" storagetype="float" endian="big"
+><scaling name="988624_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.987" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="988504" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7500.000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -1245,7 +1245,7 @@
 ></scaling
 ><scaling name="987132" units="" toexpr="x" frexpr="x" format="%0.1f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="926180" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.100" max="6.000" inc="0.1" storagetype="float" endian="big"
+><scaling name="926180" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.930" max="6.000" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="926100" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="5000.000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -1257,11 +1257,11 @@
 ></scaling
 ><scaling name="925660" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="0.688" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="922740_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.2f" min="0.917" max="0.917" inc="1" storagetype="float" endian="big"
+><scaling name="922740_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.2f" min="0.909" max="0.926" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="922724" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="3.000" inc="0.1" storagetype="float" endian="big"
 ></scaling
-><scaling name="922772_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.2f" min="0.917" max="0.917" inc="1" storagetype="float" endian="big"
+><scaling name="922772_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.2f" min="0.909" max="0.926" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="922756" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="3.000" inc="0.1" storagetype="float" endian="big"
 ></scaling
@@ -1283,9 +1283,9 @@
 ></scaling
 ><scaling name="923468" units="" toexpr="x" frexpr="x" format="%0.2f" min="-1750.000" max="1750.000" inc="100" storagetype="float" endian="big"
 ></scaling
-><scaling name="922672" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.800" max="0.800" inc="1" storagetype="float" endian="big"
+><scaling name="922672" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="924292" units="" toexpr="x" frexpr="x" format="%0.2f" min="-0.599" max="0.191" inc="0.01" storagetype="float" endian="big"
+><scaling name="924292" units="" toexpr="x" frexpr="x" format="%0.2f" min="-1.151" max="0.355" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="924200" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="5000.000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -1313,11 +1313,11 @@
 ></scaling
 ><scaling name="887064" units="" toexpr="x" frexpr="x" format="%0.2f" min="45.000" max="45.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="886408" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.200" max="0.439" inc="0.01" storagetype="float" endian="big"
+><scaling name="886408" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.200" max="0.440" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="886292_DEG" units="" toexpr="x" frexpr="x" format="%0.1f" min="-40.000" max="100.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="887092" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.600" max="0.600" inc="1" storagetype="float" endian="big"
+><scaling name="887092" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.200" max="0.200" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="887096" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.160" max="0.160" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -1361,17 +1361,17 @@
 ></scaling
 ><scaling name="887136" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="886872" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.100" max="1.000" inc="0.01" storagetype="float" endian="big"
+><scaling name="886872" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="886756_DEG" units="" toexpr="x" frexpr="x" format="%0.1f" min="-40.000" max="100.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="887016" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="1.000" inc="0.01" storagetype="float" endian="big"
+><scaling name="887016" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="886988" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="500.000" inc="10" storagetype="float" endian="big"
 ></scaling
 ><scaling name="922095" units="" toexpr="x" frexpr="x" format="%d" min="150.000" max="150.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
-><scaling name="922112" units="" toexpr="x" frexpr="x" format="%0.1f" min="7.000" max="7.000" inc="1" storagetype="float" endian="big"
+><scaling name="922112" units="" toexpr="x" frexpr="x" format="%0.1f" min="5.700" max="5.700" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="922120" units="" toexpr="x" frexpr="x" format="%0.1f" min="15.000" max="15.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -1399,23 +1399,23 @@
 ></scaling
 ><scaling name="824444" units="" toexpr="x" frexpr="x" format="%0.2f" min="4.100" max="4.100" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="824448" units="" toexpr="x" frexpr="x" format="%0.2f" min="3.538" max="3.538" inc="1" storagetype="float" endian="big"
+><scaling name="824448" units="" toexpr="x" frexpr="x" format="%0.2f" min="3.815" max="3.815" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="824452" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.060" max="2.060" inc="1" storagetype="float" endian="big"
+><scaling name="824452" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.260" max="2.260" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="824456" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.404" max="1.404" inc="1" storagetype="float" endian="big"
+><scaling name="824456" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.640" max="1.640" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="824460" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
+><scaling name="824460" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.177" max="1.177" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="824464" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.713" max="0.713" inc="1" storagetype="float" endian="big"
+><scaling name="824464" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="824468" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.582" max="0.582" inc="1" storagetype="float" endian="big"
+><scaling name="824468" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.787" max="0.787" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="934756" units="" toexpr="x" frexpr="x" format="%0.0f" min="720.000" max="1150.000" inc="10" storagetype="float" endian="big"
 ></scaling
 ><scaling name="934724" units="" toexpr="x" frexpr="x" format="%0.1f" min="-40.000" max="100.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="934820" units="" toexpr="x" frexpr="x" format="%0.0f" min="750.000" max="1750.000" inc="10" storagetype="float" endian="big"
+><scaling name="934820" units="" toexpr="x" frexpr="x" format="%0.0f" min="720.000" max="1750.000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="934788" units="" toexpr="x" frexpr="x" format="%0.1f" min="-40.000" max="100.000" inc="10" storagetype="float" endian="big"
 ></scaling
@@ -1425,11 +1425,11 @@
 ></scaling
 ><scaling name="799312" units="" toexpr="x" frexpr="x" format="%0.1f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="870352" units="" toexpr="x" frexpr="x" format="%0.0f" min="63.000" max="63.000" inc="1" storagetype="float" endian="big"
+><scaling name="870352" units="" toexpr="x" frexpr="x" format="%0.0f" min="60.000" max="60.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="870360" units="" toexpr="x" frexpr="x" format="%0.0f" min="3750.000" max="3750.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="870432" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="1.000" inc="0.01" storagetype="float" endian="big"
+><scaling name="870432" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="197.656" inc="10" storagetype="float" endian="big"
 ></scaling
 ><scaling name="870376" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -1461,7 +1461,7 @@
 ></scaling
 ><scaling name="896060_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.2f" min="0.941" max="0.941" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="896572" units="" toexpr="x" frexpr="x" format="%0.2f" min="-19.000" max="31.000" inc="1" storagetype="float" endian="big"
+><scaling name="896572" units="" toexpr="x" frexpr="x" format="%0.2f" min="-20.000" max="59.900" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="896480" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="4000.000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -1473,7 +1473,7 @@
 ></scaling
 ><scaling name="897112" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="899756" units="" toexpr="x" frexpr="x" format="%0.2f" min="-14.000" max="33.000" inc="1" storagetype="float" endian="big"
+><scaling name="899756" units="" toexpr="x" frexpr="x" format="%0.2f" min="-12.000" max="59.900" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="899664" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="4000.000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -1485,7 +1485,7 @@
 ></scaling
 ><scaling name="900296" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="898164" units="" toexpr="x" frexpr="x" format="%0.2f" min="-21.500" max="31.000" inc="1" storagetype="float" endian="big"
+><scaling name="898164" units="" toexpr="x" frexpr="x" format="%0.2f" min="-21.000" max="59.900" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="898072" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="4000.000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -1497,7 +1497,7 @@
 ></scaling
 ><scaling name="898704" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="901348" units="" toexpr="x" frexpr="x" format="%0.2f" min="-15.500" max="33.000" inc="1" storagetype="float" endian="big"
+><scaling name="901348" units="" toexpr="x" frexpr="x" format="%0.2f" min="-12.000" max="59.900" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="901256" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="4000.000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -1545,7 +1545,7 @@
 ></scaling
 ><scaling name="905764" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="906816" units="" toexpr="x" frexpr="x" format="%0.2f" min="-1.300" max="28.000" inc="1" storagetype="float" endian="big"
+><scaling name="906816" units="" toexpr="x" frexpr="x" format="%0.2f" min="-3.500" max="54.900" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="906724" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="4000.000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -1567,7 +1567,7 @@
 ></scaling
 ><scaling name="904560" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="937076" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.155" max="0.500" inc="0.01" storagetype="float" endian="big"
+><scaling name="937076" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.135" max="0.500" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="937008_DEG" units="" toexpr="x" frexpr="x" format="%0.2f" min="-30.000" max="100.000" inc="10" storagetype="float" endian="big"
 ></scaling
@@ -1579,7 +1579,7 @@
 ></scaling
 ><scaling name="932536" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="0.625" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="933048" units="" toexpr="x" frexpr="x" format="%0.2f" min="-7.500" max="20.400" inc="1" storagetype="float" endian="big"
+><scaling name="933048" units="" toexpr="x" frexpr="x" format="%0.2f" min="-14.100" max="19.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="932968" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="1500.000" inc="10" storagetype="float" endian="big"
 ></scaling
@@ -1641,7 +1641,7 @@
 ></scaling
 ><scaling name="947936" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.550" max="6.000" inc="0.1" storagetype="float" endian="big"
 ></scaling
-><scaling name="820980_TQ" units="" toexpr="x" frexpr="x" format="%0.2f" min="-999.000" max="-999.000" inc="1" storagetype="float" endian="big"
+><scaling name="820980_TQ" units="" toexpr="x" frexpr="x" format="%0.2f" min="70.000" max="80.000" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="820936" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="5500.000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -1689,19 +1689,19 @@
 ></scaling
 ><scaling name="909428_DEG" units="" toexpr="x" frexpr="x" format="%0.1f" min="-40.000" max="80.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="911780" units="" toexpr="x" frexpr="x" format="%0.2f" min="-4.000" max="7.000" inc="1" storagetype="float" endian="big"
+><scaling name="911780" units="" toexpr="x" frexpr="x" format="%0.2f" min="-1.000" max="7.000" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="911660_DEG" units="" toexpr="x" frexpr="x" format="%0.1f" min="-40.000" max="80.000" inc="10" storagetype="float" endian="big"
 ></scaling
 ><scaling name="911712" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="910776" units="" toexpr="x" frexpr="x" format="%0.2f" min="-7.500" max="7.000" inc="1" storagetype="float" endian="big"
+><scaling name="910776" units="" toexpr="x" frexpr="x" format="%0.2f" min="-1.000" max="7.000" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="910656_DEG" units="" toexpr="x" frexpr="x" format="%0.1f" min="-40.000" max="80.000" inc="10" storagetype="float" endian="big"
 ></scaling
 ><scaling name="910708" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="916268" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="7.900" inc="0.1" storagetype="float" endian="big"
+><scaling name="916268" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="15.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="916176" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="5000.000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -1735,7 +1735,7 @@
 ></scaling
 ><scaling name="895660" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="795860" units="" toexpr="x" frexpr="x" format="%0.0f" min="20.000" max="20.000" inc="1" storagetype="float" endian="big"
+><scaling name="795860" units="" toexpr="x" frexpr="x" format="%0.0f" min="63.000" max="63.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="796960" units="" toexpr="x" frexpr="x" format="%0.0f" min="0.000" max="25.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -1775,7 +1775,7 @@
 ></scaling
 ><scaling name="293618" units="" toexpr="x" frexpr="x" format="%d" min="36616.000" max="36616.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
-><scaling name="654314" units="" toexpr="x" frexpr="x" format="%d" min="36616.000" max="36616.000" inc="1" storagetype="uint16" endian="big"
+><scaling name="654010" units="" toexpr="x" frexpr="x" format="%d" min="36616.000" max="36616.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
 ><scaling name="786752" units="" toexpr="x" frexpr="x" format="%d" min="255.000" max="255.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
@@ -1783,7 +1783,7 @@
 ></scaling
 ><scaling name="972544_DEG" units="" toexpr="x" frexpr="x" format="%0.1f" min="-40.000" max="100.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="972692_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.513" max="1.000" inc="0.01" storagetype="float" endian="big"
+><scaling name="972692_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.625" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="972664_DEG" units="" toexpr="x" frexpr="x" format="%0.1f" min="-40.000" max="80.000" inc="10" storagetype="float" endian="big"
 ></scaling
@@ -1791,35 +1791,35 @@
 ></scaling
 ><scaling name="972720_DEG" units="" toexpr="x" frexpr="x" format="%0.1f" min="-40.000" max="80.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="972804_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.2f" min="0.595" max="1.000" inc="0.01" storagetype="float" endian="big"
+><scaling name="972804_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.2f" min="0.500" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="972776_DEG" units="" toexpr="x" frexpr="x" format="%0.1f" min="-40.000" max="80.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="972924_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.735" max="0.884" inc="0.01" storagetype="float" endian="big"
+><scaling name="972924_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.664" max="0.884" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="972832" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7500.000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="972892" units="" toexpr="x" frexpr="x" format="%0.2f" min="12.500" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="973496_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.735" max="0.884" inc="0.01" storagetype="float" endian="big"
+><scaling name="973496_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.697" max="0.884" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="973404" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7500.000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="973464" units="" toexpr="x" frexpr="x" format="%0.2f" min="12.500" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="974980_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.735" max="1.000" inc="0.01" storagetype="float" endian="big"
+><scaling name="974980_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.664" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="974868" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7500.000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="974928" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.250" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="974088_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.735" max="1.000" inc="0.01" storagetype="float" endian="big"
+><scaling name="974088_LAMBDA" units="" toexpr="100/(100+x)" frexpr="(100/x) - 100" format="%0.3f" min="0.697" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
 ><scaling name="973976" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7500.000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="974036" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.250" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="975852" units="" toexpr="x" frexpr="x" format="%0.2f" min="-19.000" max="31.000" inc="1" storagetype="float" endian="big"
+><scaling name="975852" units="" toexpr="x" frexpr="x" format="%0.2f" min="-20.000" max="59.900" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="975760" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="4000.000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -1831,7 +1831,7 @@
 ></scaling
 ><scaling name="976392" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="977444" units="" toexpr="x" frexpr="x" format="%0.2f" min="-14.000" max="33.000" inc="1" storagetype="float" endian="big"
+><scaling name="977444" units="" toexpr="x" frexpr="x" format="%0.2f" min="-12.000" max="59.900" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="977352" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="4000.000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -1843,7 +1843,7 @@
 ></scaling
 ><scaling name="977984" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="979036" units="" toexpr="x" frexpr="x" format="%0.2f" min="-21.500" max="31.000" inc="1" storagetype="float" endian="big"
+><scaling name="979036" units="" toexpr="x" frexpr="x" format="%0.2f" min="-21.000" max="59.900" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="978944" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="4000.000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -1855,7 +1855,7 @@
 ></scaling
 ><scaling name="979576" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="980628" units="" toexpr="x" frexpr="x" format="%0.2f" min="-15.500" max="33.000" inc="1" storagetype="float" endian="big"
+><scaling name="980628" units="" toexpr="x" frexpr="x" format="%0.2f" min="-12.000" max="59.900" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="980536" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="4000.000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -1879,7 +1879,7 @@
 ></scaling
 ><scaling name="983208" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="984260" units="" toexpr="x" frexpr="x" format="%0.2f" min="-1.300" max="28.000" inc="1" storagetype="float" endian="big"
+><scaling name="984260" units="" toexpr="x" frexpr="x" format="%0.2f" min="-3.500" max="54.900" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="984168" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="4000.000" inc="100" storagetype="float" endian="big"
 ></scaling
@@ -2027,7 +2027,7 @@
 ></table
 ><table level="1" type="1D" category="DBW - Brake Override" swapxy="true" name="BOS - Target Idle Speed | Not In-Gear" address="d2f1c" elements="1" scaling="864028"
 ></table
-><table level="1" type="1D" category="DBW - Brake Override" swapxy="true" name="BOS - Delay Decay Rate" address="af864" elements="1" scaling="718948"
+><table level="1" type="1D" category="DBW - Brake Override" swapxy="true" name="BOS - Delay Decay Rate" address="af734" elements="1" scaling="718644"
 ></table
 ><table level="1" type="1D" category="DBW - Brake Override" swapxy="true" name="BOS - Delay Multiplier" address="d2ef8" elements="1" scaling="863992"
 ></table
@@ -2541,9 +2541,9 @@
 ></table
 ><table level="1" type="1D" category="Engine Limiters - RPM" swapxy="true" name="Rev Limit Fuel Cut - Resume Delay Reset | RPM Above Limit Timer Expired" address="ccb3c" elements="1" scaling="838460"
 ></table
-><table level="1" type="1D" category="Engine Limiters - RPM" swapxy="true" name="Rev Limit Fuel Cut - Resume Delta | RPM Below Limit, Resume Delay Active" address="cd914" elements="1" scaling="842004"
+><table level="1" type="1D" category="Engine Limiters - RPM" swapxy="true" name="Rev Limit Fuel Cut - Resume Delta | RPM Below Limit, Resume Delay Active" address="ccc6c" elements="1" scaling="838764"
 ></table
-><table level="1" type="1D" category="Engine Limiters - RPM" swapxy="true" name="Rev Limit Fuel Cut - Resume Delta | RPM Below Limit, Resume Delay Expired" address="cd918" elements="1" scaling="842008"
+><table level="1" type="1D" category="Engine Limiters - RPM" swapxy="true" name="Rev Limit Fuel Cut - Resume Delta | RPM Below Limit, Resume Delay Expired" address="ccc70" elements="1" scaling="838768"
 ></table
 ><table level="4" type="1D" category="Engine Limiters - RPM" swapxy="true" name="Rev Limit Fuel Cut - Flat Shift Activation - Throttle Threshold" address="f3e9c" elements="1" scaling="999068"
 ></table
@@ -3661,7 +3661,7 @@
 ></table
 ><table level="1" type="1D" category="Patch - Decel Fuel Cut Off" swapxy="true" name="Patch - DFCO CPP Bypass | unpatched = 36616, patched = 9" address="47af2" elements="1" scaling="293618"
 ></table
-><table level="1" type="1D" category="Patch - Immobilizer" swapxy="true" name="Patch - Immobilizer Bypass - PARTIAL | unpatched = 36616, patched = 9" address="9fbea" elements="1" scaling="654314"
+><table level="1" type="1D" category="Patch - Immobilizer" swapxy="true" name="Patch - Immobilizer Bypass - PARTIAL | unpatched = 36616, patched = 9" address="9faba" elements="1" scaling="654010"
 ></table
 ><table level="1" type="1D" category="Patch - Immobilizer" swapxy="true" name="Patch - Immobilizer Bypass - FULL | unpatched = 255, patched = 128" address="c0140" elements="1" scaling="786752"
 ></table

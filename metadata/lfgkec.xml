@@ -707,72 +707,6 @@
 ></scaling
 ><scaling name="901108" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.059" max="4.746" inc="0.1" storagetype="float" endian="big"
 ></scaling
-><scaling name="772652" units="" toexpr="x" frexpr="x" format="%0.0f" min="0.000" max="255.000" inc="10" storagetype="float" endian="big"
-></scaling
-><scaling name="772432" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.010" max="2.500" inc="0.1" storagetype="float" endian="big"
-></scaling
-><scaling name="776528" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.300" max="2.600" inc="0.01" storagetype="float" endian="big"
-></scaling
-><scaling name="776440" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
-></scaling
-><scaling name="776496" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
-></scaling
-><scaling name="777064" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.300" max="2.600" inc="0.01" storagetype="float" endian="big"
-></scaling
-><scaling name="776976" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
-></scaling
-><scaling name="777032" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
-></scaling
-><scaling name="777600" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.300" max="2.600" inc="0.01" storagetype="float" endian="big"
-></scaling
-><scaling name="777512" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
-></scaling
-><scaling name="777568" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
-></scaling
-><scaling name="778136" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.300" max="2.600" inc="0.01" storagetype="float" endian="big"
-></scaling
-><scaling name="778048" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
-></scaling
-><scaling name="778104" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
-></scaling
-><scaling name="768851" units="" toexpr="x" frexpr="x" format="%d" min="24.000" max="24.000" inc="1" storagetype="uint8" endian="big"
-></scaling
-><scaling name="771128" units="" toexpr="x" frexpr="x" format="%0.0f" min="319.000" max="319.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="771072" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
-></scaling
-><scaling name="771240" units="" toexpr="x" frexpr="x" format="%0.0f" min="319.000" max="319.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="771184" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
-></scaling
-><scaling name="771352" units="" toexpr="x" frexpr="x" format="%0.0f" min="319.000" max="319.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="771296" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
-></scaling
-><scaling name="771464" units="" toexpr="x" frexpr="x" format="%0.0f" min="319.000" max="319.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="771408" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
-></scaling
-><scaling name="771576" units="" toexpr="x" frexpr="x" format="%0.0f" min="64.000" max="64.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="771520" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
-></scaling
-><scaling name="771688" units="" toexpr="x" frexpr="x" format="%0.0f" min="64.000" max="64.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="771632" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
-></scaling
-><scaling name="771800" units="" toexpr="x" frexpr="x" format="%0.0f" min="64.000" max="64.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="771744" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
-></scaling
-><scaling name="771912" units="" toexpr="x" frexpr="x" format="%0.0f" min="64.000" max="64.000" inc="1" storagetype="float" endian="big"
-></scaling
-><scaling name="771856" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
-></scaling
-><scaling name="772372" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.100" max="1.000" inc="0.01" storagetype="float" endian="big"
-></scaling
-><scaling name="772312" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
-></scaling
 ><scaling name="772960" units="" toexpr="x" frexpr="x" format="%d" min="51.000" max="192.000" inc="10" storagetype="uint16" endian="big"
 ></scaling
 ><scaling name="772872" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
@@ -821,29 +755,9 @@
 ></scaling
 ><scaling name="775112" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
-><scaling name="778660" units="" toexpr="x" frexpr="x" format="%0.0f" min="28.000" max="33.000" inc="0.1" storagetype="float" endian="big"
+><scaling name="772652" units="" toexpr="x" frexpr="x" format="%0.0f" min="0.000" max="255.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="778584" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
-></scaling
-><scaling name="778640" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.500" max="1.000" inc="0.01" storagetype="float" endian="big"
-></scaling
-><scaling name="779016" units="" toexpr="x" frexpr="x" format="%0.0f" min="28.000" max="33.000" inc="0.1" storagetype="float" endian="big"
-></scaling
-><scaling name="778940" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
-></scaling
-><scaling name="778996" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.500" max="1.000" inc="0.01" storagetype="float" endian="big"
-></scaling
-><scaling name="779372" units="" toexpr="x" frexpr="x" format="%0.0f" min="28.000" max="33.000" inc="0.1" storagetype="float" endian="big"
-></scaling
-><scaling name="779296" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
-></scaling
-><scaling name="779352" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.500" max="1.000" inc="0.01" storagetype="float" endian="big"
-></scaling
-><scaling name="779728" units="" toexpr="x" frexpr="x" format="%0.0f" min="28.000" max="33.000" inc="0.1" storagetype="float" endian="big"
-></scaling
-><scaling name="779652" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
-></scaling
-><scaling name="779708" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.500" max="1.000" inc="0.01" storagetype="float" endian="big"
+><scaling name="772432" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.010" max="2.500" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="780084" units="" toexpr="x" frexpr="x" format="%0.0f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -869,6 +783,30 @@
 ></scaling
 ><scaling name="781132" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.500" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
+><scaling name="778660" units="" toexpr="x" frexpr="x" format="%0.0f" min="28.000" max="33.000" inc="0.1" storagetype="float" endian="big"
+></scaling
+><scaling name="778584" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
+></scaling
+><scaling name="778640" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.500" max="1.000" inc="0.01" storagetype="float" endian="big"
+></scaling
+><scaling name="779016" units="" toexpr="x" frexpr="x" format="%0.0f" min="28.000" max="33.000" inc="0.1" storagetype="float" endian="big"
+></scaling
+><scaling name="778940" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
+></scaling
+><scaling name="778996" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.500" max="1.000" inc="0.01" storagetype="float" endian="big"
+></scaling
+><scaling name="779372" units="" toexpr="x" frexpr="x" format="%0.0f" min="28.000" max="33.000" inc="0.1" storagetype="float" endian="big"
+></scaling
+><scaling name="779296" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
+></scaling
+><scaling name="779352" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.500" max="1.000" inc="0.01" storagetype="float" endian="big"
+></scaling
+><scaling name="779728" units="" toexpr="x" frexpr="x" format="%0.0f" min="28.000" max="33.000" inc="0.1" storagetype="float" endian="big"
+></scaling
+><scaling name="779652" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
+></scaling
+><scaling name="779708" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.500" max="1.000" inc="0.01" storagetype="float" endian="big"
+></scaling
 ><scaling name="781508" units="" toexpr="x" frexpr="x" format="%0.0f" min="20.000" max="25.000" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="781432" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
@@ -892,6 +830,64 @@
 ><scaling name="782500" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
 ></scaling
 ><scaling name="782556" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.500" max="1.000" inc="0.01" storagetype="float" endian="big"
+></scaling
+><scaling name="776528" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.300" max="2.600" inc="0.01" storagetype="float" endian="big"
+></scaling
+><scaling name="776440" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
+></scaling
+><scaling name="776496" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
+></scaling
+><scaling name="777064" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.300" max="2.600" inc="0.01" storagetype="float" endian="big"
+></scaling
+><scaling name="776976" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
+></scaling
+><scaling name="777032" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
+></scaling
+><scaling name="777600" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.300" max="2.600" inc="0.01" storagetype="float" endian="big"
+></scaling
+><scaling name="777512" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
+></scaling
+><scaling name="777568" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
+></scaling
+><scaling name="778136" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.300" max="2.600" inc="0.01" storagetype="float" endian="big"
+></scaling
+><scaling name="778048" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
+></scaling
+><scaling name="778104" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.125" max="1.000" inc="0.01" storagetype="float" endian="big"
+></scaling
+><scaling name="771576" units="" toexpr="x" frexpr="x" format="%0.0f" min="64.000" max="64.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="771520" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
+></scaling
+><scaling name="771688" units="" toexpr="x" frexpr="x" format="%0.0f" min="64.000" max="64.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="771632" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
+></scaling
+><scaling name="771800" units="" toexpr="x" frexpr="x" format="%0.0f" min="64.000" max="64.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="771744" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
+></scaling
+><scaling name="771912" units="" toexpr="x" frexpr="x" format="%0.0f" min="64.000" max="64.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="771856" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
+></scaling
+><scaling name="771128" units="" toexpr="x" frexpr="x" format="%0.0f" min="319.000" max="319.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="771072" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
+></scaling
+><scaling name="771240" units="" toexpr="x" frexpr="x" format="%0.0f" min="319.000" max="319.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="771184" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
+></scaling
+><scaling name="771352" units="" toexpr="x" frexpr="x" format="%0.0f" min="319.000" max="319.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="771296" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
+></scaling
+><scaling name="771464" units="" toexpr="x" frexpr="x" format="%0.0f" min="319.000" max="319.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="771408" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7000.000" inc="100" storagetype="float" endian="big"
+></scaling
+><scaling name="768851" units="" toexpr="x" frexpr="x" format="%d" min="24.000" max="24.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="831684" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.600" max="1.000" inc="0.01" storagetype="float" endian="big"
 ></scaling
@@ -2579,191 +2575,187 @@
 ><table name="IAT_V_4042 * MULT" address="dbff4" elements="16" scaling="901108" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS - Capture to Magnitude" address="bca2c" elements="55" scaling="772652"
-><table name="KS_42B0" address="bc950" elements="55" scaling="772432" type="Y Axis"
-></table
-></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Proto-Knock Magnitude Multiplier | Cylinder 1" address="bd950" elements="112" scaling="776528"
-><table name="LOAD_6F44" address="bd930" elements="8" scaling="776496" type="X Axis"
-></table
-><table name="RPM_6DD8" address="bd8f8" elements="14" scaling="776440" type="Y Axis"
-></table
-></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Proto-Knock Magnitude Multiplier | Cylinder 2" address="bdb68" elements="112" scaling="777064"
-><table name="LOAD_6F44" address="bdb48" elements="8" scaling="777032" type="X Axis"
-></table
-><table name="RPM_6DD8" address="bdb10" elements="14" scaling="776976" type="Y Axis"
-></table
-></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Proto-Knock Magnitude Multiplier | Cylinder 3" address="bdd80" elements="112" scaling="777600"
-><table name="LOAD_6F44" address="bdd60" elements="8" scaling="777568" type="X Axis"
-></table
-><table name="RPM_6DD8" address="bdd28" elements="14" scaling="777512" type="Y Axis"
-></table
-></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Proto-Knock Magnitude Multiplier | Cylinder 4" address="bdf98" elements="112" scaling="778136"
-><table name="LOAD_6F44" address="bdf78" elements="8" scaling="778104" type="X Axis"
-></table
-><table name="RPM_6DD8" address="bdf40" elements="14" scaling="778048" type="Y Axis"
-></table
-></table
-><table level="1" type="1D" category="Engine Sensor - KS " swapxy="true" name="KS - Minimum Proto-Knock Count for Successful Knock Event" address="bbb53" elements="1" scaling="768851"
-></table
-><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS - Proto-Knock Max Magnitude | Cylinder 1" address="bc438" elements="14" scaling="771128"
-><table name="RPM_6DD8" address="bc400" elements="14" scaling="771072" type="Y Axis"
-></table
-></table
-><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS - Proto-Knock Max Magnitude | Cylinder 2" address="bc4a8" elements="14" scaling="771240"
-><table name="RPM_6DD8" address="bc470" elements="14" scaling="771184" type="Y Axis"
-></table
-></table
-><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS - Proto-Knock Max Magnitude | Cylinder 3" address="bc518" elements="14" scaling="771352"
-><table name="RPM_6DD8" address="bc4e0" elements="14" scaling="771296" type="Y Axis"
-></table
-></table
-><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS - Proto-Knock Max Magnitude | Cylinder 4" address="bc588" elements="14" scaling="771464"
-><table name="RPM_6DD8" address="bc550" elements="14" scaling="771408" type="Y Axis"
-></table
-></table
-><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS - Proto-Knock Min Magnitude | Cylinder 1" address="bc5f8" elements="14" scaling="771576"
-><table name="RPM_6DD8" address="bc5c0" elements="14" scaling="771520" type="Y Axis"
-></table
-></table
-><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS - Proto-Knock Min Magnitude | Cylinder 2" address="bc668" elements="14" scaling="771688"
-><table name="RPM_6DD8" address="bc630" elements="14" scaling="771632" type="Y Axis"
-></table
-></table
-><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS - Proto-Knock Min Magnitude | Cylinder 3" address="bc6d8" elements="14" scaling="771800"
-><table name="RPM_6DD8" address="bc6a0" elements="14" scaling="771744" type="Y Axis"
-></table
-></table
-><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS - Proto-Knock Min Magnitude | Cylinder 4" address="bc748" elements="14" scaling="771912"
-><table name="RPM_6DD8" address="bc710" elements="14" scaling="771856" type="Y Axis"
-></table
-></table
-><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS - WIP" address="bc914" elements="15" scaling="772372"
-><table name="FFFF_7F74" address="bc8d8" elements="15" scaling="772312" type="Y Axis"
-></table
-></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Capture Start | Cylinder 1" address="bcb60" elements="112" scaling="772960"
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Capture Start | Cylinder 1" address="bcb60" elements="112" scaling="772960"
 ><table name="LOAD_6F44" address="bcb40" elements="8" scaling="772928" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="bcb08" elements="14" scaling="772872" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Capture Start | Cylinder 2" address="bcc98" elements="112" scaling="773272"
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Capture Start | Cylinder 2" address="bcc98" elements="112" scaling="773272"
 ><table name="LOAD_6F44" address="bcc78" elements="8" scaling="773240" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="bcc40" elements="14" scaling="773184" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Capture Start | Cylinder 3" address="bcdd0" elements="112" scaling="773584"
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Capture Start | Cylinder 3" address="bcdd0" elements="112" scaling="773584"
 ><table name="LOAD_6F44" address="bcdb0" elements="8" scaling="773552" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="bcd78" elements="14" scaling="773496" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Capture Start | Cylinder 4" address="bcf08" elements="112" scaling="773896"
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Capture Start | Cylinder 4" address="bcf08" elements="112" scaling="773896"
 ><table name="LOAD_6F44" address="bcee8" elements="8" scaling="773864" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="bceb0" elements="14" scaling="773808" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Capture End | Cylinder 1" address="bd040" elements="112" scaling="774208"
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Capture End | Cylinder 1" address="bd040" elements="112" scaling="774208"
 ><table name="LOAD_6F44" address="bd020" elements="8" scaling="774176" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="bcfe8" elements="14" scaling="774120" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Capture End | Cylinder 2" address="bd178" elements="112" scaling="774520"
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Capture End | Cylinder 2" address="bd178" elements="112" scaling="774520"
 ><table name="LOAD_6F44" address="bd158" elements="8" scaling="774488" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="bd120" elements="14" scaling="774432" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Capture End | Cylinder 3" address="bd2b0" elements="112" scaling="774832"
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Capture End | Cylinder 3" address="bd2b0" elements="112" scaling="774832"
 ><table name="LOAD_6F44" address="bd290" elements="8" scaling="774800" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="bd258" elements="14" scaling="774744" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Capture End | Cylinder 4" address="bd3e8" elements="112" scaling="775144"
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Capture End | Cylinder 4" address="bd3e8" elements="112" scaling="775144"
 ><table name="LOAD_6F44" address="bd3c8" elements="8" scaling="775112" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="bd390" elements="14" scaling="775056" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Max | Cylinder 1" address="be1a4" elements="70" scaling="778660"
-><table name="LOAD_6F44" address="be190" elements="5" scaling="778640" type="X Axis"
-></table
-><table name="RPM_6DD8" address="be158" elements="14" scaling="778584" type="Y Axis"
+><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Capture to Magnitude" address="bca2c" elements="55" scaling="772652"
+><table name="KS_42B0" address="bc950" elements="55" scaling="772432" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Max | Cylinder 2" address="be308" elements="70" scaling="779016"
-><table name="LOAD_6F44" address="be2f4" elements="5" scaling="778996" type="X Axis"
-></table
-><table name="RPM_6DD8" address="be2bc" elements="14" scaling="778940" type="Y Axis"
-></table
-></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Max | Cylinder 3" address="be46c" elements="70" scaling="779372"
-><table name="LOAD_6F44" address="be458" elements="5" scaling="779352" type="X Axis"
-></table
-><table name="RPM_6DD8" address="be420" elements="14" scaling="779296" type="Y Axis"
-></table
-></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Max | Cylinder 4" address="be5d0" elements="70" scaling="779728"
-><table name="LOAD_6F44" address="be5bc" elements="5" scaling="779708" type="X Axis"
-></table
-><table name="RPM_6DD8" address="be584" elements="14" scaling="779652" type="Y Axis"
-></table
-></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Min | Cylinder 1" address="be734" elements="70" scaling="780084"
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Historic Magnitude - Min | Cylinder 1" address="be734" elements="70" scaling="780084"
 ><table name="LOAD_6F44" address="be720" elements="5" scaling="780064" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="be6e8" elements="14" scaling="780008" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Min | Cylinder 2" address="be898" elements="70" scaling="780440"
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Historic Magnitude - Min | Cylinder 2" address="be898" elements="70" scaling="780440"
 ><table name="LOAD_6F44" address="be884" elements="5" scaling="780420" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="be84c" elements="14" scaling="780364" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Min | Cylinder 3" address="be9fc" elements="70" scaling="780796"
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Historic Magnitude - Min | Cylinder 3" address="be9fc" elements="70" scaling="780796"
 ><table name="LOAD_6F44" address="be9e8" elements="5" scaling="780776" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="be9b0" elements="14" scaling="780720" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Min | Cylinder 4" address="beb60" elements="70" scaling="781152"
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Historic Magnitude - Min | Cylinder 4" address="beb60" elements="70" scaling="781152"
 ><table name="LOAD_6F44" address="beb4c" elements="5" scaling="781132" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="beb14" elements="14" scaling="781076" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Offset | Cylinder 1" address="becc4" elements="70" scaling="781508"
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Historic Magnitude - Max | Cylinder 1" address="be1a4" elements="70" scaling="778660"
+><table name="LOAD_6F44" address="be190" elements="5" scaling="778640" type="X Axis"
+></table
+><table name="RPM_6DD8" address="be158" elements="14" scaling="778584" type="Y Axis"
+></table
+></table
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Historic Magnitude - Max | Cylinder 2" address="be308" elements="70" scaling="779016"
+><table name="LOAD_6F44" address="be2f4" elements="5" scaling="778996" type="X Axis"
+></table
+><table name="RPM_6DD8" address="be2bc" elements="14" scaling="778940" type="Y Axis"
+></table
+></table
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Historic Magnitude - Max | Cylinder 3" address="be46c" elements="70" scaling="779372"
+><table name="LOAD_6F44" address="be458" elements="5" scaling="779352" type="X Axis"
+></table
+><table name="RPM_6DD8" address="be420" elements="14" scaling="779296" type="Y Axis"
+></table
+></table
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Historic Magnitude - Max | Cylinder 4" address="be5d0" elements="70" scaling="779728"
+><table name="LOAD_6F44" address="be5bc" elements="5" scaling="779708" type="X Axis"
+></table
+><table name="RPM_6DD8" address="be584" elements="14" scaling="779652" type="Y Axis"
+></table
+></table
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Historic Magnitude - Fold | Cylinder 1" address="becc4" elements="70" scaling="781508"
 ><table name="LOAD_6F44" address="becb0" elements="5" scaling="781488" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="bec78" elements="14" scaling="781432" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Offset | Cylinder 2" address="bee28" elements="70" scaling="781864"
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Historic Magnitude - Fold | Cylinder 2" address="bee28" elements="70" scaling="781864"
 ><table name="LOAD_6F44" address="bee14" elements="5" scaling="781844" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="beddc" elements="14" scaling="781788" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Offset | Cylinder 3" address="bef8c" elements="70" scaling="782220"
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Historic Magnitude - Fold | Cylinder 3" address="bef8c" elements="70" scaling="782220"
 ><table name="LOAD_6F44" address="bef78" elements="5" scaling="782200" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="bef40" elements="14" scaling="782144" type="Y Axis"
 ></table
 ></table
-><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS - Offset | Cylinder 4" address="bf0f0" elements="70" scaling="782576"
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Historic Magnitude - Fold | Cylinder 4" address="bf0f0" elements="70" scaling="782576"
 ><table name="LOAD_6F44" address="bf0dc" elements="5" scaling="782556" type="X Axis"
 ></table
 ><table name="RPM_6DD8" address="bf0a4" elements="14" scaling="782500" type="Y Axis"
 ></table
+></table
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Historic to Safe Magnitude - Scaling | Cylinder 1" address="bd950" elements="112" scaling="776528"
+><table name="LOAD_6F44" address="bd930" elements="8" scaling="776496" type="X Axis"
+></table
+><table name="RPM_6DD8" address="bd8f8" elements="14" scaling="776440" type="Y Axis"
+></table
+></table
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Historic to Safe Magnitude - Scaling | Cylinder 2" address="bdb68" elements="112" scaling="777064"
+><table name="LOAD_6F44" address="bdb48" elements="8" scaling="777032" type="X Axis"
+></table
+><table name="RPM_6DD8" address="bdb10" elements="14" scaling="776976" type="Y Axis"
+></table
+></table
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Historic to Safe Magnitude - Scaling | Cylinder 3" address="bdd80" elements="112" scaling="777600"
+><table name="LOAD_6F44" address="bdd60" elements="8" scaling="777568" type="X Axis"
+></table
+><table name="RPM_6DD8" address="bdd28" elements="14" scaling="777512" type="Y Axis"
+></table
+></table
+><table level="1" type="3D" category="Engine Sensor - KS " swapxy="true" name="KS Historic to Safe Magnitude - Scaling | Cylinder 4" address="bdf98" elements="112" scaling="778136"
+><table name="LOAD_6F44" address="bdf78" elements="8" scaling="778104" type="X Axis"
+></table
+><table name="RPM_6DD8" address="bdf40" elements="14" scaling="778048" type="Y Axis"
+></table
+></table
+><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Magnitude - Min | Cylinder 1" address="bc5f8" elements="14" scaling="771576"
+><table name="RPM_6DD8" address="bc5c0" elements="14" scaling="771520" type="Y Axis"
+></table
+></table
+><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Magnitude - Min | Cylinder 2" address="bc668" elements="14" scaling="771688"
+><table name="RPM_6DD8" address="bc630" elements="14" scaling="771632" type="Y Axis"
+></table
+></table
+><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Magnitude - Min | Cylinder 3" address="bc6d8" elements="14" scaling="771800"
+><table name="RPM_6DD8" address="bc6a0" elements="14" scaling="771744" type="Y Axis"
+></table
+></table
+><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Magnitude - Min | Cylinder 4" address="bc748" elements="14" scaling="771912"
+><table name="RPM_6DD8" address="bc710" elements="14" scaling="771856" type="Y Axis"
+></table
+></table
+><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Magnitude - Max | Cylinder 1" address="bc438" elements="14" scaling="771128"
+><table name="RPM_6DD8" address="bc400" elements="14" scaling="771072" type="Y Axis"
+></table
+></table
+><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Magnitude - Max | Cylinder 2" address="bc4a8" elements="14" scaling="771240"
+><table name="RPM_6DD8" address="bc470" elements="14" scaling="771184" type="Y Axis"
+></table
+></table
+><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Magnitude - Max | Cylinder 3" address="bc518" elements="14" scaling="771352"
+><table name="RPM_6DD8" address="bc4e0" elements="14" scaling="771296" type="Y Axis"
+></table
+></table
+><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Magnitude - Max | Cylinder 4" address="bc588" elements="14" scaling="771464"
+><table name="RPM_6DD8" address="bc550" elements="14" scaling="771408" type="Y Axis"
+></table
+></table
+><table level="1" type="1D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Magnitude Exceeded Count for Valid Knock Event" address="bbb53" elements="1" scaling="768851"
 ></table
 ><table level="4" type="2D" category="Engine Sensor - MAF" swapxy="true" name="MAF Scaling | Fault" address="cb0c4" elements="8" scaling="831684"
 ><table name="ECT_6D44" address="cb0a4" elements="8" scaling="831652_DEG" type="Y Axis"
