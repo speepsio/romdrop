@@ -19,8 +19,8 @@ Minimalist Flash Toolkit for the 2006-2015 Mazda MX-5 (NC).
 * romdrop.exe - application executable
 * romdrop.crc - checksum data for stock calibrations and patches 
 * colormaps (folder) - preferred ecuflash color map files
-* metadata (folder) - all ecuflash definitions that are currently available.
-* patches (folder) - available patch files for ROMs which have been defined.
+* metadata (folder) - all ecuflash definitions that are currently available
+* patches (folder) - available patch files for ROMs currently defined
 
 ### Application Files (generated):
 * romdrop.log - all loggable activity
@@ -46,9 +46,6 @@ It’s advised that you do not simultaneously run applications that consume heav
 * S | Sniff CAN Communications - the app can log 2MB of raw CAN communications. This is for the hacker types.
 * V | Version for ROM - display ROM patch version
 * Q | Quit - Exit application
-
-### Calibration Patches:
-* https://github.com/speepsio/romdrop-patches
 
 ### ECUFlash Setup
 * download and install ecuflash
