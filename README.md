@@ -1,6 +1,3 @@
->*Note: Patches have been updated, and are now back online*
-https://github.com/speepsio/romdrop-patches
-
 ### ROMDROP
 Minimalist Flash Toolkit for the 2006-2015 Mazda MX-5 (NC).
 
@@ -21,8 +18,9 @@ Minimalist Flash Toolkit for the 2006-2015 Mazda MX-5 (NC).
 * romdrop_license.txt - end user license agreement
 * romdrop.exe - application executable
 * romdrop.crc - checksum data for stock calibrations and patches 
-* metadata (folder) - all ecuflash definitions that are currently available.
 * colormaps (folder) - preferred ecuflash color map files
+* metadata (folder) - all ecuflash definitions that are currently available.
+* patches (folder) - available patch files for ROMs which have been defined.
 
 ### Application Files (generated):
 * romdrop.log - all loggable activity
@@ -37,7 +35,7 @@ Minimalist Flash Toolkit for the 2006-2015 Mazda MX-5 (NC).
 
 BTW you can associate a rom's file extension (typically .bin) with romdrop, afterwhich, you'll only need to double-click the rom you want to flash. Romdrop will automatically attempt to "dynamic" (quick) flash that file to the ECU... no menus, no keypresses, no nothing.
 
-It’s advised that you do not simultaneously run applications that consume heavy resources while flashing. Doing so can impact transfer speeds which can result in a failed flash. BTW, a failed flash and all it's blinking lights isn’t the end of the world... in most cases, it's recoverable.
+It’s advised that you do not simultaneously run applications that consume heavy resources while flashing.
 
 ### Menu Items:
 * C | Clear Diagnostic Trouble Codes - self explanatory.
@@ -45,7 +43,8 @@ It’s advised that you do not simultaneously run applications that consume heav
 * F | Flash Entire ROM - Flashes all ROM blocks to the ECU.
 * P | Patch Stock ROM - Many functions accessable by romdrop require that the factory calibration be patched with updated code. Use this option to apply the patch file to your stock ROM, and generate a newly patched calibration for editing with ecuflash.
 * R | Read ROM from ECU - this is the first thing you should do if virgin to the application. Why? **You will always want a backup of your original stock rom, and it's required to apply feature patches.**
-* S | Sniff CAN Communications - the app can log 2MB of raw CAN communications. This is for the true hacker types.
+* S | Sniff CAN Communications - the app can log 2MB of raw CAN communications. This is for the hacker types.
+* V | Version for ROM - display ROM patch version
 * Q | Quit - Exit application
 
 ### Calibration Patches:
