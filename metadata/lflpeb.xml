@@ -27,7 +27,7 @@
 ><memmodel
 >SH7058</memmodel
 ><checksummodule
->21053000</checksummodule
+>None</checksummodule
 ></romid
 ><scaling name="863964" units="" toexpr="x" frexpr="x" format="%0.1f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -401,7 +401,7 @@
 ></scaling
 ><scaling name="968728" units="" toexpr="x" frexpr="x" format="%d" min="1.000" max="1.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
-><scaling name="999024" units="" toexpr="x" frexpr="x" format="%0.0f" min="1998.000" max="1998.000" inc="1" storagetype="float" endian="big"
+><scaling name="999024" units="" toexpr="x" frexpr="x" format="%0.0f" min="NaN" max="NaN" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="871340" units="" toexpr="x" frexpr="x" format="%d" min="0.000" max="40.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
@@ -509,13 +509,11 @@
 ></scaling
 ><scaling name="800080" units="" toexpr="x" frexpr="x" format="%0.0f" min="4750.000" max="4750.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="999079" units="" toexpr="x" frexpr="x" format="%d" min="0.000" max="0.000" inc="1" storagetype="uint8" endian="big"
+><scaling name="999079" units="" toexpr="x" frexpr="x" format="%d" min="255.000" max="255.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="999077" units="" toexpr="x" frexpr="x" format="%d" min="255.000" max="255.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
-><scaling name="999076" units="" toexpr="x" frexpr="x" format="%d" min="1.000" max="1.000" inc="1" storagetype="uint8" endian="big"
-></scaling
-><scaling name="999078" units="" toexpr="x" frexpr="x" format="%d" min="5.000" max="5.000" inc="1" storagetype="uint8" endian="big"
+><scaling name="999078" units="" toexpr="x" frexpr="x" format="%d" min="255.000" max="255.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="795860" units="" toexpr="x" frexpr="x" format="%0.0f" min="63.000" max="63.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -565,9 +563,9 @@
 ></scaling
 ><scaling name="796768" units="" toexpr="x" frexpr="x" format="%0.2f" min="100.000" max="1000.000" inc="10" storagetype="float" endian="big"
 ></scaling
-><scaling name="999068" units="" toexpr="x" frexpr="x" format="%0.0f" min="200.000" max="200.000" inc="1" storagetype="float" endian="big"
+><scaling name="999068" units="" toexpr="x" frexpr="x" format="%0.0f" min="NaN" max="NaN" inc="0.1" storagetype="float" endian="big"
 ></scaling
-><scaling name="999072" units="" toexpr="x" frexpr="x" format="%0.0f" min="8000.000" max="8000.000" inc="1" storagetype="float" endian="big"
+><scaling name="999072" units="" toexpr="x" frexpr="x" format="%0.0f" min="NaN" max="NaN" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="842040" units="" toexpr="x" frexpr="x" format="%0.0f" min="7200.000" max="7200.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -635,9 +633,9 @@
 ></scaling
 ><scaling name="944688" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.059" max="4.746" inc="0.1" storagetype="float" endian="big"
 ></scaling
-><scaling name="999028" units="" toexpr="x" frexpr="x" format="%d" min="0.000" max="0.000" inc="1" storagetype="uint8" endian="big"
+><scaling name="999028" units="" toexpr="x" frexpr="x" format="%d" min="255.000" max="255.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
-><scaling name="228672" units="" toexpr="x" frexpr="x" format="%d" min="236.000" max="236.000" inc="1" storagetype="uint32" endian="big"
+><scaling name="228672" units="" toexpr="x" frexpr="x" format="%d" min="256.000" max="256.000" inc="1" storagetype="uint32" endian="big"
 ></scaling
 ><scaling name="805728" units="" toexpr="x" frexpr="x" format="%d" min="51.000" max="192.000" inc="10" storagetype="uint16" endian="big"
 ></scaling
@@ -843,7 +841,7 @@
 ></scaling
 ><scaling name="873264" units="" toexpr="x" frexpr="x" format="%0.3f" min="0.000" max="5.000" inc="0.1" storagetype="float" endian="big"
 ></scaling
-><scaling name="999049" units="" toexpr="x" frexpr="x" format="%d" min="0.000" max="0.000" inc="1" storagetype="uint8" endian="big"
+><scaling name="999049" units="" toexpr="x" frexpr="x" format="%d" min="255.000" max="255.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="993500_VOL_FLOW" units="" toexpr="x" frexpr="x" format="%0.0f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -851,7 +849,7 @@
 ></scaling
 ><scaling name="993440" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="999048" units="" toexpr="x" frexpr="x" format="%d" min="0.000" max="0.000" inc="1" storagetype="uint8" endian="big"
+><scaling name="999048" units="" toexpr="x" frexpr="x" format="%d" min="255.000" max="255.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="990028_MINMAX_1.0-1.0" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -1353,7 +1351,7 @@
 ></scaling
 ><scaling name="993004" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="30.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="999056" units="" toexpr="x" frexpr="x" format="%0.1f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+><scaling name="999056" units="" toexpr="x" frexpr="x" format="%0.1f" min="NaN" max="NaN" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="824444" units="" toexpr="x" frexpr="x" format="%0.2f" min="4.100" max="4.100" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -1383,11 +1381,11 @@
 ></scaling
 ><scaling name="799312" units="" toexpr="x" frexpr="x" format="%0.1f" min="1.000" max="1.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="999030" units="" toexpr="x" frexpr="x" format="%d" min="3.000" max="3.000" inc="1" storagetype="uint8" endian="big"
+><scaling name="999030" units="" toexpr="x" frexpr="x" format="%d" min="255.000" max="255.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
-><scaling name="999032" units="" toexpr="x" frexpr="x" format="%08x" min="-270432120000000000000000000000000.000" max="-270432120000000000000000000000000.000" inc="1" storagetype="uint32" endian="big"
+><scaling name="999032" units="" toexpr="x" frexpr="x" format="%08x" min="NaN" max="NaN" inc="0.1" storagetype="uint32" endian="big"
 ></scaling
-><scaling name="999040" units="" toexpr="x" frexpr="x" format="%08x" min="0.000" max="0.000" inc="1" storagetype="uint32" endian="big"
+><scaling name="999040" units="" toexpr="x" frexpr="x" format="%08x" min="NaN" max="NaN" inc="0.1" storagetype="uint32" endian="big"
 ></scaling
 ><scaling name="841772" units="" toexpr="x" frexpr="x" format="%0.0f" min="999.000" max="999.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -1397,7 +1395,9 @@
 ></scaling
 ><scaling name="787088_FUEL_CONSUMPTION" units="" toexpr="x/1.018900036811829" frexpr="x*1.018900036811829" format="%0.4f" min="1.019" max="1.019" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="999044" units="" toexpr="x" frexpr="x" format="%08x" min="0.000" max="0.000" inc="1" storagetype="uint32" endian="big"
+><scaling name="999044" units="" toexpr="x" frexpr="x" format="%08x" min="NaN" max="NaN" inc="0.1" storagetype="uint32" endian="big"
+></scaling
+><scaling name="999076" units="" toexpr="x" frexpr="x" format="%d" min="255.000" max="255.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="800440" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.150" max="9.500" inc="0.1" storagetype="float" endian="big"
 ></scaling
@@ -2196,8 +2196,6 @@
 ><table level="1" type="1D" category="Engine Control - Manual Blend" swapxy="true" name="Manual Blend - Activation | 0 = Disable, 1 = Enable" address="f3ea7" elements="1" scaling="999079"
 ></table
 ><table level="1" type="1D" category="Engine Control - Manual Blend" swapxy="true" name="Manual Blend - Activation Delay" address="f3ea5" elements="1" scaling="999077"
-></table
-><table level="1" type="1D" category="Engine Control - Manual Blend" swapxy="true" name="Manual Blend - Speedo Display Format | 0 = Km/h, 1 = Mph" address="f3ea4" elements="1" scaling="999076"
 ></table
 ><table level="1" type="1D" category="Engine Control - Manual Blend" swapxy="true" name="Manual Blend - Step Size" address="f3ea6" elements="1" scaling="999078"
 ></table
@@ -3082,6 +3080,8 @@
 ><table level="4" type="1D" category="Instrument Cluster - Fuel Consumption" swapxy="true" name="Fuel Consumption Adjustment Multiplier" address="c0290" elements="1" scaling="787088_FUEL_CONSUMPTION"
 ></table
 ><table level="4" type="1D" category="Instrument Cluster - Speedometer" swapxy="true" name="Tire Size Correction [hex] (ex. 0x2054517 == 205/45R17)" address="f3e84" elements="1" scaling="999044"
+></table
+><table level="1" type="1D" category="Instrument Cluster - Speedometer" swapxy="true" name="Blend Display Format | 0 = Km/h, 1 = Mph" address="f3ea4" elements="1" scaling="999076"
 ></table
 ><table level="4" type="3D" category="Spark - Ignition Coil Dwell" swapxy="true" name="Ignition Coil Dwell | Speed Limiter Inactive" address="c36b8" elements="135" scaling="800440"
 ><table name="CTRLMOD_V_6CD4" address="c3694" elements="9" scaling="800404" type="X Axis"

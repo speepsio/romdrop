@@ -509,8 +509,6 @@
 ></scaling
 ><scaling name="999077" units="" toexpr="x" frexpr="x" format="%d" min="255.000" max="255.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
-><scaling name="999076" units="" toexpr="x" frexpr="x" format="%d" min="1.000" max="1.000" inc="1" storagetype="uint8" endian="big"
-></scaling
 ><scaling name="999078" units="" toexpr="x" frexpr="x" format="%d" min="5.000" max="5.000" inc="1" storagetype="uint8" endian="big"
 ></scaling
 ><scaling name="795860" units="" toexpr="x" frexpr="x" format="%0.0f" min="20.000" max="20.000" inc="1" storagetype="float" endian="big"
@@ -1395,6 +1393,8 @@
 ></scaling
 ><scaling name="999044" units="" toexpr="x" frexpr="x" format="%08x" min="0.000" max="0.000" inc="1" storagetype="uint32" endian="big"
 ></scaling
+><scaling name="999076" units="" toexpr="x" frexpr="x" format="%d" min="1.000" max="1.000" inc="1" storagetype="uint8" endian="big"
+></scaling
 ><scaling name="800440" units="" toexpr="x" frexpr="x" format="%0.2f" min="2.150" max="9.500" inc="0.1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="800344" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="7500.000" inc="100" storagetype="float" endian="big"
@@ -2188,8 +2188,6 @@
 ><table level="1" type="1D" category="Engine Control - Manual Blend" swapxy="true" name="Manual Blend - Activation | 0 = Disable, 1 = Enable" address="f3ea7" elements="1" scaling="999079"
 ></table
 ><table level="1" type="1D" category="Engine Control - Manual Blend" swapxy="true" name="Manual Blend - Activation Delay" address="f3ea5" elements="1" scaling="999077"
-></table
-><table level="1" type="1D" category="Engine Control - Manual Blend" swapxy="true" name="Manual Blend - Speedo Display Format | 0 = Km/h, 1 = Mph" address="f3ea4" elements="1" scaling="999076"
 ></table
 ><table level="1" type="1D" category="Engine Control - Manual Blend" swapxy="true" name="Manual Blend - Step Size" address="f3ea6" elements="1" scaling="999078"
 ></table
@@ -3074,6 +3072,8 @@
 ><table level="4" type="1D" category="Instrument Cluster - Fuel Consumption" swapxy="true" name="Fuel Consumption Adjustment Multiplier" address="c0290" elements="1" scaling="787088_FUEL_CONSUMPTION"
 ></table
 ><table level="4" type="1D" category="Instrument Cluster - Speedometer" swapxy="true" name="Tire Size Correction [hex] (ex. 0x2054517 == 205/45R17)" address="f3e84" elements="1" scaling="999044"
+></table
+><table level="1" type="1D" category="Instrument Cluster - Speedometer" swapxy="true" name="Blend Display Format | 0 = Km/h, 1 = Mph" address="f3ea4" elements="1" scaling="999076"
 ></table
 ><table level="4" type="3D" category="Spark - Ignition Coil Dwell" swapxy="true" name="Ignition Coil Dwell | Speed Limiter Inactive" address="c36b8" elements="135" scaling="800440"
 ><table name="CTRLMOD_V_6CD4" address="c3694" elements="9" scaling="800404" type="X Axis"
