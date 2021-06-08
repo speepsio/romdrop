@@ -29,6 +29,80 @@
 ><checksummodule
 >21053000</checksummodule
 ></romid
+><scaling name="757804" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="757648_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="-16.000" max="16.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="758116" units="" toexpr="x" frexpr="x" format="%0.2f" min="-95.730" max="95.730" inc="10" storagetype="float" endian="big"
+></scaling
+><scaling name="757960_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="-16.000" max="16.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="758428" units="" toexpr="x" frexpr="x" format="%0.2f" min="-95.730" max="95.730" inc="10" storagetype="float" endian="big"
+></scaling
+><scaling name="758272_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="-16.000" max="16.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="758740" units="" toexpr="x" frexpr="x" format="%0.2f" min="-95.730" max="95.730" inc="10" storagetype="float" endian="big"
+></scaling
+><scaling name="758584_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="-16.000" max="16.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="759052" units="" toexpr="x" frexpr="x" format="%0.2f" min="-95.730" max="95.730" inc="10" storagetype="float" endian="big"
+></scaling
+><scaling name="758896_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="-16.000" max="16.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="759364" units="" toexpr="x" frexpr="x" format="%0.2f" min="-95.730" max="95.730" inc="10" storagetype="float" endian="big"
+></scaling
+><scaling name="759208_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="-16.000" max="16.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="759676" units="" toexpr="x" frexpr="x" format="%0.2f" min="-95.730" max="95.730" inc="10" storagetype="float" endian="big"
+></scaling
+><scaling name="759520_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="-16.000" max="16.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="762076" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="70.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="762016_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="20.000" max="180.000" inc="10" storagetype="float" endian="big"
+></scaling
+><scaling name="762052" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="6.000" inc="0.1" storagetype="float" endian="big"
+></scaling
+><scaling name="759988" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="0.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="759832_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="-16.000" max="16.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="760300" units="" toexpr="x" frexpr="x" format="%0.2f" min="-6.000" max="0.150" inc="0.1" storagetype="float" endian="big"
+></scaling
+><scaling name="760144_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="-16.000" max="16.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="760612" units="" toexpr="x" frexpr="x" format="%0.2f" min="-6.000" max="0.150" inc="0.1" storagetype="float" endian="big"
+></scaling
+><scaling name="760456_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="-16.000" max="16.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="760924" units="" toexpr="x" frexpr="x" format="%0.2f" min="-6.000" max="0.150" inc="0.1" storagetype="float" endian="big"
+></scaling
+><scaling name="760768_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="-16.000" max="16.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="761236" units="" toexpr="x" frexpr="x" format="%0.2f" min="-6.000" max="0.150" inc="0.1" storagetype="float" endian="big"
+></scaling
+><scaling name="761080_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="-16.000" max="16.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="761548" units="" toexpr="x" frexpr="x" format="%0.2f" min="-6.000" max="0.150" inc="0.1" storagetype="float" endian="big"
+></scaling
+><scaling name="761392_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="-16.000" max="16.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="761860" units="" toexpr="x" frexpr="x" format="%0.2f" min="-6.000" max="0.150" inc="0.1" storagetype="float" endian="big"
+></scaling
+><scaling name="761704_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="-16.000" max="16.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="763540" units="" toexpr="x" frexpr="x" format="%0.2f" min="100.000" max="100.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="763480_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="600.000" inc="10" storagetype="float" endian="big"
+></scaling
+><scaling name="763516" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="6.000" inc="0.1" storagetype="float" endian="big"
+></scaling
+><scaling name="763264" units="" toexpr="x" frexpr="x" format="%0.2f" min="0.000" max="70.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="763204_SPD" units="" toexpr="x" frexpr="x" format="%0.2f" min="20.000" max="180.000" inc="10" storagetype="float" endian="big"
+></scaling
+><scaling name="763240" units="" toexpr="x" frexpr="x" format="%0.2f" min="1.000" max="6.000" inc="0.1" storagetype="float" endian="big"
+></scaling
 ><scaling name="822932" units="" toexpr="x" frexpr="x" format="%0.2f" min="16.500" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="822860" units="" toexpr="x" frexpr="x" format="%0.1f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
@@ -1663,6 +1737,80 @@
 ></scaling
 ><scaling name="850988" units="" toexpr="x" frexpr="x" format="%0.0f" min="500.000" max="6500.000" inc="100" storagetype="float" endian="big"
 ></scaling
+><table level="1" type="2D" category="DBW - Cruise Control" swapxy="true" name="CC Sensitivity - Non Gear" address="b902c" elements="39" scaling="757804"
+><table name="VSS_DELTA_525C" address="b8f90" elements="39" scaling="757648_SPD" type="Y Axis"
+></table
+></table
+><table level="1" type="2D" category="DBW - Cruise Control" swapxy="true" name="CC Sensitivity - 1st Gear" address="b9164" elements="39" scaling="758116"
+><table name="VSS_DELTA_525C" address="b90c8" elements="39" scaling="757960_SPD" type="Y Axis"
+></table
+></table
+><table level="1" type="2D" category="DBW - Cruise Control" swapxy="true" name="CC Sensitivity - 2nd Gear" address="b929c" elements="39" scaling="758428"
+><table name="VSS_DELTA_525C" address="b9200" elements="39" scaling="758272_SPD" type="Y Axis"
+></table
+></table
+><table level="1" type="2D" category="DBW - Cruise Control" swapxy="true" name="CC Sensitivity - 3rd Gear" address="b93d4" elements="39" scaling="758740"
+><table name="VSS_DELTA_525C" address="b9338" elements="39" scaling="758584_SPD" type="Y Axis"
+></table
+></table
+><table level="1" type="2D" category="DBW - Cruise Control" swapxy="true" name="CC Sensitivity - 4th Gear" address="b950c" elements="39" scaling="759052"
+><table name="VSS_DELTA_525C" address="b9470" elements="39" scaling="758896_SPD" type="Y Axis"
+></table
+></table
+><table level="1" type="2D" category="DBW - Cruise Control" swapxy="true" name="CC Sensitivity - 5th Gear" address="b9644" elements="39" scaling="759364"
+><table name="VSS_DELTA_525C" address="b95a8" elements="39" scaling="759208_SPD" type="Y Axis"
+></table
+></table
+><table level="1" type="2D" category="DBW - Cruise Control" swapxy="true" name="CC Sensitivity - 6th Gear" address="b977c" elements="39" scaling="759676"
+><table name="VSS_DELTA_525C" address="b96e0" elements="39" scaling="759520_SPD" type="Y Axis"
+></table
+></table
+><table level="1" type="3D" category="DBW - Cruise Control" swapxy="true" name="CC Target APP - Base" address="ba0dc" elements="54" scaling="762076"
+><table name="GEAR_674C" address="ba0c4" elements="6" scaling="762052" type="X Axis"
+></table
+><table name="VSS_INTERPOLATED_6740" address="ba0a0" elements="9" scaling="762016_SPD" type="Y Axis"
+></table
+></table
+><table level="1" type="2D" category="DBW - Cruise Control" swapxy="true" name="CC Correction Sensitivity - Non Gear" address="b98b4" elements="39" scaling="759988"
+><table name="VSS_DELTA_525C" address="b9818" elements="39" scaling="759832_SPD" type="Y Axis"
+></table
+></table
+><table level="1" type="2D" category="DBW - Cruise Control" swapxy="true" name="CC Correction Sensitivity - 1st Gear" address="b99ec" elements="39" scaling="760300"
+><table name="VSS_DELTA_525C" address="b9950" elements="39" scaling="760144_SPD" type="Y Axis"
+></table
+></table
+><table level="1" type="2D" category="DBW - Cruise Control" swapxy="true" name="CC Correction Sensitivity - 2nd Gear" address="b9b24" elements="39" scaling="760612"
+><table name="VSS_DELTA_525C" address="b9a88" elements="39" scaling="760456_SPD" type="Y Axis"
+></table
+></table
+><table level="1" type="2D" category="DBW - Cruise Control" swapxy="true" name="CC Correction Sensitivity - 3rd Gear" address="b9c5c" elements="39" scaling="760924"
+><table name="VSS_DELTA_525C" address="b9bc0" elements="39" scaling="760768_SPD" type="Y Axis"
+></table
+></table
+><table level="1" type="2D" category="DBW - Cruise Control" swapxy="true" name="CC Correction Sensitivity - 4th Gear" address="b9d94" elements="39" scaling="761236"
+><table name="VSS_DELTA_525C" address="b9cf8" elements="39" scaling="761080_SPD" type="Y Axis"
+></table
+></table
+><table level="1" type="2D" category="DBW - Cruise Control" swapxy="true" name="CC Correction Sensitivity - 5th Gear" address="b9ecc" elements="39" scaling="761548"
+><table name="VSS_DELTA_525C" address="b9e30" elements="39" scaling="761392_SPD" type="Y Axis"
+></table
+></table
+><table level="1" type="2D" category="DBW - Cruise Control" swapxy="true" name="CC Correction Sensitivity - 6th Gear" address="ba004" elements="39" scaling="761860"
+><table name="VSS_DELTA_525C" address="b9f68" elements="39" scaling="761704_SPD" type="Y Axis"
+></table
+></table
+><table level="1" type="3D" category="DBW - Cruise Control" swapxy="true" name="CC Correction Sensitivity - Multiplier to Percentage" address="ba694" elements="54" scaling="763540"
+><table name="GEAR_674C" address="ba67c" elements="6" scaling="763516" type="X Axis"
+></table
+><table name="VSS_INTERPOLATED_6740" address="ba658" elements="9" scaling="763480_SPD" type="Y Axis"
+></table
+></table
+><table level="1" type="3D" category="DBW - Cruise Control" swapxy="true" name="CC Correction - Base" address="ba580" elements="54" scaling="763264"
+><table name="GEAR_674C" address="ba568" elements="6" scaling="763240" type="X Axis"
+></table
+><table name="VSS_INTERPOLATED_6740" address="ba544" elements="9" scaling="763204_SPD" type="Y Axis"
+></table
+></table
 ><table level="4" type="2D" category="DBW - Throttle Position" swapxy="true" name="APP to TP Desired - Max" address="c8e94" elements="18" scaling="822932"
 ><table name="APP_6D1C" address="c8e4c" elements="18" scaling="822860" type="Y Axis"
 ></table
