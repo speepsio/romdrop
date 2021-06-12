@@ -179,7 +179,7 @@
 	<scaling name="812496" toexpr="x" frexpr="x" format="%0.0f" min="28" max="33" inc="0.1" storagetype="float" endian="big"/>
 	<scaling name="812776" toexpr="x" frexpr="x" format="%0.0f" min="500" max="7000" inc="100" storagetype="float" endian="big"/>
 	<scaling name="812832" toexpr="x" frexpr="x" format="%0.3f" min="0.5" max="1" inc="0.01" storagetype="float" endian="big"/>
-	<scaling name="812852" toexpr="x" frexpr="x" format="%0.0f" inc="1" storagetype="float" endian="big"/>
+	<scaling name="812852" toexpr="x" frexpr="x" format="%0.0f" min="-2.14748e+09" max="2.14748e+09" inc="1" storagetype="float" endian="big"/>
 	<scaling name="813132" toexpr="x" frexpr="x" format="%0.0f" min="500" max="7000" inc="100" storagetype="float" endian="big"/>
 	<scaling name="813188" toexpr="x" frexpr="x" format="%0.3f" min="0.5" max="1" inc="0.01" storagetype="float" endian="big"/>
 	<scaling name="813208" toexpr="x" frexpr="x" format="%0.0f" inc="1" storagetype="float" endian="big"/>
@@ -999,17 +999,17 @@
 		<table name="RPM_6DD8" address="c28ec" type="Y Axis" elements="14" scaling="808672"/>
 	</table>
 
-	<table name="KS - Max" category="Engine Sensor - KS" address="c2cb4" type="3D" level="1" swapxy="true" elements="70" scaling="811428">
+	<table name="KS Safe Base - Max" category="Engine Sensor - KS" address="c2cb4" type="3D" level="1" swapxy="true" elements="70" scaling="811428">
 		<table name="LOAD_6F44" address="c2ca0" type="X Axis" elements="5" scaling="811408"/>
 		<table name="RPM_6DD8" address="c2c68" type="Y Axis" elements="14" scaling="811352"/>
 	</table>
 
-	<table name="KS - Min" category="Engine Sensor - KS" address="c2e18" type="3D" level="1" swapxy="true" elements="70" scaling="812852">
+	<table name="KS Safe Base - Min" category="Engine Sensor - KS" address="c2e18" type="3D" level="1" swapxy="true" elements="70" scaling="812852">
 		<table name="LOAD_6F44" address="c2e04" type="X Axis" elements="5" scaling="812832"/>
 		<table name="RPM_6DD8" address="c2dcc" type="Y Axis" elements="14" scaling="812776"/>
 	</table>
 
-	<table name="KS - Offset" category="Engine Sensor - KS" address="c2f7c" type="3D" level="1" swapxy="true" elements="70" scaling="814276">
+	<table name="KS Safe Base - Attenuation Threshold" category="Engine Sensor - KS" address="c2f7c" type="3D" level="1" swapxy="true" elements="70" scaling="814276">
 		<table name="LOAD_6F44" address="c2f68" type="X Axis" elements="5" scaling="814256"/>
 		<table name="RPM_6DD8" address="c2f30" type="Y Axis" elements="14" scaling="814200"/>
 	</table>

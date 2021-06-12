@@ -2525,39 +2525,39 @@
 ><table name="RPM_6DD8" address="bd834" elements="14" scaling="776244" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Determination Magnitude - Min | Cylinder 1" address="bc74c" elements="14" scaling="771916"
+><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Descrimination - Min | Cylinder 1" address="bc74c" elements="14" scaling="771916"
 ><table name="RPM_6DD8" address="bc714" elements="14" scaling="771860" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Magnitude - Min | Cylinder 2" address="bc7bc" elements="14" scaling="772028"
+><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Descrimination - Min | Cylinder 2" address="bc7bc" elements="14" scaling="772028"
 ><table name="RPM_6DD8" address="bc784" elements="14" scaling="771972" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Magnitude - Min | Cylinder 3" address="bc82c" elements="14" scaling="772140"
+><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Descrimination - Min | Cylinder 3" address="bc82c" elements="14" scaling="772140"
 ><table name="RPM_6DD8" address="bc7f4" elements="14" scaling="772084" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Magnitude - Min | Cylinder 4" address="bc89c" elements="14" scaling="772252"
+><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Descrimination - Min | Cylinder 4" address="bc89c" elements="14" scaling="772252"
 ><table name="RPM_6DD8" address="bc864" elements="14" scaling="772196" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Magnitude - Max | Cylinder 1" address="bc58c" elements="14" scaling="771468"
+><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Descrimination - Max | Cylinder 1" address="bc58c" elements="14" scaling="771468"
 ><table name="RPM_6DD8" address="bc554" elements="14" scaling="771412" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Magnitude - Max | Cylinder 2" address="bc5fc" elements="14" scaling="771580"
+><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Descrimination - Max | Cylinder 2" address="bc5fc" elements="14" scaling="771580"
 ><table name="RPM_6DD8" address="bc5c4" elements="14" scaling="771524" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Magnitude - Max | Cylinder 3" address="bc66c" elements="14" scaling="771692"
+><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Descrimination - Max | Cylinder 3" address="bc66c" elements="14" scaling="771692"
 ><table name="RPM_6DD8" address="bc634" elements="14" scaling="771636" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Magnitude - Max | Cylinder 4" address="bc6dc" elements="14" scaling="771804"
+><table level="1" type="2D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Descrimination - Max | Cylinder 4" address="bc6dc" elements="14" scaling="771804"
 ><table name="RPM_6DD8" address="bc6a4" elements="14" scaling="771748" type="Y Axis"
 ></table
 ></table
-><table level="1" type="1D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Magnitude Exceeded Count for Valid Knock Event" address="bbca7" elements="1" scaling="769191"
+><table level="1" type="1D" category="Engine Sensor - KS " swapxy="true" name="KS Safe Descrimination Exceeded Count for Valid Knock Event" address="bbca7" elements="1" scaling="769191"
 ></table
 ><table level="4" type="2D" category="Engine Sensor - MAF" swapxy="true" name="MAF Scaling | Fault" address="c97e0" elements="8" scaling="825312"
 ><table name="ECT_6D44" address="c97c0" elements="8" scaling="825280_DEG" type="Y Axis"
