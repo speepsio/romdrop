@@ -19,6 +19,7 @@ Minimalist Flash Toolkit for the 2006-2015 Mazda MX-5 (NC).
 * romdrop.exe - application executable
 * romdrop.crc - checksum data for stock calibrations and patches 
 * colormaps (folder) - preferred ecuflash color map files
+* logcgfs (folder) - logging configurations for the tactrix
 * metadata (folder) - all ecuflash definitions that are currently available
 * patches (folder) - available patch files for ROMs currently defined
 
