@@ -1,0 +1,713 @@
+; -----[ channel setup   ]-----
+
+type = obd
+protocolid = 6 ; ISO15765
+calcsampinterval = 7500
+calcconstdelay = 0
+mode23txaddrwidth = 4
+mode23txlenwidth = 2
+mode23rxaddrwidth = 0
+; sortpids = 1
+
+
+
+
+; -----[ USAGE ]-----
+
+; * copy desired parameters to IN USE section from MODE 01 and MODE 22 sections below
+; * make sure to remove preceeding semicolon (and space) to enable for usage
+
+
+
+
+; -----[ IN USE ]-----
+
+paramname = APP
+mode = 0x22
+paramid = 0x1340
+databits = 8
+scalingrpn = x,0.39215684,*
+
+paramname = ECT
+mode = 0x01
+paramid = 0x05
+databits = 8
+scalingrpn = x,40,-
+
+paramname = FUELSYS
+mode = 0x01
+paramid = 0x03
+databits = 16
+scalingrpn = x,0.00390625,*
+
+paramname = IAT
+mode = 0x01
+paramid = 0x0F
+databits = 8
+scalingrpn = x,40,-
+
+paramname = LOAD
+mode = 0x01
+paramid = 0x43
+databits = 16
+scalingrpn = x,0.0039215684,*
+
+paramname = FT_LONG
+mode = 0x01
+paramid = 0x07
+databits = 8
+scalingrpn = x,0.78125,*,100,-
+
+paramname = FT_SHORT
+mode = 0x01
+paramid = 0x06
+databits = 8
+scalingrpn = x,0.78125,*,100,-
+
+paramname = KNOCKR
+mode = 0x22
+paramid = 0x1746
+databits = 8
+scalingrpn = x,0.3521126761,*
+
+paramname = LAMBDA_ACT
+mode = 0x01
+paramid = 0x34
+databits = 32
+scalingrpn = x,0.00001525878906,*,0.000030517578,*
+
+paramname = MAF
+mode = 0x01
+paramid = 0x10
+databits = 16
+scalingrpn = x,0.0099999998,*
+
+paramname = RPM
+mode = 0x01
+paramid = 0x0C
+databits = 16
+scalingrpn = x,0.25,*
+
+paramname = SPARKADV
+mode = 0x01
+paramid = 0x0E
+databits = 8
+scalingrpn = x,0.5,*,64,-
+
+paramname = VCT_ACT
+mode = 0x22
+paramid = 0x16CD
+databits = 16
+scalingrpn = x,0.0625,*
+
+
+
+
+; -----[ MODE 0x01 PARAMETERS ]-----
+
+; paramname = AAT
+; mode = 0x01
+; paramid = 0x46
+; databits = 8
+; scalingrpn = x,40,-
+
+; paramname = APP1_V
+; mode = 0x01
+; paramid = 0x49
+; databits = 8
+; scalingrpn = x,0.39215684,*
+
+; paramname = APP2_V
+; mode = 0x01
+; paramid = 0x4A
+; databits = 8
+; scalingrpn = x,0.39215684,*
+
+; paramname = BARO
+; mode = 0x01
+; paramid = 0x33
+; databits = 8
+
+; paramname = CAT_DSD
+; mode = 0x01
+; paramid = 0x3C
+; databits = 16
+; scalingrpn = x,0.099999994,*,40,+
+
+; paramname = ECT
+; mode = 0x01
+; paramid = 0x05
+; databits = 8
+; scalingrpn = x,40,-
+
+; paramname = EGRP_DSD
+; mode = 0x01
+; paramid = 0x2C
+; databits = 8
+
+; paramname = ETC_DSD
+; mode = 0x01
+; paramid = 0x4C
+; databits = 8
+; scalingrpn = x,0.39215684,*
+
+; paramname = EVAPCP
+; mode = 0x01
+; paramid = 0x2E
+; databits = 8
+; scalingrpn = x,0.39215684,*
+
+; paramname = FLI
+; mode = 0x01
+; paramid = 0x2F
+; databits = 8
+; scalingrpn = x,0.39215684,*
+
+; paramname = FUELSYS
+; mode = 0x01
+; paramid = 0x03
+; databits = 16
+; scalingrpn = x,0.00390625,*
+
+; paramname = IAT
+; mode = 0x01
+; paramid = 0x0F
+; databits = 8
+; scalingrpn = x,40,-
+
+; paramname = LAMBDA_ACT
+; mode = 0x01
+; paramid = 0x34
+; databits = 32
+; scalingrpn = x,0.00001525878906,*,0.000030517578,*
+
+; paramname = LAMBDA_DSD
+; mode = 0x01
+; paramid = 0x44
+; databits = 16
+; scalingrpn = x,0.000030517578,*
+
+; paramname = LOAD
+; mode = 0x01
+; paramid = 0x43
+; databits = 16
+; scalingrpn = x,0.0039215684,*
+
+; paramname = LOAD_CALC
+; mode = 0x01
+; paramid = 0x04
+; databits = 8
+; scalingrpn = x,0.39215684,*
+
+; paramname = FT_LONG
+; mode = 0x01
+; paramid = 0x07
+; databits = 8
+; scalingrpn = x,0.78125,*,100,-
+
+; paramname = FT_SHORT
+; mode = 0x01
+; paramid = 0x06
+; databits = 8
+; scalingrpn = x,0.78125,*,100,-
+
+; paramname = MAF
+; mode = 0x01
+; paramid = 0x10
+; databits = 16
+; scalingrpn = x,0.0099999998,*
+
+; paramname = MAP
+; mode = 0x01
+; paramid = 0x0B
+; databits = 8
+
+; paramname = O2S12_V
+; mode = 0x01
+; paramid = 0x15
+; databits = 16
+; scalingrpn = x,0.0039215684,*,0.0049999999,*
+
+; paramname = RPM
+; mode = 0x01
+; paramid = 0x0C
+; databits = 16
+; scalingrpn = x,0.25,*
+
+; paramname = SPARKADV
+; mode = 0x01
+; paramid = 0x0E
+; databits = 8
+; scalingrpn = x,0.5,*,64,-
+
+; paramname = TP_REL
+; mode = 0x01
+; paramid = 0x45
+; databits = 8
+; scalingrpn = x,0.39215684,*
+
+; paramname = TP1
+; mode = 0x01
+; paramid = 0x11
+; databits = 8
+; scalingrpn = x,0.39215684,*
+
+; paramname = TP2
+; mode = 0x01
+; paramid = 0x47
+; databits = 8
+; scalingrpn = x,0.39215684,*
+
+; paramname = VPWR
+; mode = 0x01
+; paramid = 0x42
+; databits = 16
+; scalingrpn = x,0.00099999993,*
+
+; paramname = VSS
+; mode = 0x01
+; paramid = 0x0D
+; databits = 8
+
+; paramname = VCT_ACT
+; mode = 0x22
+; paramid = 0x16CD
+; databits = 16
+; scalingrpn = x,0.0625,*
+
+
+
+
+; -----[ MODE 0x22 PARAMETERS ]-----
+
+; paramname = AC_REQ_SW
+; mode = 0x22
+; paramid = 0x1104
+; databits = 1
+; offsetbits = 0
+
+; paramname = ACCS_SW
+; mode = 0x22
+; paramid = 0x1101
+; databits = 1
+; offsetbits = 0
+
+; paramname = APP
+; mode = 0x22
+; paramid = 0x1340
+; databits = 8
+; scalingrpn = x,0.39215684,*
+
+; paramname = APP1_V
+; mode = 0x22
+; paramid = 0x914
+; databits = 16
+; scalingrpn = x,0.0009765625,*
+
+; paramname = APP2_V
+; mode = 0x22
+; paramid = 0x915
+; databits = 16
+; scalingrpn = x,0.0009765625,*
+
+; paramname = BARO_V
+; mode = 0x22
+; paramid = 0x16B3
+; databits = 16
+; scalingrpn = x,0.000076293945,*
+
+; paramname = BOO_SW
+; mode = 0x22
+; paramid = 0x1101
+; databits = 1
+; offsetbits = 1
+
+; paramname = BPA_SW
+; mode = 0x22
+; paramid = 0xA211
+; databits = 1
+; offsetbits = 1
+
+; paramname = CPP_SW
+; mode = 0x22
+; paramid = 0xA211
+; databits = 1
+; offsetbits = 0
+
+; paramname = DTC_CNT
+; mode = 0x22
+; paramid = 0x200
+; databits = 8
+
+; paramname = DTC_CNTD
+; mode = 0x22
+; paramid = 0x202
+; databits = 8
+
+; paramname = ECT_V
+; mode = 0x22
+; paramid = 0x114D
+; databits = 16
+; scalingrpn = x,0.000076293945,*
+
+; paramname = EGRP_STEPS
+; mode = 0x22
+; paramid = 0x98E
+; databits = 16
+
+; paramname = ENGINE_STATUS
+; mode = 0x22
+; paramid = 0xC124
+; databits = 8
+
+; paramname = LAMBDA_DSD_TRIM
+; mode = 0x22
+; paramid = 0x163E
+; databits = 16
+; scalingrpn = x,0.012207031,*
+
+; paramname = ETC_ACT_DEG
+; mode = 0x22
+; paramid = 0x93C
+; databits = 16
+; scalingrpn = x,0.001953125,*
+
+; paramname = ETC_DSD_DEG
+; mode = 0x22
+; paramid = 0x91A
+; databits = 16
+; scalingrpn = x,0.001953125,*
+
+; paramname = FAN1_SW
+; mode = 0x22
+; paramid = 0x1103
+; databits = 1
+; offsetbits = 2
+
+; paramname = FAN2_SW
+; mode = 0x22
+; paramid = 0x1103
+; databits = 1
+; offsetbits = 3
+
+; paramname = FAN3_SW
+; mode = 0x22
+; paramid = 0x967
+; databits = 1
+; offsetbits = 2
+
+; paramname = FP_RELAY_SW
+; mode = 0x22
+; paramid = 0x1718
+; databits = 1
+; offsetbits = 0
+
+; paramname = FUEL_PW
+; mode = 0x22
+; paramid = 0x1410
+; databits = 16
+; scalingrpn = x,0.0079999994,*
+
+; paramname = GEN_CHRGLP
+; mode = 0x22
+; paramid = 0x968
+; databits = 1
+; offsetbits = 0
+
+; paramname = GEN_DSD_V
+; mode = 0x22
+; paramid = 0x97C
+; databits = 16
+; scalingrpn = x,0.00048828125,*
+
+; paramname = GEN_FC
+; mode = 0x22
+; paramid = 0x16E8
+; databits = 16
+; scalingrpn = x,0.0030517578,*
+
+; paramname = GEN_V
+; mode = 0x22
+; paramid = 0x16E9
+; databits = 16
+; scalingrpn = x,0.125,*
+
+; paramname = HIDET_SW
+; mode = 0x22
+; paramid = 0x1706
+; databits = 1
+; offsetbits = 0
+
+; paramname = IAT_V
+; mode = 0x22
+; paramid = 0x114A
+; databits = 16
+; scalingrpn = x,0.000076293945,*
+
+; paramname = IDLE
+; mode = 0x22
+; paramid = 0x96E
+; databits = 16
+; scalingrpn = x,0.25,*
+
+; paramname = IMRC_SW
+; mode = 0x22
+; paramid = 0x1103
+; databits = 1
+; offsetbits = 4
+
+; paramname = IMTV_SW
+; mode = 0x22
+; paramid = 0x160D
+; databits = 1
+; offsetbits = 1
+
+; paramname = INGEAR_SW
+; mode = 0x22
+; paramid = 0x1101
+; databits = 1
+; offsetbits = 3
+
+; paramname = IVS_SW
+; mode = 0x22
+; paramid = 0xA211
+; databits = 1
+; offsetbits = 4
+
+; paramname = KNOCKR
+; mode = 0x22
+; paramid = 0x1746
+; databits = 8
+; scalingrpn = x,0.3521126761,*
+
+; paramname = LAMBDA_MOD_SW
+; mode = 0x22
+; paramid = 0x1706
+; databits = 1
+; offsetbits = 6
+
+; paramname = LDP_EVAPCP
+; mode = 0x22
+; paramid = 0x17FA
+; databits = 16
+; scalingrpn = x,0.00000056098486,*
+
+; paramname = LDP_IDL_current
+; mode = 0x22
+; paramid = 0x17F7
+; databits = 16
+; scalingrpn = x,0.00000056098486,*
+
+; paramname = LDP_MON_current
+; mode = 0x22
+; paramid = 0x17F4
+; databits = 16
+; scalingrpn = x,0.00000056098486,*
+
+; paramname = LDP_REF_current
+; mode = 0x22
+; paramid = 0x17F5
+; databits = 16
+; scalingrpn = x,0.00000056098486,*
+
+; paramname = LDP_SL_DV
+; mode = 0x22
+; paramid = 0x17F8
+; databits = 16
+; scalingrpn = x,0.00000056098486,*
+
+; paramname = LDP_VSL_DV
+; mode = 0x22
+; paramid = 0x176B
+; databits = 16
+; scalingrpn = x,0.0000053405761,*
+
+; paramname = LDP_VSL_FV
+; mode = 0x22
+; paramid = 0x17F9
+; databits = 16
+; scalingrpn = x,0.0000053405761,*
+
+; paramname = LDP_VSL_SV
+; mode = 0x22
+; paramid = 0x179A
+; databits = 16
+; scalingrpn = x,0.0000053405761,*
+
+; paramname = MAF_V
+; mode = 0x22
+; paramid = 0x1177
+; databits = 16
+; scalingrpn = x,0.000244140625,*
+
+; paramname = MAP_V
+; mode = 0x22
+; paramid = 0x900
+; databits = 16
+; scalingrpn = x,0.0009765625,*
+
+; paramname = MIL_SW
+; mode = 0x22
+; paramid = 0x1103
+; databits = 1
+; offsetbits = 5
+
+; paramname = O2S_HTR11_SW
+; mode = 0x22
+; paramid = 0x1631
+; databits = 1
+; offsetbits = 0
+
+; paramname = O2S_HTR12_SW
+; mode = 0x22
+; paramid = 0x1631
+; databits = 1
+; offsetbits = 1
+
+; paramname = O2S12_A_V
+; mode = 0x22
+; paramid = 0x1174
+; databits = 16
+; scalingrpn = x,0.0009765625,*
+
+; paramname = PNP_SW
+; mode = 0x22
+; paramid = 0xA211
+; databits = 1
+; offsetbits = 2
+
+; paramname = PSP_SW
+; mode = 0x22
+; paramid = 0x1101
+; databits = 1
+; offsetbits = 7
+
+; paramname = SCCS_V
+; mode = 0x22
+; paramid = 0xA216
+; databits = 16
+; scalingrpn = x,0.000076293945,*
+
+; paramname = TIRESIZE
+; mode = 0x22
+; paramid = 0x16F0
+; databits = 16
+
+; paramname = TP1_V
+; mode = 0x22
+; paramid = 0x917
+; databits = 16
+; scalingrpn = x,0.0009765625,*
+
+; paramname = TP2_V
+; mode = 0x22
+; paramid = 0x918
+; databits = 16
+; scalingrpn = x,0.0009765625,*
+
+; paramname = TP_CLOSED_POS
+; mode = 0x22
+; paramid = 0x1169
+; databits = 16
+; scalingrpn = x,0.1025390625,*
+
+; paramname = VCT_ACT
+; mode = 0x22
+; paramid = 0x16CD
+; databits = 16
+; scalingrpn = x,0.0625,*
+
+; paramname = VCT_DIFF
+; mode = 0x22
+; paramid = 0x16CE
+; databits = 16
+; scalingrpn = x,0.0625,*
+
+; paramname = VCT_DUTY
+; mode = 0x22
+; paramid = 0x16CF
+; databits = 16
+; scalingrpn = x,0.0030517578,*
+
+
+
+
+; -----[ MODE 0x23 COMMON PARAMETERS ]-----
+
+; paramname = FLEX_ETH_CONTENT
+; mode = 0x23
+; paramid = 0xFFFFAC08
+; databits = 8
+
+; paramname = FLEX_FUEL_TEMP
+; mode = 0x23
+; paramid = 0xFFFFAC09
+; databits = 8
+
+; paramname = FLEX_TIMEOUT
+; mode = 0x23
+; paramid = 0xFFFFAC0A
+; databits = 8
+
+; paramname = FLEX_ERR_STATUS
+; mode = 0x23
+; paramid = 0xFFFFAC0B
+; databits = 8
+
+; paramname = FS_STATUS
+; mode = 0x23
+; paramid = 0xFFFFAC20
+; databits = 8
+
+; paramname = LC_STATUS
+; mode = 0x23
+; paramid = 0xFFFFAC21
+; databits = 8
+
+; paramname = VOLEFF
+; mode = 0x23
+; paramid = 0xFFFFAC18
+; isfloat = 1
+
+; paramname = VOLFLOW
+; mode = 0x23
+; paramid = 0xFFFFAC1C
+; isfloat = 1
+
+
+
+
+; ----- [ MODE 0x23 BLANK ]-----
+
+; paramname = 
+; mode = 0x23
+; paramid = 0xFFFF
+; isfloat = 1
+; databits = 
+; offsetbits = 
+
+
+
+
+; -----[ CALCULATED ]-----
+
+; type = calc
+
+; paramname = FT_COMBO
+; scalingrpn = FT_SHORT,FT_LONG,+
+
+
+
+
+; -----[ TRIGGERS ]-----
+
+; CRUISE CONTROL ACTIVATION
+; * must add SCCS_V to IN USE section above before trigger can be used
+
+; conditionrpn = SCCS_V,4.0,>,SCCS_V,4.25,<,&&
+; action = start
+
+; conditionrpn = SCCS_V,3.0,>,SCCS_V,3.25,<,&&
+; action = stop
+
+
