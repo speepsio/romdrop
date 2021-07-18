@@ -203,6 +203,12 @@
 ></scaling
 ><scaling name="1000664" units="" toexpr="x" frexpr="x" format="%0.2f" min="90.000" max="90.000" inc="1" storagetype="float" endian="big"
 ></scaling
+><scaling name="765400" units="" toexpr="x" frexpr="x" format="%0.2f" min="10.500" max="10.500" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="765404" units="" toexpr="x" frexpr="x" format="%0.2f" min="16.000" max="16.000" inc="1" storagetype="float" endian="big"
+></scaling
+><scaling name="765408" units="" toexpr="x" frexpr="x" format="%0.2f" min="5.000" max="5.000" inc="1" storagetype="float" endian="big"
+></scaling
 ><scaling name="809376" units="" toexpr="x" frexpr="x" format="%0.2f" min="16.500" max="100.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="809340" units="" toexpr="x" frexpr="x" format="%0.1f" min="0.000" max="100.000" inc="1" storagetype="float" endian="big"
@@ -493,43 +499,43 @@
 ></scaling
 ><scaling name="901900" units="" toexpr="x" frexpr="x" format="%0.0f" min="0.000" max="71.190" inc="1" storagetype="float" endian="big"
 ></scaling
+><scaling name="783960_SPD" units="" toexpr="x" frexpr="x" format="%0.0f" min="85.000" max="85.000" inc="1" storagetype="float" endian="big"
+></scaling
 ><scaling name="783952_SPD" units="" toexpr="x" frexpr="x" format="%0.0f" min="45.000" max="45.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="783944_SPD" units="" toexpr="x" frexpr="x" format="%0.0f" min="999.000" max="999.000" inc="1" storagetype="float" endian="big"
+><scaling name="783912_FAN_ECT" units="" toexpr="(180-(1.42*x)+(0.00765*x^2)-(0.0000163*x^3))" frexpr="(1005-(18.6*x) + (0.125*x^2) - (0.0002978*x^3))+0.5" format="%d" min="96.000" max="96.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
-><scaling name="783912" units="" toexpr="x" frexpr="x" format="%d" min="96.000" max="96.000" inc="1" storagetype="uint16" endian="big"
+><scaling name="783914_FAN_ECT" units="" toexpr="(180-(1.42*x)+(0.00765*x^2)-(0.0000163*x^3))" frexpr="(1005-(18.6*x) + (0.125*x^2) - (0.0002978*x^3))+0.5" format="%d" min="103.000" max="103.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
-><scaling name="783914" units="" toexpr="x" frexpr="x" format="%d" min="103.000" max="103.000" inc="1" storagetype="uint16" endian="big"
+><scaling name="783916_FAN_ECT" units="" toexpr="(180-(1.42*x)+(0.00765*x^2)-(0.0000163*x^3))" frexpr="(1005-(18.6*x) + (0.125*x^2) - (0.0002978*x^3))+0.5" format="%d" min="77.000" max="77.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
-><scaling name="783916" units="" toexpr="x" frexpr="x" format="%d" min="77.000" max="77.000" inc="1" storagetype="uint16" endian="big"
-></scaling
-><scaling name="783918" units="" toexpr="x" frexpr="x" format="%d" min="84.000" max="84.000" inc="1" storagetype="uint16" endian="big"
+><scaling name="783918_FAN_ECT" units="" toexpr="(180-(1.42*x)+(0.00765*x^2)-(0.0000163*x^3))" frexpr="(1005-(18.6*x) + (0.125*x^2) - (0.0002978*x^3))+0.5" format="%d" min="84.000" max="84.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
 ><scaling name="784464" units="" toexpr="x" frexpr="x" format="%0.0f" min="115.000" max="115.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="784432" units="" toexpr="x" frexpr="x" format="%0.2f" min="53.930" max="109.340" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="784128" units="" toexpr="x" frexpr="x" format="%d" min="186.000" max="186.000" inc="1" storagetype="uint16" endian="big"
+><scaling name="784128_FAN_ECT" units="" toexpr="(180-(1.42*x)+(0.00765*x^2)-(0.0000163*x^3))" frexpr="(1005-(18.6*x) + (0.125*x^2) - (0.0002978*x^3))+0.5" format="%d" min="186.000" max="186.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
 ><scaling name="784096" units="" toexpr="x" frexpr="x" format="%0.2f" min="53.930" max="109.340" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="784080" units="" toexpr="x" frexpr="x" format="%d" min="162.000" max="162.000" inc="1" storagetype="uint16" endian="big"
+><scaling name="784080_FAN_ECT" units="" toexpr="(180-(1.42*x)+(0.00765*x^2)-(0.0000163*x^3))" frexpr="(1005-(18.6*x) + (0.125*x^2) - (0.0002978*x^3))+0.5" format="%d" min="162.000" max="162.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
 ><scaling name="784048" units="" toexpr="x" frexpr="x" format="%0.2f" min="53.930" max="109.340" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="784224" units="" toexpr="x" frexpr="x" format="%d" min="96.000" max="96.000" inc="1" storagetype="uint16" endian="big"
+><scaling name="784224_FAN_ECT" units="" toexpr="(180-(1.42*x)+(0.00765*x^2)-(0.0000163*x^3))" frexpr="(1005-(18.6*x) + (0.125*x^2) - (0.0002978*x^3))+0.5" format="%d" min="96.000" max="96.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
 ><scaling name="784192" units="" toexpr="x" frexpr="x" format="%0.2f" min="53.930" max="109.340" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="784176" units="" toexpr="x" frexpr="x" format="%d" min="84.000" max="84.000" inc="1" storagetype="uint16" endian="big"
+><scaling name="784176_FAN_ECT" units="" toexpr="(180-(1.42*x)+(0.00765*x^2)-(0.0000163*x^3))" frexpr="(1005-(18.6*x) + (0.125*x^2) - (0.0002978*x^3))+0.5" format="%d" min="84.000" max="84.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
 ><scaling name="784144" units="" toexpr="x" frexpr="x" format="%0.2f" min="53.930" max="109.340" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="784320" units="" toexpr="x" frexpr="x" format="%d" min="45.000" max="45.000" inc="1" storagetype="uint16" endian="big"
+><scaling name="784320_FAN_ECT" units="" toexpr="(180-(1.42*x)+(0.00765*x^2)-(0.0000163*x^3))" frexpr="(1005-(18.6*x) + (0.125*x^2) - (0.0002978*x^3))+0.5" format="%d" min="45.000" max="45.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
 ><scaling name="784288" units="" toexpr="x" frexpr="x" format="%0.2f" min="53.930" max="109.340" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="784272" units="" toexpr="x" frexpr="x" format="%d" min="35.000" max="35.000" inc="1" storagetype="uint16" endian="big"
+><scaling name="784272_FAN_ECT" units="" toexpr="(180-(1.42*x)+(0.00765*x^2)-(0.0000163*x^3))" frexpr="(1005-(18.6*x) + (0.125*x^2) - (0.0002978*x^3))+0.5" format="%d" min="35.000" max="35.000" inc="1" storagetype="uint16" endian="big"
 ></scaling
 ><scaling name="784240" units="" toexpr="x" frexpr="x" format="%0.2f" min="53.930" max="109.340" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -647,7 +653,7 @@
 ></scaling
 ><scaling name="805324" units="" toexpr="x" frexpr="x" format="%0.0f" min="300.000" max="300.000" inc="1" storagetype="float" endian="big"
 ></scaling
-><scaling name="805156_SPD" units="" toexpr="x" frexpr="x" format="%0.0f" min="5.640" max="5.640" inc="1" storagetype="float" endian="big"
+><scaling name="805172_SPD" units="" toexpr="x" frexpr="x" format="%0.0f" min="250.000" max="250.000" inc="1" storagetype="float" endian="big"
 ></scaling
 ><scaling name="805164" units="" toexpr="x" frexpr="x" format="%0.0f" min="4000.000" max="4000.000" inc="1" storagetype="float" endian="big"
 ></scaling
@@ -1937,6 +1943,12 @@
 ></table
 ><table level="4" type="1D" category="DBW - Throttle Delta (Data Integrity)" swapxy="true" name="TP Delta - Fault Threshold | Cruise Control" address="f44d8" elements="1" scaling="1000664"
 ></table
+><table level="1" type="1D" category="DBW - Throttle Position Closed Limits" swapxy="true" name="TP Closed - Default" address="badd8" elements="1" scaling="765400"
+></table
+><table level="1" type="1D" category="DBW - Throttle Position Closed Limits" swapxy="true" name="TP Closed - Max" address="baddc" elements="1" scaling="765404"
+></table
+><table level="1" type="1D" category="DBW - Throttle Position Closed Limits" swapxy="true" name="TP Closed - Min" address="bade0" elements="1" scaling="765408"
+></table
 ><table level="4" type="2D" category="DBW - Throttle Position Commanded Limits" swapxy="true" name="TP Commanded Limit - Max" address="c59a0" elements="9" scaling="809376"
 ><table name="APP_A6B0" address="c597c" elements="9" scaling="809340" type="Y Axis"
 ></table
@@ -2227,43 +2239,43 @@
 ><table name="FFFF_6C44" address="dc2d0" elements="15" scaling="901840" type="Y Axis"
 ></table
 ></table
-><table level="1" type="1D" category="Engine Control - Fan" swapxy="true" name="Low Speed Disable - VSS Threshold" address="bf650" elements="1" scaling="783952_SPD"
+><table level="1" type="1D" category="Engine Control - Fan" swapxy="true" name="Low Speed Disable - VSS Threshold" address="bf658" elements="1" scaling="783960_SPD"
 ></table
-><table level="1" type="1D" category="Engine Control - Fan" swapxy="true" name="Med Speed Disable - VSS Threshold" address="bf648" elements="1" scaling="783944_SPD"
+><table level="1" type="1D" category="Engine Control - Fan" swapxy="true" name="Med Speed Disable - VSS Threshold" address="bf650" elements="1" scaling="783952_SPD"
 ></table
-><table level="1" type="1D" category="Engine Control - Fan" swapxy="true" name="Med Speed Enable - ECT Threshold | AC Off" address="bf628" elements="1" scaling="783912"
+><table level="1" type="1D" category="Engine Control - Fan" swapxy="true" name="Med Speed Enable - ECT Threshold | AC Off" address="bf628" elements="1" scaling="783912_FAN_ECT"
 ></table
-><table level="1" type="1D" category="Engine Control - Fan" swapxy="true" name="Med Speed Disable - ECT Threshold | AC Off" address="bf62a" elements="1" scaling="783914"
+><table level="1" type="1D" category="Engine Control - Fan" swapxy="true" name="Med Speed Disable - ECT Threshold | AC Off" address="bf62a" elements="1" scaling="783914_FAN_ECT"
 ></table
-><table level="1" type="1D" category="Engine Control - Fan" swapxy="true" name="High Speed Enable - ECT Threshold | AC Off" address="bf62c" elements="1" scaling="783916"
+><table level="1" type="1D" category="Engine Control - Fan" swapxy="true" name="High Speed Enable - ECT Threshold | AC Off" address="bf62c" elements="1" scaling="783916_FAN_ECT"
 ></table
-><table level="1" type="1D" category="Engine Control - Fan" swapxy="true" name="High Speed Disable - ECT Threshold | AC Off" address="bf62e" elements="1" scaling="783918"
+><table level="1" type="1D" category="Engine Control - Fan" swapxy="true" name="High Speed Disable - ECT Threshold | AC Off" address="bf62e" elements="1" scaling="783918_FAN_ECT"
 ></table
 ><table level="1" type="2D" category="Engine Control - Fan (After Cooling)" swapxy="true" name="After Cooling Activation - ECT Threshold" address="bf850" elements="8" scaling="784464"
 ><table name="BARO_6DE8" address="bf830" elements="8" scaling="784432" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="Engine Control - Fan (After Cooling)" swapxy="true" name="Low Speed Fan Disable - ECT Threshold" address="bf700" elements="8" scaling="784128"
+><table level="1" type="2D" category="Engine Control - Fan (After Cooling)" swapxy="true" name="Low Speed Fan Disable - ECT Threshold" address="bf700" elements="8" scaling="784128_FAN_ECT"
 ><table name="BARO_6DE8" address="bf6e0" elements="8" scaling="784096" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="Engine Control - Fan (After Cooling)" swapxy="true" name="Low Speed Fan Enable - ECT Threshold" address="bf6d0" elements="8" scaling="784080"
+><table level="1" type="2D" category="Engine Control - Fan (After Cooling)" swapxy="true" name="Low Speed Fan Enable - ECT Threshold" address="bf6d0" elements="8" scaling="784080_FAN_ECT"
 ><table name="BARO_6DE8" address="bf6b0" elements="8" scaling="784048" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="Engine Control - Fan (After Cooling)" swapxy="true" name="Med Speed Fan Disable - ECT Threshold" address="bf760" elements="8" scaling="784224"
+><table level="1" type="2D" category="Engine Control - Fan (After Cooling)" swapxy="true" name="Med Speed Fan Disable - ECT Threshold" address="bf760" elements="8" scaling="784224_FAN_ECT"
 ><table name="BARO_6DE8" address="bf740" elements="8" scaling="784192" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="Engine Control - Fan (After Cooling)" swapxy="true" name="Med Speed Fan Enable - ECT Threshold" address="bf730" elements="8" scaling="784176"
+><table level="1" type="2D" category="Engine Control - Fan (After Cooling)" swapxy="true" name="Med Speed Fan Enable - ECT Threshold" address="bf730" elements="8" scaling="784176_FAN_ECT"
 ><table name="BARO_6DE8" address="bf710" elements="8" scaling="784144" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="Engine Control - Fan (After Cooling)" swapxy="true" name="High Speed Fan Disable - ECT Threshold" address="bf7c0" elements="8" scaling="784320"
+><table level="1" type="2D" category="Engine Control - Fan (After Cooling)" swapxy="true" name="High Speed Fan Disable - ECT Threshold" address="bf7c0" elements="8" scaling="784320_FAN_ECT"
 ><table name="BARO_6DE8" address="bf7a0" elements="8" scaling="784288" type="Y Axis"
 ></table
 ></table
-><table level="1" type="2D" category="Engine Control - Fan (After Cooling)" swapxy="true" name="High Speed Fan Enable - ECT Threshold" address="bf790" elements="8" scaling="784272"
+><table level="1" type="2D" category="Engine Control - Fan (After Cooling)" swapxy="true" name="High Speed Fan Enable - ECT Threshold" address="bf790" elements="8" scaling="784272_FAN_ECT"
 ><table name="BARO_6DE8" address="bf770" elements="8" scaling="784240" type="Y Axis"
 ></table
 ></table
@@ -2381,7 +2393,7 @@
 ></table
 ><table level="1" type="1D" category="Engine Limiter - RPM Fuel Cut" swapxy="true" name="RPM Fuel Cut - Resume Delta | RPM Below Limit, Resume Delay Expired" address="c49cc" elements="1" scaling="805324"
 ></table
-><table level="4" type="1D" category="Engine Limiter - Speed" swapxy="true" name="Speed Limiter - VSS Activation Threshold" address="c4924" elements="1" scaling="805156_SPD"
+><table level="4" type="1D" category="Engine Limiter - Speed" swapxy="true" name="Speed Limiter - VSS Activation Threshold" address="c4934" elements="1" scaling="805172_SPD"
 ></table
 ><table level="4" type="1D" category="Engine Limiter - Speed" swapxy="true" name="Speed Limiter - RPM Activation Threshold " address="c492c" elements="1" scaling="805164"
 ></table
@@ -3113,7 +3125,7 @@
 ></table
 ><table level="4" type="1D" category="Fuel Comp - MAF Breakpoints" swapxy="true" name="MAF Breakpoint 0 - Idle" address="d5eb4" elements="1" scaling="876212"
 ></table
-><table level="4" type="1D" category="Fuel Comp - MAF Breakpoints" swapxy="true" name="LTFT - MAF Breakpoint 1" address="d5ebc" elements="1" scaling="876220"
+><table level="4" type="1D" category="Fuel Comp - MAF Breakpoints" swapxy="true" name="MAF Breakpoint 1" address="d5ebc" elements="1" scaling="876220"
 ></table
 ><table level="4" type="1D" category="Fuel Comp - MAF Breakpoints" swapxy="true" name="MAF Breakpoint 2" address="d5ec4" elements="1" scaling="876228"
 ></table
